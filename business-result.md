@@ -1,10 +1,12 @@
 # English for International Tourism — Intermediate (Coursebook)
 
-*Tác giả: Peter Strutt · NXB Pearson, 2013 · Bản số hoá từ 128 trang scan (OCR).*
+*Tác giả: Peter Strutt · NXB Pearson, 2013 · Bản tóm tắt để học kèm sách giấy.*
 
-> ⚠️ **Audio:** sách gốc đi kèm đĩa CD. Bản PDF scan **không chứa file âm thanh**. Chỗ có bài nghe được đánh dấu 🎧; lời thoại nằm ở phần **Audio Script**.
+> 📚 **Cách dùng:** mỗi unit ở đây là một khung sườn sáu phần — Mục tiêu · Từ vựng · Ngữ pháp · Practically speaking · Key expressions · Talking point — chứ không chép lại toàn bộ bài. Số trang ghi theo bản in Pearson 2013: mở sách giấy ra làm bài tập, dùng trang này để ôn và tra nhanh.
 
-> ⚠️ **Khoảng trống OCR:** trang 60–63 (Unit 7, lesson 7.1–7.2) và trang 124–127 (Audio Script Unit 7–10) không nhận được chữ khi quét. Các mục đó chỉ còn heading.
+> 🎧 **Nghe:** phần luyện nghe được giữ nguyên. Mỗi dấu 🎧 đã gắn sẵn track tương ứng (Track 1.1 – 10.3), bấm là phát ngay. Lời thoại nằm ở phần **Audio Script**.
+
+> ⚠️ **Khoảng trống OCR:** bài 7.1–7.2 (tr. 60–63) và Audio Script của Unit 7–10 (tr. 124–128) không nhận được chữ khi quét bản PDF — hai chỗ đó tra trong sách giấy.
 
 ## Mục lục
 
@@ -13,57 +15,17 @@
   - [Introduction](#introduction)
   - [Bản đồ điểm đến](#bản-đồ-điểm-đến)
   - [Unit Menu](#unit-menu)
-- [Unit 1 — Selling dreams](#unit-1--selling-dreams)
-  - [1.1 Selling dreams — Grammar: tense review](#11-selling-dreams--grammar-tense-review)
-  - [1.2 Describing locations — Vocabulary](#12-describing-locations--vocabulary)
-  - [1.3 Marketing — Professional skills](#13-marketing--professional-skills)
-  - [1.4 Design a tour — Case study](#14-design-a-tour--case-study)
-- [Unit 2 — Getting there](#unit-2--getting-there)
-  - [2.1 Transport and travel — Vocabulary](#21-transport-and-travel--vocabulary)
-  - [2.2 Multi-word verbs — Grammar](#22-multi-word-verbs--grammar)
-  - [2.3 Dealing with the public — Professional skills](#23-dealing-with-the-public--professional-skills)
-  - [2.4 Improve a service — Case study](#24-improve-a-service--case-study)
-- [Unit 3 — Accommodation](#unit-3--accommodation)
-  - [3.1 Types of accommodation, facilities and services — Vocabulary](#31-types-of-accommodation-facilities-and-services--vocabulary)
-  - [3.2 Modal verbs — Grammar](#32-modal-verbs--grammar)
-  - [3.3 Dealing with complaints — Professional skills](#33-dealing-with-complaints--professional-skills)
-  - [3.4 Investigate customer complaints — Case study](#34-investigate-customer-complaints--case-study)
-- [Unit 4 — Destinations](#unit-4--destinations)
-  - [4.1 Weather and climate — Vocabulary](#41-weather-and-climate--vocabulary)
-  - [4.2 Features and attractions; articles — Vocabulary & Grammar](#42-features-and-attractions-articles--vocabulary--grammar)
-  - [4.3 Offering advice — Professional skills](#43-offering-advice--professional-skills)
-  - [4.4 Develop a destination — Case study](#44-develop-a-destination--case-study)
-- [Unit 5 — Things to do](#unit-5--things-to-do)
-  - [5.1 Describing attractions — Vocabulary](#51-describing-attractions--vocabulary)
-  - [5.2 Geographical features, activities; conditionals with *if* — Vocabulary & Grammar](#52-geographical-features-activities-conditionals-with-if--vocabulary--grammar)
-  - [5.3 Speaking to a group — Professional skills](#53-speaking-to-a-group--professional-skills)
-  - [5.4 Plan a coach tour — Case study](#54-plan-a-coach-tour--case-study)
+- [Unit 1 — Selling dreams](#unit-1-selling-dreams)
+- [Unit 2 — Getting there](#unit-2-getting-there)
+- [Unit 3 — Accommodation](#unit-3-accommodation)
+- [Unit 4 — Destinations](#unit-4-destinations)
+- [Unit 5 — Things to do](#unit-5-things-to-do)
 - [Review and Consolidation 1](#review-and-consolidation-1)
-- [Unit 6 — Niche tourism](#unit-6--niche-tourism)
-  - [6.1 Verbs + infinitive or *-ing* form — Grammar](#61-verbs--infinitive-or--ing-form--grammar)
-  - [6.2 Sectors in niche tourism — Vocabulary](#62-sectors-in-niche-tourism--vocabulary)
-  - [6.3 Dealing with figures — Professional skills](#63-dealing-with-figures--professional-skills)
-  - [6.4 Improve client security — Case study](#64-improve-client-security--case-study)
-- [Unit 7 — Cultural tourism](#unit-7--cultural-tourism)
-  - [7.1 Culture; linking words — Vocabulary](#71-culture-linking-words--vocabulary)
-  - [7.2 The passive — Grammar](#72-the-passive--grammar)
-  - [7.3 Taking part in meetings — Professional skills](#73-taking-part-in-meetings--professional-skills)
-  - [7.4 Present a proposal — Case study](#74-present-a-proposal--case-study)
-- [Unit 8 — Running a hotel](#unit-8--running-a-hotel)
-  - [8.1 *-ed/-ing* adjectives — Vocabulary](#81--ed-ing-adjectives--vocabulary)
-  - [8.2 *have/get something done* — Grammar](#82-haveget-something-done--grammar)
-  - [8.3 Making presentations — Professional skills](#83-making-presentations--professional-skills)
-  - [8.4 Transform the team — Case study](#84-transform-the-team--case-study)
-- [Unit 9 — Customer service](#unit-9--customer-service)
-  - [9.1 Customer service terms; personal qualities — Vocabulary](#91-customer-service-terms-personal-qualities--vocabulary)
-  - [9.2 Question forms — Grammar](#92-question-forms--grammar)
-  - [9.3 Handling telephone calls — Professional skills](#93-handling-telephone-calls--professional-skills)
-  - [9.4 Improve customer service — Case study](#94-improve-customer-service--case-study)
-- [Unit 10 — Business travel](#unit-10--business-travel)
-  - [10.1 Idioms and metaphors — Vocabulary](#101-idioms-and-metaphors--vocabulary)
-  - [10.2 Past perfect — Grammar](#102-past-perfect--grammar)
-  - [10.3 Socializing and making small talk — Professional skills](#103-socializing-and-making-small-talk--professional-skills)
-  - [10.4 The Trade Fair Game — Game](#104-the-trade-fair-game--game)
+- [Unit 6 — Niche tourism](#unit-6-niche-tourism)
+- [Unit 7 — Cultural tourism](#unit-7-cultural-tourism)
+- [Unit 8 — Running a hotel](#unit-8-running-a-hotel)
+- [Unit 9 — Customer service](#unit-9-customer-service)
+- [Unit 10 — Business travel](#unit-10-business-travel)
 - [Review and Consolidation 2](#review-and-consolidation-2)
 - [Writing Bank](#writing-bank)
   - [Brochure descriptions](#brochure-descriptions)
@@ -72,35 +34,35 @@
   - [Minutes of a meeting](#minutes-of-a-meeting)
   - [Emails](#emails)
   - [Programme description](#programme-description)
-  - [Reports · Responding to a complaint](#reports--responding-to-a-complaint)
+  - [Reports · Responding to a complaint](#reports-responding-to-a-complaint)
 - [Pairwork Files](#pairwork-files)
-  - [File 1 — Unit 1, p.11](#file-1--unit-1-p11)
-  - [File 2 — Unit 4, p.39](#file-2--unit-4-p39)
-  - [File 4 — Unit 9, p.83](#file-4--unit-9-p83)
-  - [File 5 — Unit 1, p.11](#file-5--unit-1-p11)
-  - [File 6 — Unit 2, p.21](#file-6--unit-2-p21)
-  - [File 7 — Unit 7, p.63](#file-7--unit-7-p63)
-  - [File 10 — Unit 8, p.75](#file-10--unit-8-p75)
-  - [File 13 — Unit 9, p.81](#file-13--unit-9-p81)
-  - [File 15 — Unit 5, p.46](#file-15--unit-5-p46)
-  - [File 16 — Unit 9, p.83](#file-16--unit-9-p83)
-  - [File 17 — Unit 7, p.65](#file-17--unit-7-p65)
-  - [File 19 — Unit 4, p.37](#file-19--unit-4-p37)
-  - [File 18 — Unit 7, p.67](#file-18--unit-7-p67)
-  - [File 20 — Unit 9, p.79](#file-20--unit-9-p79)
-  - [File 21 — Unit 2, p.21](#file-21--unit-2-p21)
-  - [File 22 — Unit 4, p.37](#file-22--unit-4-p37)
-  - [File 23 — Unit 8, p.70](#file-23--unit-8-p70)
-  - [File 24 — Unit 4, p.39](#file-24--unit-4-p39)
-  - [File 25 — Unit 7, p.65](#file-25--unit-7-p65)
-  - [File 26 — Unit 9, p.81](#file-26--unit-9-p81)
+  - [File 1 — Unit 1, p.11](#file-1-unit-1-p11)
+  - [File 2 — Unit 4, p.39](#file-2-unit-4-p39)
+  - [File 4 — Unit 9, p.83](#file-4-unit-9-p83)
+  - [File 5 — Unit 1, p.11](#file-5-unit-1-p11)
+  - [File 6 — Unit 2, p.21](#file-6-unit-2-p21)
+  - [File 7 — Unit 7, p.63](#file-7-unit-7-p63)
+  - [File 10 — Unit 8, p.75](#file-10-unit-8-p75)
+  - [File 13 — Unit 9, p.81](#file-13-unit-9-p81)
+  - [File 15 — Unit 5, p.46](#file-15-unit-5-p46)
+  - [File 16 — Unit 9, p.83](#file-16-unit-9-p83)
+  - [File 17 — Unit 7, p.65](#file-17-unit-7-p65)
+  - [File 19 — Unit 4, p.37](#file-19-unit-4-p37)
+  - [File 18 — Unit 7, p.67](#file-18-unit-7-p67)
+  - [File 20 — Unit 9, p.79](#file-20-unit-9-p79)
+  - [File 21 — Unit 2, p.21](#file-21-unit-2-p21)
+  - [File 22 — Unit 4, p.37](#file-22-unit-4-p37)
+  - [File 23 — Unit 8, p.70](#file-23-unit-8-p70)
+  - [File 24 — Unit 4, p.39](#file-24-unit-4-p39)
+  - [File 25 — Unit 7, p.65](#file-25-unit-7-p65)
+  - [File 26 — Unit 9, p.81](#file-26-unit-9-p81)
 - [Grammar Reference](#grammar-reference)
   - [Tense review](#tense-review)
   - [Multi-word verbs](#multi-word-verbs)
   - [Modal verbs](#modal-verbs)
   - [Articles](#articles)
   - [Conditional sentences with if](#conditional-sentences-with-if)
-  - [Verb + infinitive or -ing form](#verb--infinitive-or--ing-form)
+  - [Verb + infinitive or -ing form](#verb-infinitive-or--ing-form)
   - [The passive](#the-passive)
   - [have/get something done](#haveget-something-done)
   - [Asking questions](#asking-questions)
@@ -238,7 +200,7 @@ Private study
 
 Workbook: A separate Workbook with a CD provides you with extra tasks for study at home or in class. There are two versions of the Workbook — one with the answer key for private study and one without a key which can be used by the teacher for extra practice in class. DVD-ROM: The course has a DVD-ROM designed to be used alongside the Coursebook or as a free-standing video for private study. The DVD-ROM is attached to
 
-🎧 the back of the Coursebook and provides you with five authentic films featuring different aspects of tourism. Each film has a printable worksheet, a transcript and a key to the exercises. These films give you the opportunity to listen to a variety of native and non-native speakers using English as an international language in five authentic documentary films. Additionally, the DVD-ROM has a comprehensive Mini-dictionary featuring over 300 tourism- related terms along with their definitions, pronunciation and example sentences. The DVD-ROM also contains the MP3 files of the Coursebook audio material.
+the back of the Coursebook and provides you with five authentic films featuring different aspects of tourism. Each film has a printable worksheet, a transcript and a key to the exercises. These films give you the opportunity to listen to a variety of native and non-native speakers using English as an international language in five authentic documentary films. Additionally, the DVD-ROM has a comprehensive Mini-dictionary featuring over 300 tourism- related terms along with their definitions, pronunciation and example sentences. The DVD-ROM also contains the MP3 files of the Coursebook audio material.
 
 Professional exams
 
@@ -424,1950 +386,488 @@ Game: The Trade Fair Game p. 90-91
 
 ## Unit 1 — Selling dreams
 
-> - **Grammar:** Tense review — present and past tenses
-> - **Vocabulary:** Money matters · Describing locations · Working out the price of a package
-> - **Professional skills:** Marketing
-> - **Case study:** Design a tour
+> **Sách giấy tr. 8–15** · Grammar: tense review · Vocabulary: money matters, describing locations · Professional skills: marketing · Case study: design a tour
 
-### 1.1 Selling dreams — Grammar: tense review
+### 1. Mục tiêu
 
-#### Speaking — Dream vacations
+- Kể và viết về một điểm đến bằng đúng hệ thống thì: hiện tại, quá khứ, hiện tại hoàn thành và bị động.
+- Dùng cụm **tính từ + danh từ** để mô tả cảnh quan cho brochure sao cho hấp dẫn, không sáo rỗng.
+- Nhận ra những từ vừa là động từ vừa là danh từ trong ngành: *launch, market, package, tour, boom, demand*.
+- Phân tích một sản phẩm du lịch theo **marketing mix — bốn chữ P**.
+- Thiết kế, tính giá và thuyết trình một package tour; viết mô tả cho brochure.
 
-1. What kinds of ‘dream’ could be associated with each photo, e.g. adventure, luxury, fun, relaxation?
+### 2. Từ vựng
 
-#### Listening — Selling the Hawaiian dream 🎧
+#### Money matters
 
-2. 🎧 “> vy-Anh Nguyen is a student of tourism in California. Listen to her interview Teresa Koh from the Hawaii Tourism Authority. What are the FOUR main things she wants to know?
+- boom *(n/v)* — bùng nổ · demand *(n/v)* — nhu cầu · supply — nguồn cung
+- profit margin — biên lợi nhuận · commission — hoa hồng · discount — giảm giá
+- cost *(v)* — tính giá thành · valuation — định giá · package *(v)* — gộp thành gói
 
-3. 🎧 Listen again and answer the questions.
+**Từ vừa là động từ vừa là danh từ:** *launch* (ra mắt / lễ ra mắt), *market* (tiếp thị / thị trường), *package* (đóng gói / bưu kiện, gói tour), *tour* (đi vòng quanh / chuyến tham quan), *boom*, *demand*.
 
-1. What question did the survey ask American travellers?
+#### Descriptive adjective + noun (nhặt từ brochure Hawaii)
 
-2. What did the survey show about Hawaii?
+- snow-capped mountains · dramatic cliffs · exotic wildlife · clear blue waters
+- unspoiled tranquillity · spectacular volcano · secluded beaches · isolated villages
+- off-the-beaten-track destinations · romantic escapades · endless itineraries
 
-3. Put these markets in order of importance for the tourism industry in Hawaii.
+#### Tính từ theo từng danh từ
 
-__Canada  _ Oceania __Europe __USA(Westcoast) __ Japan ___USA (East coast)
+| Danh từ | Tính từ thường đi kèm |
+| --- | --- |
+| beach | sandy · golden · deserted |
+| mountains | steep · spectacular · majestic · scenic · surrounding |
+| volcano | active · dormant · extinct |
+| road | winding · steep |
+| village | remote · pretty · quiet |
+| accommodation | luxurious · comfortable · spacious |
 
-4. Complete the profile of the two types of luxury traveller. a Rich baby boomers are typically and about the experience they want.
+**Nâng cấp từ cho văn brochure:** nice → *white sandy* · decent → *luxury* · of a high standard → *second to none* · lovely → *perfect* · clear → *sparkling* · green → *lush* · high → *cascading* · good views → *spectacular* · pleasant walks → *scenic* · different → *exotic*.
 
-b Young professionals have but very little
+**Marketing:** tangible ↔ intangible (sờ được ↔ không sờ được) · perishable ↔ imperishable (hỏng theo thời gian ↔ không) · target market · brand image · channels of distribution · sales promotion · value for money · unique selling point.
 
-5. What does the special Hawaii travel agent programme teach agents to do?
+**KEY WORDS (sách):** attraction · boom · accommodation · brochure · consultant · destination · launch · market · promote · resort · supplier · package tour · costing · demand.
 
-**SELLING DREAMS**
+### 3. Ngữ pháp
 
-— : a) F GRAMMAR . m , ‘ E&
+#### Tense review — ôn hệ thống thì (Grammar reference tr. 113)
 
-1. Use the present simple to talk about facts and 3 Use the present perfect to talk about a situation = situations that are generally true and the present that began in the past and that either continues in Fe continuous to describe ongoing projects and the present or is relevant to the present moment. @ temporary events. Compare these sentences: She’s been with us for five years. She’s worked 0 Globally, TU! Travel employs over 590,000 people. on many different projects. a re 2 . | T They're developing new products all the time. 4 Use the passive when it is not known or it is not >
+- **Present simple** — sự thật, điều luôn đúng: *Globally, TUI Travel employs over 590,000 people.*
+- **Present continuous** — dự án đang chạy, việc tạm thời: *They're developing new products all the time.*
+- **Past simple** — mốc hoặc khoảng thời gian xác định trong quá khứ: *Thomas Cook organized the first package tour in 1841.*
+- **Past continuous** — bối cảnh đang diễn ra trong quá khứ: *People were travelling abroad more often.*
+- **Present perfect** — bắt đầu trong quá khứ, còn kéo dài hoặc còn liên quan tới hiện tại: *She's been with us for five years. She's worked on many different projects.*
+- **Passive** — khi không biết hoặc không quan trọng ai làm: *The national park was established in 2008. The area has been developed as a holiday destination.*
 
-2. Use the past simple to refer to a definite moment important who performs an action. Compare: = Sp)
+Mẹo làm bài điền lịch sử Thomson/TUI: mỗi chỗ trống hỏi hai câu — việc này xảy ra ở một mốc cụ thể hay còn liên quan đến hiện tại? Chủ ngữ làm hay bị làm?
 
-or period in the past and the past continuous to describe an ongoing situation in the past. Compare:
+### 4. Practically speaking
 
-Thomas Cook organized the first package tour in 1841.
+#### Phân tích marketing mix — bốn chữ P
 
-People were travelling abroad more often.
+1. **Product** — Sản phẩm nhắm tới ai? Tính năng độc đáo là gì? Có thêm bảo hiểm, excursion tuỳ chọn không?
+2. **Place** — Khách tìm thấy sản phẩm ở đâu? Kênh phân phối nào tốt nhất? Vị trí có phải yếu tố quyết định?
+3. **Promotion** — Xây hình ảnh thương hiệu nào? Direct marketing hay sales promotion? Kênh quảng cáo nào hợp?
+4. **Price** — Yếu tố nào chi phối chính sách giá? Thị trường chịu được mức nào? Có giảm giá hay chênh lệch theo vùng?
 
-The national park was established in 2008. The area has been developed as a holiday destination.
+Đặc thù cần nhớ: sản phẩm du lịch **intangible** (khách mua trước khi thấy) và **perishable** (một đêm phòng trống là mất hẳn doanh thu đêm đó) — nên khuyến mãi và quản trị tồn kho khác hẳn hàng hoá thường.
 
-See Grammar reference, page 113.
+### 5. Key expressions
 
-a
+#### Mô tả điểm đến
 
-4. Study the Grammar box and complete the history of Thomson/TUI with the correct active or passive form of the verbs in brackets. aa Thomson/TUI — Packaging dreams The history of Thomson Holidays ' (begin) © (launch) on the London Stock Exchange in in 1965, when the entrepreneur Lord Thomson 1998 with a valuation of £1.7 billion. The group (buy) three travel companies — Britannia u (acquire) by a German corporation in 2000 Airways, Riviera Holidays and Skytours. It was the and renamed TUI AG. Thomson Holidays then right time to invest in tourism. Over the previous : (become) part of TU! UK. decade, demand for holidays in the sun had risen Despite intense competition, TUI UK's market share steadily and the package holiday industry 2 (grow) and the company has continued to : (boom). Lord Thomson continued to develop | be successful. Recently, the group ' (launch) the concept and 4 (introduce) winter sun and | anew graduate training development programme, cruise package holidays to the UK mass market. which is considered to be one of the best in the In 1972, the three travel companies were merged | industry. Thomson " still (package) into one company — the Thomson Travel Group — dreams for the mass market at the beginning of the and the brand name ‘Thomson Holidays’ 21st century and if you "2 (look) for a career in : (create). The Thomson Travel Group tourism, it could be a good place to start. Ne sy
+- *The Hawaiian archipelago is a tropical paradise.*
+- *Big Island boasts the world's most active volcano.*
+- *…with a wide choice of accommodation ranging from condominiums to luxury villas.*
+- *…with stunning views of the surrounding mountains.*
+- *Comfort and hospitality that are second to none.*
+- *You can do it all, or you can simply sit back and do nothing.*
 
-#### Vocabulary — Verbs and nouns
+#### Hỏi về một package
 
-5. Some common travel and tourism words from these pages are both verbs and nouns. Complete the pairs of sentences below with the correct verb/noun pairs in the box.
+- *What is the name of the destination?* · *How do visitors get there?*
+- *What are its geographical features?* · *Where do visitors stay?*
+- *What is the main leisure activity?* · *What does the package consist of?* · *How much does it cost?*
 
-launch market package tour )
+#### Câu hỏi marketing
 
-1. There's a package waiting for you in reception. The role of a tour operator is to package transport, accommodation and activities into one product.
+- *Who is the product aimed at?* · *What needs and wants does it satisfy?*
+- *How can potential customers best be targeted?* · *What price will the market bear?*
+- *Will there be local or national variations?*
 
-2 The
+### 6. Talking point
 
-In order to
+- Mỗi bức ảnh mở đầu unit gợi ra "giấc mơ" nào — phiêu lưu, xa xỉ, vui chơi hay nghỉ ngơi?
+- Vào brochure online của một hãng lớn (Thomson, Kuoni, Thomas Cook), chọn một điểm đến và liệt kê mọi cụm *adjective + noun* họ dùng để tả nơi đó, cơ sở vật chất và hoạt động.
+- Roleplay ba người: bạn là travel consultant độc lập, hai bạn còn lại là tour operator muốn mời bạn làm đại lý (gói Ang Thong và gói Vanuatu). Dùng bộ câu hỏi ở mục 5 để khai thác, rồi chọn gói hấp dẫn nhất.
+- Phân tích đủ bốn chữ P cho một gói tour bạn chọn, kèm khuyến nghị riêng, rồi trình bày trước lớp.
+- **Case study:** lên itinerary trọn bảy ngày và tính giá gói cưới Virgin Islands cho Rafael Martinez & Keitko Takatsu (20 khách từ New York và Tokyo) — nhớ chừa profit margin. Sau đó viết mô tả *Our Virgin Islands wedding package* 200–250 từ cho brochure Evermore Tours (mẫu ở Writing bank tr. 96).
 
-( boom demand for cruises aimed at the under-40s segment is growing.
+### Luyện nghe
 
-the destination, we need to identify its unique features and selling points.
-
-3. The programme includes a guided ____ around the Kennedy Space Center. The Japanese group wish to___ around Europe for two weeks.
-
-4. The in eco-tourism has created job opportunities.
-
-The Chinese market will probably continue to over the next ten years.
-
-51 ____ to see the manager now. | will not take ‘no’ for an answer.
-
-Like every industry, tourism is based on supply and___
-
-6. They have decided to
-
-Journalists have been invited to the of the tour operator's own TV channel.
-
-a new advertising campaign to boost sales.
-
-### 1.2 Describing locations — Vocabulary
-
-Q Hawaii a Niihau & a si
-
-LU
-
-Y
-
-Location: 4,000 kilometres southwest of
-
-San Francisco
-
-Population: 1,374,850
-
-Capital:
-
-Honolulu. Hawaii is the only US state made up entirely of islands
-
-Two seasons: ‘summer’ May—October ‘winter’ October—April
-
-**NICARAGUA**
-
-**COSTA RICA,**
-
-**PANAMA’**
-
-**COLOMBIA**
-
-**© ECUADOR ~}**
-
-#### Vocabulary — Descriptive adjectives and nouns
-
-1. Read the text from a brochure about Hawaii. Find and underline all the combinations of descriptive adjective + noun.
-
-Your First Trip to Hawaii
-
-The Hawaiian archipelago is a tropical paradise: the snow-capped mountains, dramatic cliffs and exotic wildlife on Kauai, the clear blue waters of Waikiki Beach on Oahu, the unspoiled tranquillity of Lanai and Molokai, and the spectacular Kilauea volcano on Hawaii's Big Island. It won't be easy choosing which island to visit on your first trip but you'll find there are no wrong answers.
-
-Explore off-the-beaten-track destinations, from secluded beaches to isolated villages that you won't find on a postcard. Learn to surf, snorkel or kayak and earn your Hawaiian suntan. You'll find the itineraries on Hawaii are endless. From romantic escapades to family fun, from whale-watching to walking on a volcano, you can do it all or you can simply sit back and do nothing. Explore Hawaii's six unique islands and you’re sure to find your first trip to Hawaii won't be your last.
-
-2. Work in pairs. Think of at least TWO more adjectives to describe the following nouns from the text. The adjectives must be positive and you can’t use the same adjective for more than one noun. Share your ideas with the class.
-
-1. beach 2 mountain dictionary to help you.
-
-3. island 4 water
-
-5. suntan 6 village
-
-Match the nouns in the box with ONE of the sets of adjectives 1-6 below. Use a accommodation beach mountains road village volcano
-
-1 2 3 4 5 6
-
-sandy spectacular active remote luxurious steep deserted surrounding dormant pretty comfortable — scenic golden majestic extinct quiet spacious winding
-
-**TROPICAL PARADISE**
-
-4. 🎧 ©) =) Put the adjectives from Exercise 3 into the correct group according to their stress pattern. Then listen and check your answers. Repeat the words.
-
-10. 200 300 | 4000 | 50000) 6Hoo | steep sandy extinct
-
-X |
-
-5. The adjectives in bold in the text are in the wrong place. Put them in the right places.
-
-active A Big Island holiday is truly inspiring. It boasts the world’s most ‘eset volcano and more than 80 beaches, some of which are 2active and difficult to access down 3Juxurious winding roads. There's a wide choice of accommodation ranging from reasonably-priced condominiums to ‘surrounding villas in ‘steep villages with stunning views of the deserted mountains.
-
-#### Writing — Adding interest
-
-6. The extract below is correct but can be made more attractive to the reader. Replace the words in italics with the words in the box. Use each word once only.
-
-cascading exotic lush luxury perfect scenic second to none sparkling spectacular white sandy
-
-Koh Samui Weddings
-
-Getting married in Koh Samui is a dream come true. This ‘different destination, where the 2nice beaches fringed with coconut palms and ®decent hotels offering comfort and hospitality that are ‘of a high standard is a ‘lovely place for you and your loved one to celebrate your wedding. Swim in the °clear lagoons, stroll in the green tropical gardens and trek out to the ®high waterfalls of Na Muang, and enjoy the °good views and "pleasant walks. NX a
-
-#### Speaking — Dream package tours
-
-7. Work in groups of three. Student A, look at the information below. Student B, turn to File 1, page 102. Student C, turn to File 5, page 104.
-
-You are an independent travel consultant. Students B and C are tour operators who want to recruit you as an agent for the package they have on offer. Use the questions below to help you find out more about each package. Choose the one that sounds the best and most attractive.
-
-**INTERNATIONAL OPERATORS**
-
-Choose a destination from the online brochure of a major international operator, e.g.
-
-¢ What is the name of ¢ What is the main leisure Thomson, Kuoni, Thomas Cook. the destination? activity? Look at some of the holidays e How do visitors get ¢ What are the other available to this destination and there? attractions? list the adjective + noun phrases e What are its geographical e What does the package used to describe the place, features? consist of? facilities and activities on offer.
-
-e Where do visitors stay? ¢ How much does it cost? Nig =a
-
-### 1.3 Marketing — Professional skills
-
-#### Listening — The marketing mix 🎧
-
-1. Kenji Ischikawa is a specialist in the promotion of tourism products. He is giving a talk on the subject of ‘the four Ps’ in the marketing mix. Before you listen, match
-
-the adjectives with the meanings. Use a dictionary to help you.
-
-1. tangible (adj) a It goes bad and you can’t use it after a certain time, e.g. fresh food.
-
-2. intangible (adj)
-
-hotel building.
-
-3. perishable (adj) otel building b You can see and touch it, e.g. an object such as a car or a c It doesn't go bad with time, e.g. tinned food.
-
-4. imperishable (adj) | d You can't see or touch it, e.g. an idea or a service.
-
-2. 🎧 |). => Listen to the first part of the talk. Which two ‘Ps’ is Kenji Ischikawa
-
-talking about? Complete the first column in the table.
-
-3. 🎧 ©) Listen again and complete the examples in the second column.
-
-( The marketing mix Examples P tangible: intangible: perishable: P in the past: at present: X
-
-What other examples of intangible and perishable products can you think of?
-
-remaining two ‘Ps’ and the examples.
-
-🎧 ©) Listen to the second part of the talk. Complete the table with the
-
-The marketing mix Examples P direct marketing: sales promotions: P value for money: competition: he
-
-5. Which of the four Ps do the questions 1-8 relate to? Write each question under the correct heading in the Professional skills box.
-
-1. Whetaretstateteteatures?
-
-2. Is location a key factor?
-
-3. What are the best channels of distribution?
-
-4. What kind of discounts will there be?
-
-5. What needs and wants does it satisfy?
-
-6. How can potential customers best be targeted?
-
-7. How will competing products affect whatever is charged?
-
-8. What is the most suitable type of media for advertising the product?
-
-**PROFESSIONAL SKILL**
-
-1 The product
-
-_ Who is the product aimed at? What extra features should it include: insurance, optional excursions, etc.? What are its unique features?
-
-2. The place Where can customers find out about the product?
-
-3. The promotion What sort of brand image should be created?
-
-_ 4 The price
-
-What factors influence the pricing policy? | What price will the market bear?
-
-| Will there be local or national variations?
-
-**MARKETING MIX ANALYSIS**
-
-6. Work in pairs or small groups. Choose a holiday 2 Decide which target market the package caters package to analyse. EITHER use the Ang Thong for best. Prepare a full profile of the four Ps — the or the Vanuatu tropical paradise packages on product, place, promotion and price — for this pages 102 and 104 OR find a package on the product. Use your own ideas and make your own internet. recommendations.
-
-1. Analyse the marketing mix for the package. Discuss the marketing mix questions from Exercise 5.
-
-Ang Thong
-
-3. Present your ideas to the class.
-
-### 1.4 Design a tour — Case study
-
-**CASE 5 PRIDDY**
-
-**DESIGN A TOUR**
-
-Aim: To put together and present a wedding package in the Virgin Islands.
-
-1. 🎧 Read about a wedding and honeymoon package tour operator. Listen to a discussion about a wedding package.
-
-2
-
-3. Read the customer and supplier profiles.
-
-4. Cost a package for the customers. Present it to the class.
-
-Evermore Tours brochure
-
-4. Read the extract from the brochure of Evermore Tours. What does the company do?
-
-ee )
-
-**EVERMORE TOURS**
-
-Evermore Tours offers you the opportunity to pledge your love for one another, surrounded by family and friends, in one of the world’s most beautiful are famous for * their fantastic, palm-fringed beaches and amazing scenery. We take away all the stress of organizing the most important day of your life, leaving you free to make the oe locations. 2 You say ‘| do’ aribbean ee Lae Atlantic e rest. The °
-
-**HAMAS**
-
-Virgin Islands * Bed Ocean oy
-
-**DOMINICAN**
-
-**REPUBLIC**
-
-wasn {FPLC _ rc
-
-**PUERTO**
-
-**RICO**
-
-most of the experience and all at a cost that might just surprise you. Not only are our all-in weddings stress-free but you might be surprised to find that they can cost much less than a wedding at home. )
-
-We
-
-The wedding package
-
-2. ©))T=> The owners of Evermore Tours are meeting to finalize the contents of
-
-🎧 their Virgin Islands package. Listen and tick (/) the topics they discuss. __ transport __ legal requirements
-
-__ guest list — FA@s
-
-__ pricing __ the wedding co-ordinator
-
-___ accommodation __ cost of weddings abroad
-
-3. 🎧 r ))) J Listen again. Are the statements true (T) or false (F)?
-
-1. The couple and guests will arrange and pay for their own flights. T/ F
-
-2. Evermore Tours have already costed the price of local transport. T / F
-
-3. They want to make a profit margin of 30%. T/F
-
-4. Awedding abroad is only about 13% more expensive than at home. T/F
-
-5. All payments will be made in the same currency. T /F
-
-**CASE STUDY DESIGN A TOUR**
-
-We would like to invite 20 people from our friends and family in New York and Tokyo to come to our wedding. We want them to share our special day with us and also give them a holiday to remember ...
-
-Look at the customer profile and requirements. Put together an Evermore Tours wedding package for Rafael Martinez and Keitko Takatsu.
-
-1. Design an itinerary for the whole seven days of the package. Remember to include:
-
-¢ arrival and departure times _« itinerary for the wedding day * services and extras + details of accommodation _e details of wedding ceremony « description of location and venue
-
-2. Work out the total price Evermore Tours should charge. Remember to allow a comfortable profit margin.
-
-3. Present your package to the class. Describe what will happen on each day. Remember to make it sound as attractive as possible. Bz Mog > Clearwater Beach Hotel Virgin Flowers Inc 7-night package for two persons includes: Wedding bouquets - $200-$350 ¢ 7 nights in a deluxe studio with king-size [ Bridesmaids’ bouquets - $100-$150 bed, private bathroom and balcony with eZ ocean and garden views 7 ~ ¢ Full breakfast and candlelit evening meal on Mamadoo the terrace ae : : Price: $6,650 Virgin Island Catering Services (the manager said he could give us a Wedding Specialists ft 20% discount) Wedding cake: $10 per person — minimum $50 = Buffet meal: $60-$95 per person a Ve ce Virgin Islands of the United Z 5 States Clearwater Beach Resort Marriage licence fee —- $125 7 nights, $1,490 per apartment. 4 guests per Fee for ceremony — $150 apartment. A daily maid service. All hotel \ services and sport facilities are available free a of charge. ° ° \. ) Leilani McCleary — Photographer | 2-hour photoshoot — $500, $135 for aoe each additional hour. This includes a Wedding Dreams custom-designed CD. Let us create your own website for invitations > — and a photo album — $250.
-
-Writing a description for a brochure
-
-**KEY WORDS >**
-
-4. Write a description of ‘Our Virgin Islands wedding
-
-package’ for the Evermore Tours brochure
-
-(200-250 words). Use the model in the Writing bank on page 96 to help you.
-
-attraction boom accommodation brochure consultant destination launch market promote resort supplier
-
-See DVD-ROM Mini-dictionary package tour costing demand
+- 🎧 **Track 1.1** — Vy-Anh Nguyen phỏng vấn Teresa Koh (Hawaii Tourism Authority). Lần 1: bốn điều cô muốn biết. Lần 2: khảo sát hỏi gì, xếp thứ tự các thị trường nguồn, chân dung hai nhóm khách cao cấp, chương trình đào tạo đại lý dạy gì.
+- 🎧 **Track 1.2** — Trọng âm của tính từ mô tả (*steep, sandy, extinct*…). Tự xếp nhóm theo stress pattern trước, rồi nghe kiểm tra và nhắc lại.
+- 🎧 **Track 1.3** — Kenji Ischikawa nói về marketing mix, phần 1: hai chữ P đầu tiên và ví dụ kèm theo.
+- 🎧 **Track 1.4** — Phần 2 bài nói: hai chữ P còn lại (direct marketing, sales promotions / value for money, competition).
+- 🎧 **Track 1.5** — Chủ Evermore Tours họp chốt nội dung gói cưới Virgin Islands: tick những chủ đề được bàn, rồi trả lời năm câu True/False.
 
 ## Unit 2 — Getting there
 
-> - **Grammar:** Multi-word verbs
-> - **Vocabulary:** Transport and travel
-> - **Professional skills:** Dealing with the public
-> - **Case study:** Improve a service
+> **Sách giấy tr. 16–23** · Grammar: multi-word verbs · Vocabulary: transport and travel · Professional skills: dealing with the public · Case study: improve a service
 
-### 2.1 Transport and travel — Vocabulary
+### 1. Mục tiêu
 
-Grammar: multi-word verbs Vocabulary: transport and travel Professional skills: dealing with the public
+- So sánh ưu và nhược của từng phương tiện (air, rail, coach, car hire) và tư vấn đúng theo loại khách.
+- Dùng thuật ngữ road / rail / air / sea, hiểu và đọc được thông báo hành trình.
+- Dùng multi-word verbs khi kể lại một chuyến đi.
+- Xử lý khách bực bội theo bộ quy tắc *Do* và *Don't*.
+- Cân đối giữa cắt chi phí và giữ chất lượng dịch vụ ở một hãng bay giá rẻ; viết biên bản họp.
 
-Case study: improve a service
+### 2. Từ vựng
 
-#### Vocabulary — Means of transport
+**Tiêu chí chọn phương tiện:** comfort · flexibility · price · productive use of time during the journey · punctuality · safety · speed.
 
-1. What is important when choosing a means of transport? Put the criteria in the box in order of importance for the following travellers:
+#### Thuật ngữ theo loại hình
 
-1. student backpacker
+| Rail | Air | Sea | Road |
+| --- | --- | --- | --- |
+| platform (sân ga) | runway (đường băng) | deck (boong) | carriageway (làn đường) |
+| carriage (toa) | departure lounge | harbour (bến cảng) | roundabout (vòng xuyến) |
+| dining car (toa ăn) | baggage claim | purser (quản trị viên tàu) | toll bridge (cầu thu phí) |
+| sleeper (toa giường nằm) | jetlag | ashore (lên bờ) | traffic lights |
+| signals (tín hiệu) | stopover (chặng dừng) | starboard (mạn phải) | petrol station |
 
-2. frequent business traveller 3 family with two children
+**Vấn đề khi đi lại:** delay · traffic congestion · on-board catering · excess baggage · short-haul flight · stranded (mắc kẹt) · door-to-door · berth (giường nằm) · board (lên phương tiện).
 
-[ comfort flexibility price productive use of time during the journey punctuality safety speed
+**Nghề trong ngành hàng không:** entry-level employee · internal promotion structure · travel pass · standby ticket · physically demanding · without a break · interpersonal skills · a high level of customer care · career opportunities.
 
-2. Look at the texts about the advantages and the disadvantages of different forms of transport.
+**Air rage và nguyên nhân:** ticket restrictions · staff shortages · excess baggage charges · long queues at check-in · the small print · low-cost carrier · abusive customers.
 
-1. Which form of transport does each text refer to — air, rail, coach or car hire? Does it state advantages or disadvantages?
+**KEY WORDS (sách):** baggage claim · benefit · berth · board · catering · check-in · coach · congestion · delay · departure lounge · excess baggage · platform · short-haul flight · speed · stranded.
 
-2. Write the titles for each text as in the example.
+### 3. Ngữ pháp
 
-A The disadvantages of air travel
+#### Multi-word verbs (phrasal verbs) (Grammar reference tr. 114)
 
-Delays are frequent. You have to follow complicated procedures before departure and can only usually travel between big cities.
+- **Không có tân ngữ:** *set off* (khởi hành) · *break down* (hỏng máy) · *turn up* (xuất hiện, tới nơi) · *hang around / hang about* (chờ vạ vật) · *take off* (cất cánh).
+- **Tách được:** hạt có thể đứng trước hoặc sau tân ngữ — *Could you fill in this form?* = *Could you fill this form in?* Nhưng nếu tân ngữ là đại từ thì hạt **bắt buộc** đứng sau: *He dropped me off at the station.* (không nói *dropped off me*)
+- **Không tách được:** hạt luôn bám ngay sau động từ — *She looked for her ticket.*
+- **Hai hạt:** *look forward to* (mong chờ) · *get on with somebody* (hợp tính với ai) · *get through to somebody* (gọi được cho ai).
 
-B
+**Bộ động từ của unit:** break down · drop off · fill in · find out · get on · get on with · get through · hang about · hold up · pick up · put up · set off · take off · turn up.
 
-You can travel door-to-door and it’s relatively inexpensive. Departure and arrival times are flexible and you can easily change your route. Transporting luggage is also easy and painless.
+### 4. Practically speaking
 
-Cc
+#### Dealing with the public — tiếp khách đang bực
 
-This is a very safe form of transport where accidents are rare. It is high-speed for international trips and passengers can work while travelling. The cost per mile is usually competitive. Catering is often provided.
+#### Đừng
 
-D
+- Ngắt lời khách; kiên nhẫn đợi họ nói hết.
+- Cãi nhau với khách, hoặc cãi nhau với đồng nghiệp trước mặt khách.
+- Bao biện, ngay cả khi lỗi không phải của bạn.
 
-Traffic congestion is a risk and accidents are more frequent than for many other forms of transport. Passengers cannot work while travelling.
+#### Hãy
 
-E
+- Lắng nghe chủ động: dừng việc đang làm và nhìn vào khách trong lúc họ nói.
+- Đặt câu hỏi để làm rõ dữ kiện hoặc lấy thông tin còn thiếu.
+- Thể hiện đồng cảm — nói cho khách biết bạn hiểu họ đang cảm thấy thế nào.
+- Trấn an bằng một cam kết cụ thể, dùng cấu trúc *I'll…* hoặc *We'll…*
 
-It doesn’t cover all destinations so you may have to use other means of transport to complete the journey. You have to carry and manage your own luggage on board and it's generally more expensive than road travel.
+### 5. Key expressions
 
-F
+#### Trấn an khách
 
-Traffic congestion is a risk and it is a relatively slow form of transport. There isn’t usually any on-board catering and you can’t move around the vehicle. It’s not very comfortable for longer journeys.
+- *I'll find out for you.* · *We'll look into it for you.*
+- *I understand how you feel.* · *Let me see what I can do.*
 
-G
+#### Thông báo hành trình
 
-Tickets are usually relatively cheap and the network covers many destinations. It’s a low stress way of travelling and a flexible means of transport that you can use to visit several attractions in a region.
+- *Please mind the gap between the train and the platform when leaving the train.*
+- *Will all passengers for flight BA5074 to Cairo please make their way to the departure lounge.*
+- *Passengers arriving from Brussels please proceed to the baggage claim.*
+- *The captain invites all first-class passengers to join him for cocktails on the upper deck.*
+- *At the first roundabout, take the third exit.*
 
-H
+#### Kể chuyện đi lại bằng phrasal verbs
 
-It's a relatively comfortable way to travel and high inter-city speeds are possible. Passengers can work while travelling and it’s comparatively stress-free.
+- *We set off really early for the airport.* · *A lorry had broken down and blocked an exit.*
+- *We were held up for more than an hour.* · *My flight had already taken off.*
+- *I had to hang about for ages.* · *I couldn't get through to the Prague office.*
+- *There was no one to pick me up.* · *They put me up in a really good hotel.*
+- *I got on really well with the people I met.*
 
-#### Listening — Transport in China 🎧
+### 6. Talking point
 
-3. 🎧 ©)2)> Listen to a tourist : 62, SS Russian
+- Xếp thứ tự các tiêu chí chọn phương tiện cho ba nhóm: sinh viên đi bụi, khách công vụ đi thường xuyên, gia đình có hai con nhỏ.
+- Tàu, xe khách và máy bay ở nước bạn so với Trung Quốc thì thế nào? Bạn khuyên gì với khách định đi sáu tuần vòng quanh đất nước — chỗ ngủ trên chặng đêm, an toàn, tắc đường, hành lý, trễ chuyến, suất ăn trên phương tiện?
+- Kể cho bạn học nghe một chuyến đi của bạn, cố dùng càng nhiều phrasal verb ở mục 3 càng tốt.
+- Một Customer Services Manager của hãng bay sẽ làm gì khi: chuyến bay overbooking và hai khách không lên được máy bay; chuyến bị huỷ vì thời tiết và 250 khách kẹt lại sân bay; một khách hoảng loạn ở phòng chờ ngay trước giờ bay.
+- **Case study:** họp ban quản lý CheapSky theo agenda — xử lý air rage, ghế đứng và toilet thu phí, Express Seat, khu "chỉ dành cho gia đình", khách quá khổ, chính sách với thú cưng. Sau đó viết biên bản họp gửi các bộ phận (mẫu ở Writing bank tr. 98).
 
-**RNS ‘\ FEDERATION**
+### Luyện nghe
 
-- we LG Sf |
-
-4)
-
-**/HEILONGJIANG |**
-
-getting advice and answer the questions.
-
-1. What question does he ask?
-
-2. Which of these places is he planning to visit? Beijing, Fujian, Guizhou, Shanghai,
-
-Shenzhen, Xian? Bin BP re yy, KOREA
-
-3. How well does he speak Chinese?
-
-4. 🎧 ©) Listen again. Are the statements true (T) or
-
-false (F)?
-
-etinan Qingdao
-
-**YELLOW**
-
-**SEA**
-
-1. Dennis is going to China for amonth. T/F
-
-2. It is cheaper to buy tickets for domestic flights outside China before you travel. T/F
-
-3. Chinese trains are completely safe, but slow and unreliable. T / F
-
-4. It's possible to book train tickets online before you travel. T/F
-
-5. Major cities in China employ English-speaking staff at railway stations. T / F
-
-5. 🎧 ©))2©> Listen to the second part of the conversation and complete the sentences.
-
-1. Soft Sleeper class is the most ' and the most # . There are four berths in each compartment and there’s a table with a tablecloth, and they usually provide * for making tea. The compartment door has a ¢ and there's a smartly-dressed attendant to look after each car.
-
-2. Hard Sleeper berths are reasonably * and bedding is supplied. Newer trains have power sockets for ° and mobiles.
-
-3. Hard Seat class has ’ people sitting side by side. They’re fine for short journeys — short distance daytime trains only have Hard class seats. But it’s an ® way to travel for longer journeys.
-
-4. Soft Seat class is more expensive. It’s about the same price as ° but | would recommend it for any journey over '° hours.
-
-6. What does Wenjing Zue say about bus travel in China?
-
-#### Speaking — Transport in your country
-
-7. How do train, bus and air travel in your country compare with China? Discuss and decide with a partner how you would explain the different options available. What advice would you give to a tourist planning a six-week trip travelling round your country? Mention the following:
-
-® accommodation on ° safety overnight journeys e traffic congestion ° delays ° transporting luggage TRAVEL LINKS IN INDIA
-
-Find out what kind of transport links
-
-¢ on-board catering are suitable for a visitor to India.
-
-### 2.2 Multi-word verbs — Grammar
-
-**ROAD, RAIL, AIR AND SEA**
-
-4. Put the words in the box into the correct places in the diagram. Use a dictionary to help you. Add at least TWO more words to each group.
-
-Gel ING (HERE \)
-
-ashore baggage claim carriage carriageway deck departure lounge dining car harbour jetlag petrolstation platform purser roundabout runway signals sleeper starboard stopover toll bridge _ traffic lights
-
-2. Complete the travel announcements with words from Exercise 1. Mark what kind of travel it is — Air (A), Sea (S), Road (Rd) or Rail (RI).
-
-1. Please mind the gap between the train and the when leaving the train.
-
-2. We expect heavy traffic congestion and long delays on the northbound after a coach collided with a lorry at junction 14.
-
-3. Will all passengers requiring a landing card please speak to the before going ashore.
-
-4. Lunch will be served in the between twelve and two o’clock.
-
-5. Will all passengers for flight BASO74 to Cairo please make their way to the where your aircraft is waiting to depart from gate number 56.
-
-6. The captain invites all first-class passengers to join him for cocktails on the upper
-
-7. Turn left and drive straight on for 500 metres. At the first , take the third exit.
-
-Drive on for three kilometres.
-
-8. Passengers arriving from Brussels please proceed to the where your luggage will arrive shortly.
-
-🎧 Listen and check your answers. Practise saying the announcements.
-
-as JOURNEYS y
-
-**GRAMMAR:**
-
-Many verbs combine with a particle (at, down, in, on, out, to, up, etc.) to create a new )
-
-verb. The new verb often has a different meaning from the verb on its own. There are two main types of phrasal verb:
-
-Verbs with no object:
-
-What time did he set off? (leave) The car broke down. (The engine stopped working.) =
-
-She turned up over an hour late. (arrived) | hung around for a bit and then went [ home. (waited) a
-
-Verbs with an object:
-
-There are two types of multi-word verb that take an object - separable and inseparable.
-
-1. With separable multi-word verbs, the particle can either come before OR after the ‘wy S object. bs
-
-Could you fill in this form, please? Could you fill this form in, please? ip However, if the object is a pronoun, the particle must go after, not before the | a pronoun. He dropped me off at the station. (He left me at the station and continued his journey.)
-
-2. With inseparable multi-word verbs, the particle must go immediately after the verb, i.e. it cannot be separated from the verb by a noun or pronoun.
-
-She looked for her ticket. (NOT Shetoeked-thertieketter.)
-
-3. Sometimes there are two particles. | look forward to seeing you in Vienna. (anticipate with pleasure)
-
-| got on very well with your colleagues. (had a good relationship with)
-
-See Grammar reference, page 114.
-
-x /
-
-4. 🎧 ©))2=> Study the Grammar box. Listen to Emma telling her boss about her trip to Prague and complete the conversation with the correct form of the verbs in the box.
-
-break down drop off fillin findout geton getonwith get through hang about holdup pickup putup setoff takeoff turnup
-
-E = Emma, EB = Emma’s boss
-
-E: We! really early for the airport — at about 5.30 in the morning — so | would have plenty of time. But, of course, there were long delays on the motorway.
-
-A lorry had # and blocked an exit, so we were * for more than an hour. Anyway, we got there in the end. My husband * me outside the terminal just after eight but by that time my flight had already °
-
-EB: Oh no! So what happened?
-
-E: Well, | went to ° what time the next flight for Prague was departing. The helpdesk people were very helpful, but | had to ’ for ages while they tried to get me on another flight. | tried to phone the Prague office but the line was bad and | couldn't ® . Anyway, | managed to * another flight to Prague a bit later that morning. Of course, there was no one to °° me when | arrived at the airport. But | got a taxi to the city centre and finally " for the first part of the visit at lunchtime!
-
-EB: So, after all those problems, was the trip a success in your opinion?
-
-E: Oh, very much so. They me in a really good hotel and | really well the people | met. I’ve the site visit checklist you gave me and it's all very positive.
-
-#### Speaking
-
-5. Work in pairs. Tell your partner about a journey you have made using as many of the verbs from Exercise 4 as possible.
-
-### 2.3 Dealing with the public — Professional skills
-
-Lil (ag LL a5 i= So) Z LU 1)
-
-**PROFESSIONAL SKILLS**
-
-**DEALING WITH THE PUBLIC**
-
-#### Reading — Working in the air travel industry
-
-1. Read the article about working in the airline industry. Make a list of the advantages and the disadvantages of a career in this sector.
-
-The highs and the lows of working in the airline industry
-
-The airline industry offers many opportunities for exciting and varied careers. Often, no previous experience is required and since airlines have an internal promotion structure, entry-level employees can transfer to other jobs within each company and can advance in their careers quite quickly.
-
-The industry also offers a wide variety of benefits, which may include personal and family travel passes, health insurance, paid holidays, flexible schedules, discounts on hotels and car hire. Most airlines sell standby tickets to other airline employees which are between 75-95 percent off the full fare.
-
-However, working for an airline or at an airport is not always easy. Some jobs are physically demanding; you may have to work evening or early-morning hours or work for long periods without a break. There are strict rules about personal appearance and employees often have to spend long periods away from home. Dealing with frustrated passengers, adverse weather conditions, delayed flights and emergencies are all part of the routine, so airline jobs need people with excellent interpersonal skills who can offer a high level of customer care.
-
-In spite of these disadvantages, the airline industry offers great career opportunities. Perhaps one of the most enjoyable aspects of working for an airline (apart from the opportunity to travel) is the chance to meet so many different types of people from all over the world.
-
-2. Complete the sentences with the words and phrases in bold from the article.
-
-1. He had to work ten hours non-stop without a for lunch.
-
-2. For all employees in contact with the public, is a core element of their job description and training.
-
-3. Loading baggage on and off aircraft all day is really .
-
-4. Acompetitive salary with will be offered to all new recruits.
-
-5. We're reinventing our airline from the ground up and there are great for those with the right qualifications, attitude and commitment.
-
-6. The CheapSky airline is offering dozens of jobs and internships for college graduates.
-
-**-KILLS DEALING WITH THE PUBLIC )**
-
-**CUSTOMER SERVICES MANAGER**
-
-3. Work in pairs. What kind of problems do you think a Customer Services Manager for an airline deals with? Discuss what an airline Customer Services Manager could do in these situations.
-
-1. A flight is overbooked and two passengers can’t board the plane.
-
-2. The flight is cancelled because of bad weather. Two hundred and fifty passengers are stranded at the airport.
-
-3. Anervous passenger has a panic attack in the departure lounge just before take-off.
-
-#### Listening — A difficult situation 🎧
-
-🎧 4. ©) Erik Sorensen is a Customer Services Manager for NorskaAir. Listen to his interview about a difficult situation. What was the cause of the problem? Did he deal with it successfully?
-
-5. 🎧 ©) Listen again and circle the correct options. There may be more than one correct answer.
-
-1. How did they deal with the passengers stranded at the airport? a They put them up in hotels. b They sent them home on coaches. c The passengers waited until the airport reopened.
-
-2. It was difficult for NorskaAir to organize accommodation because a they didn’t have enough money. __b there weren't enough hotels. ¢ they didn’t know how long the airport would stay closed.
-
-3. The passengers who had booked flights that week a lost their money. b were offered a refund. ¢ were offered an alternative flight or holiday.
-
-4. The positive side of the experience for the company was a they didn’t lose too much money. b they helped their customers. c¢ their customers will trust them in the future.
-
-6. Complete Erik's tips for dealing with customers in the Professional skills box. Check your answers in the audio script on page 119.
-
-**PROFESSIONAL SKILLS: © =:**
-
-_ Don’t... | efi the customer. Be patient and wait until they have finished speaking.
-
-*® argue with the customer or *b colleagues. e make %e even if the situation isn’t your fault. _ Do...
-
-- e listen actively. Stop what you were doing and *| at the customer while he or she is speaking. _ — @ ask Sq to clarify any facts or obtain missing information. | | show empathy by telling the person that you Su how he or she feels. | | e?r the customer by promising something that you will do to improve the situation.
-
-| Use the construction I'll... or We'll ..., e.g. I'll find out for you. We'll look into it for you.
-
-#### Speaking — Customer service roleplay
-
-7. Work in pairs. Student A, turn to File 6, page 104. Student B, turn to File 21, page 110. Roleplay the customer service situations. Use the tips from the Professional skills box to help you.
-
-### 2.4 Improve a service — Case study
-
-ease 5 UD IMPROVE A SER Wa
-
-Aim: To reduce costs and customer service at CheapSky Airlines.
-
-**GEIMING THERE |.)**
-
-1. Read about problems that airline staff have to deal with.
-
-2. 🎧 Listen to a meeting about the problems with air rage and how to solve them.
-
-3. Discuss ways to reduce costs and improve customer service.
-
-Problems for airline staff
-
-= 1 Read the article below from SkyWorld, a magazine for airline industry = professionals.
-
-1. What is the ‘constant threat’ that airline customer service staff have to deal with?
-
-2. Make a list of the reasons why so many passengers are unhappy.
-
-3. Why are the problems likely to continue to get worse in the future?
-
-Air rage on the increase
-
-A recent survey of airport staff at CheapSky Airlines shows that air rage — and a lack of training to cope with it — is still a major problem. Airline customer service staff, particularly employees of low-cost carriers, are under a constant threat of air rage as airlines increase fares and introduce more fees and ticket restrictions. Many employees had experienced air rage at work on a daily basis, with ticket restrictions, staff shortages and excess baggage charges cited as major causes of customer anger. Analysis of customer complaints over the last six months reveals similar information. The things that make passengers most angry are long queues at check-in and security control and a lack of understanding of restrictions on discounted tickets buried in the small print.
-
-Nine out of ten employees said they had received no training on how to deal with angry and abusive customers.
-
-With the increase in fuel costs forcing airlines to add extra fees and restrictions, there are now worries air rage will increase. Becky Lu, national secretary of the flight attendants’ union, said additional fees and charges would just make it harder for people on the front line.
-
-Recent incidents
-
-2. 🎧 (25) CheapSky Airlines is a low-cost carrier offering short-haul budget flights. Recently, the company has been experiencing a number of problems. Listen to four recent incidents. Answer the questions.
-
-1. Where does each incident take place?
-
-2. What is the problem?
-
-3. In your opinion, what could CheapSky do to avoid this kind of incident in future?
-
-**Y IMPROVE A SERVICE 2**
-
-G)
-
-a
-
-_ 1 The CheapSky managers are holding a meeting to discuss ways to reduce costs and improve customer service. Work in small groups. Group A, look at the information on this page. Group B, turn to Charging for carry-on baggage and for blankets File 3, page 103.
-
-| 2 Look at the meeting agenda and study the ~ background information in your file.
-
-**AGENDA**
-
-Passenger rage — how to deal with it
-
-Standing-only seats and pay toilets
-
-Express Seat option
-
-A ‘families only’ section of the aircraft
-
-3. Hold the meeting with the other group. Discuss the items on the agenda and make a decision on each.
-
-Obese passengers and seating arrangements Travelling with pets — staff policy
-
-_ Group A
-
-Starting soon, the carrier will begin offering a From: Chris.Lee@CheapSky.com ‘cuddle class’ — that is, a row of three economy
-
-3. To: Custo i t seats that transforms into a couch for couples Pep sete
-
-‘to relax and stretch out on or for the kids to Subject: My suggestions use as a play area’. But there is no word yet on how much it will cost. Will young couples want Date: December 10 to pay for three seats instead of two?
-
-| can’t be at the meeting but | suggest $10 ——, for an airline blanket on short-haul flights and no blankets on domestic flights lasting more than two hours. We could offer inflatable neck pillows instead.
-
-An American airline is now offering coach- class passengers a chance to board early, sit up front and get off the plane first — for a fee. The Express Seat option will be available on domestic journeys for $29 to $49 per flight to travellers who sign in at self-serve kiosks.
-
-| think we should charge $49 for carry-on luggage, the same fee as for checking in
-
-a bag. This would improve inflight safety (fewer heavy bags in the overhead lockers)
-
-as aa and efficiency. | don’t see what’s wrong with i standing-only seats for flights of less than an Obese passengers who are unable to get into hour. It’s just like being in the Underground.
-
-| asingle seat on an airliner will be charged Don’t forget you pay for toilets in a railway double. From next month, overweight flyers station, so why not pay on a flight as well? will pay for two seats or not be allowed on board for ‘safety reasons’, Sprint Airlines announced yesterday. They will be charged 75% of the cost of the second seat, which is the full price excluding tax and surcharges. However, the charge will only apply on flights that are fully booked.
-
-L J
-
-Writing minutes
-
-3. Write the minutes of the meeting to be circulated to other staff members. Use the model in the Writing bank on page 98 to help you.
-
-**KEY WORDS**
-
-baggage claim benefit berth board catering check-in coach congestion delay departure lounge excess baggage __ platform short-haul flight speed stranded
-
-See DVD-ROM Mini-dictionary
+- 🎧 **Track 2.1** — Dennis xin Wenjing Zue tư vấn chuyến đi Trung Quốc: anh hỏi gì, định tới những đâu, nói tiếng Trung tới đâu; rồi năm câu True/False.
+- 🎧 **Track 2.2** — Phần hai cuộc trò chuyện: bốn hạng vé tàu Trung Quốc (Soft Sleeper, Hard Sleeper, Hard Seat, Soft Seat) — điền chi tiết từng hạng và nghe xem Wenjing nói gì về xe khách.
+- 🎧 **Track 2.3** — Tám thông báo hành trình: nghe kiểm tra đáp án rồi luyện đọc theo cho đúng ngữ điệu.
+- 🎧 **Track 2.4** — Emma kể sếp nghe chuyến đi Praha: điền phrasal verb đúng dạng vào hội thoại.
+- 🎧 **Track 2.5** — Phỏng vấn Erik Sorensen, Customer Services Manager của NorskaAir, về một tình huống khó: nguyên nhân là gì, anh xử lý có thành công không, và bốn câu chọn đáp án.
+- 🎧 **Track 2.6** — Bốn sự cố gần đây ở CheapSky: mỗi sự cố xảy ra ở đâu, vấn đề là gì, và lẽ ra phòng tránh thế nào.
 
 ## Unit 3 — Accommodation
 
-> - **Grammar:** Modal verbs
-> - **Vocabulary:** Types of accommodation · Facilities and services
-> - **Professional skills:** Dealing with complaints
-> - **Case study:** Investigate customer complaints
+> **Sách giấy tr. 24–31** · Grammar: modal verbs · Vocabulary: types of accommodation, facilities and services · Professional skills: dealing with complaints · Case study: investigate customer complaints
 
-### 3.1 Types of accommodation, facilities and services — Vocabulary
+### 1. Mục tiêu
 
-**AGCOMMODATION**
+- Gọi tên các loại hình lưu trú và mô tả tiện ích, dịch vụ của khách sạn.
+- Hiểu cách xếp hạng sao và nói được vì sao số sao không đồng nghĩa với chất lượng.
+- Dùng modal verbs để diễn đạt nghĩa vụ, điều cấm, lời khuyên và khả năng.
+- Tiếp nhận và xử lý phàn nàn của khách đúng chuẩn nghề.
+- Điều tra một khiếu nại nghiêm trọng và viết thư xin lỗi.
 
-Grammar: modal verbs
+### 2. Từ vựng
 
-Vocabulary: types of accommodation, facilities and services Professional skills: dealing with complaints Case study: investigate customer complaints
+#### Các loại hình lưu trú
 
-#### Reading — Accommodation in Spain
+- parador — khách sạn sang trong lâu đài, cung điện cũ (Tây Ban Nha)
+- casa rural — nhà nông thôn do gia đình tự quản · pensión — nhà trọ bình dân
+- guest house · youth hostel — nhà nghỉ thanh niên · refuge — trạm nghỉ trên núi
+- camp site · self-catering villa — villa tự nấu ăn · hunting lodge — nhà nghỉ săn bắn
+- apartment hotel (*villa turística*) — nửa khách sạn nửa căn hộ · holiday village — làng nghỉ dưỡng theo chủ đề
 
-4. What are the different types of accommodation for tourists in your country? Make a list and compare with a partner.
+#### Facilities and services
 
-2. Read the extract from the DK Eyewitness Travel Guide to Spain.
+air conditioning · airport shuttle · baby-sitting service · currency exchange · direct line telephone · fitness centre · hairdryer · high-speed Wi-Fi access · in-room minibar · laundry and ironing · pets admitted · restaurant · safe-deposit box · satellite TV · sauna · wheelchair access.
 
-1. Which types of accommodation mentioned in the text are in your list?
+**Nhu cầu riêng của từng nhóm khách:** 24-hour room service · limousine service · business centre · secretarial services · executive suite · smartcard access · kids' club · bunk beds · babysitting.
 
-2. What other types of accommodation are mentioned?
+**Xếp hạng:** grade / grading · rate / rating · award *(v, n)* · criteria · Hotel Stars Union · five-diamond · mid-range · VAT.
 
-3. Which type of accommodation would you recommend for a traveller to Spain who a wants to live in a palace? b is a serious mountaineer? c wants peace and quiet in the countryside? d is looking for serious luxury? e wants to stay in their own place but doesn’t want to cook every night?
+**Khiếu nại:** overcharging (tính sai tiền) · defective equipment (thiết bị hỏng) · overbooking · unhelpful staff · dirty room · maintenance · compensation · inconvenience · solicitor (luật sư) · hygiene · sell-by date · health hazard.
 
-Where to stay in Spain Medieval castles turned into luxury hotels and Visitors can also stay on remote farms or in villas and mansions converted into youth hostels are typical old houses let for self-catering. For the traveller on of the variety of places to stay in Spain. The tourists a budget, there are youth hostels, bed & breakfasts who are so important to Spain’s economy have (pensiones), family-run country cottages (casas almost 10,000 establishments to choose from, rurales) and guest houses, camp sites and refuges offering over one and a half million beds. At the with stunning views for mountaineers. top of the scale, there are the paradores: these are An apartment hotel (known as a villa turistica suites of rooms in once-royal palaces and luxury in Andalucia) is another option. Half hotel, half accommodation in castles, fortresses, hunting holiday apartment, it gives guests a choice between lodges and other historic buildings. Some modern self-catering (all rooms have a kitchen) or eating paradores have been purpose-built as modern in the hotel restaurant. Holiday villages are similar, hotels. They are usually built in a traditional style, often catering for specialist interests, such as and located in areas of outstanding beauty or in horse-riding, climbing or windsurfing. One example towns of historic interest. is the village of Ainsa, in the mountainous region of Then there are luxury beach hotels on the Costa Aragon, which offers a mix of camping and hostel del Sol and in the Balearic and the Canary Islands. accommodation, with restaurants and bars.
+**KEY WORDS (sách):** award · air conditioning · bed linen · charge · complaint · facilities · grade · housekeeping · hygiene · insurance · maintenance · overbooking · reception area · reservation · room rate.
 
-**ACCOMMODATION 3**
+### 3. Ngữ pháp
 
-#### Vocabulary — Hotel facilities and services
+#### Modal verbs (Grammar reference tr. 114)
 
-3. Write the letter of the symbols a-p next to the hotel service. _ __ air conditioning __ hairdryer __ restaurant ___airport shuttle __ high-speed Wi-Fi access ___ safe-deposit box __ baby-sitting service __ in-room minibar __ satellite TV ___ currency exchange __ laundry and ironing ___ sauna __ direct line telephone ___ pets admitted __ wheelchair access
+#### Nghĩa vụ
 
-__ fitness centre
+- *have to* / *must* — điều cần thiết; *must* mạnh hơn và thường là quy định: *Do I have to make a deposit to be sure of getting a room?* · *By law, Spanish hotels must display their prices in every room.*
+- Phân biệt kỹ: *Employees must not smoke in the building.* (= cấm) ≠ *You don't have to book ahead in low season.* (= không cần thiết)
+- *should* — điều nên làm: *Visitors who intend to travel in high season should book in advance.*
 
-4. Which of these facilities and services do you need most? Choose the top ten and put them in order of importance. Are there any facilities that are important for you which are not on the list?
+#### Khả năng
 
-#### Listening — Choosing a hotel 🎧
+- *can* / *can't* — được phép, làm được / không thể: *Visitors can stay on remote farms.* · *You can't equate quality with the number of stars.*
+- *may* — có thể, không chắc chắn: *You may be able to claim compensation from the operator.*
 
-5. Look at the photos of the travellers. Make a list of the hotel facilities and services that you think are important for each person or set of people.
+### 4. Practically speaking
 
-6. 🎧 ©) 22> Listen to what is important for travellers when they book hotel accommodation.
+#### Dealing with complaints — tám bước xử lý phàn nàn
 
-1. Number the photos in the order that the travellers speak.
+1. Dành cho khách toàn bộ sự chú ý; gật đầu tỏ ý đang theo dõi.
+2. Nói cho khách biết rằng bạn cũng sẽ thấy như vậy nếu ở vào hoàn cảnh đó.
+3. Xin lỗi vì sự bất tiện và xử lý ngay, không hẹn lần khất lữa.
+4. Lắng nghe kỹ — nếu khách đang giận, mời sang chỗ riêng tư.
+5. Tìm giải pháp rồi báo lại cho khách biết bạn đã làm gì.
+6. Không bao giờ tranh cãi trong lúc khách đang phàn nàn.
+7. Quay lại kiểm tra sau khi đã xử lý xong, xem khách đã hài lòng chưa.
+8. Giữ nét mặt dễ chịu — đó là cách thể hiện bạn quan tâm đến sự hài lòng của họ.
 
-2. Check your answers to Exercise 5. Do the speakers mention any of the facilities you listed? Which ones?
+### 5. Key expressions
 
-7. 🎧 Listen again and complete the extracts about each of the traveller's needs. Jin Wei — business woman
+#### Apologizing
 
-1
+- *I'm sorry about that.* · *I do apologize for the inconvenience.*
+- *I hear what you're saying and I understand how you feel.*
 
-My biggest worry is always ! _ so | always choose a hotel that uses smartcards to limit access to executive suites and has * installed. The family particularly request limousine service, 24-hour room service and exclusive use of the °
+#### Explaining
 
-2
+- *I'm afraid there's been a misunderstanding.*
+- *What seems to have happened is that…*
+- *At the moment we're having a problem with…*
 
-High-speed internet access is a must, and if there’s a business centre offering * services and business support, that’s a plus. Oh, | also need a rapid ° service as
+#### Acting
 
-| travel fairly light and don't always have enough clothes with me.
+- *I'll look into it right away.* · *I'll call maintenance.* · *I'll have a word with the staff.*
+- *I'll get back to you when it's been sorted out.* · *I'll do everything I possibly can.*
+- *Please come down and I'll help you get a room that's ready.*
 
-3 Waleed |
+**Cách trả lời phải tránh** — nghe là biết nhân viên đang đẩy việc: *I can't do anything about it, can I?* · *I'm not the manager.* · *He isn't here.* · *I don't know.*
 
-... the best hotel for us is one where there's a © where the alee) — Travel Manager children can go. We stayed in a place recently where the kids had for # prince bunk beds with individual television sets in them. We could get the latest PlayStation games and consoles from reception. And if we wanted to go out in the evening, just the two of us, there was a great ’ service as well.
+### 6. Talking point
 
-**HOTELS IN YOUR AREA**
+- Ở nước bạn có những loại hình lưu trú nào? Hệ thống xếp sao có phản ánh đúng chất lượng không? Một khách sạn tầm trung tối thiểu phải có những gì?
+- Trong danh sách tiện ích, chọn mười thứ quan trọng nhất với bạn và xếp thứ tự. Có tiện ích nào quan trọng với bạn mà danh sách chưa có?
+- Ghé hai ba khách sạn ở địa phương, xem họ có những gì rồi báo cáo lại.
+- Tìm trên mạng những chỗ ngủ kỳ lạ nhất thế giới, trình bày và bình chọn trước lớp.
+- Roleplay: bạn là trưởng đoàn 54 khách cao tuổi vừa tới Hotel San Angelo (Milan) sau tám tiếng đường trường — khách sạn không có dữ liệu đặt phòng, quản lý đang đi nghỉ, cả thành phố đang mùa fashion show.
+- **Case study:** họp ban quản lý Sylvan Park ở Caxton theo agenda — vụ Katarina Chalupova, an toàn vệ sinh hồ bơi, bảo trì villa, nguồn hàng của Park Market. Điểm mạnh và điểm yếu của dịch vụ ở đây là gì? Sau đó viết thư xin lỗi gửi luật sư của khách (mẫu ở Writing bank tr. 101).
 
-Visit two or three hotels in your area. Find out what facilities they offer.
+### Luyện nghe
 
-### 3.2 Modal verbs — Grammar
-
-**HOTEL GRADING**
-
-#### Listening — Grading of hotels in Spain 🎧
-
-4. What system does your country use to grade hotels? Do you think it is accurate?
-
-With a partner, make a list of the minimum facilities you think a mid-range hotel should offer.
-
-2. 🎧 ©) Listen to an interview about hotel ratings in Spain. What grading system
-
-do most hotels in Europe use? How is Spain different?
-
-3. 🎧 Listen again. Are the statements true (T) or false (F)?
-
-1. The Hotel Stars Union rating scheme is used by hotels all over the world. T / F
-
-2. For a one-star rating, the hotel only needs to provide a bed and daily room cleaning. T/F
-
-3. In Spain, the regional tourist authorities use different criteria for awarding stars. T/ F
-
-4. A five-star hotel offers the same comfort as a five-diamond hotel. T / F
-
-5. In the Spanish system, the stars are related to the number and range of facilities on offer. T/F
-
-6. Spanish hotel prices include VAT. T/ F
-
-4. Complete the sentences with an appropriate form derived from the words award, grade or rate. Sometimes more than one answer is possible.
-
-1. Following the opening of its new luxury spa complex, the hotel was a fifth star.
-
-2. What system do you use for hotels in your country?
-
-3. The lowest of hotel is one star but hotels with no stars do exist!
-
-4. The Hotel Stars Union hotels according to a list of criteria relating to 270 different features and services.
-
-**GRAMMAR:**
-
-**HOTEL GRADING**
-
-1 Obligation
-
-We use have to and must to talk about things that are necessary.
-
-Do | have to make a deposit to be sure of getting a room?
-
-By law, Spanish hotels must display their prices in every room. (stronger)
-
-Mustn’t and don’t have to have very different meanings.
-
-Employees must not smoke in the building. (= It is forbidden.)
-
-You don’t have to book ahead in low season. (= It is not necessary.)
-
-Use modal verbs to express obligation and possibility.
-
-We use should to say that something is a good idea.
-
-Visitors who intend to travel in high season should book in advance.
-
-2 Possibility
-
-We use can and may to say that something is possible or impossible.
-
-Visitors can stay on remote farms or in villas and old houses let for self-catering.
-
-You can’t equate quality with the number of stars. (= It's impossible.)
-
-You may be able to claim compensation from the operator. (= It's not certain but possible.)
-
-See Grammar reference page, 114.
-
-5. Study the Grammar box, then read the accommodation information and underline the correct modal verbs in each paragraph.
-
-Self-catering
-
-The price of self-catering accommodation ‘can / must vary: for example a four-person villa with a pool 2may / must cost under €350 if it is inland, but you 3have to / must not pay at least three times more if it is on the coast.
-
-Retreats
-
-If you want peace and tranquillity, you ‘may / should like to stay in one of Spain's
-
-150 retreat houses. They are not hotels but you Sdon’t have to / should book in
-
-OW
-
-Dy
-
-**NWA**
-
-V lOlLLVGO advance or you won't get a room. Guests ‘should / may be asked to tidy their rooms and, in any case, they ’can’t/ should make an effort to observe the strict mealtimes.
-
-Youth Hostels
-
-You ®can’t / should use the network of albergues juveniles (youth hostels) without a YHA (Youth Hostels Association) card. These *may / shouldn't be obtained from your own country or via the Red Espafiola de Albergues Juveniles network. Despite the word youth, you '°mustn’t / don’t have to be a young person to stay in a youth hostel.
-
-eis oun
-
-6. Complete the hotel enquiries and information with appropriate modal verbs.
-
-4. What time do we ______ check out if we don’t want to pay for another day?
-
-2. You_____ pay for a complimentary drink at the bar — it's free.
-
-3. We ____ have aroom free for that day but I’m not sure.
-
-4. You leave the light on in the room as it wastes electricity.
-
-5 Guests ask for their valuables to be kept in the hotel's safe.
-
-6. | check out and pay my bill now? We're leaving very early tomorrow.
-
-**UNUSUAL PLACES TO STAY**
-
-Do some internet research on unusual places to stay. Present your findings to the class. Vote for the most unusual accommodation.
-
-### 3.3 Dealing with complaints — Professional skills
-
-**“PROFESSIONAL SKILLS**
-
-**DEALING WITH COMPLAINTS**
-
-Zz O <L a O O O
-
-11
-
-**PROBLEMS AND SOLUTIONS 2**
-
-1. 🎧 ©)/22> Listen to five conversations about R: Yeah, but | can’t do anything about it, can |? complaints. Match the conversations 1-5 with | ain't the manager. the complaints a-e. C: Can | speak to the manager?
-
-1. a overcharging R: Nope, he ain't here.
-
-2. b defective equipment C: When will he be back?
-
-3. ¢ overbooking R: | dunno. |? you his mobile phone number
-
-4. d unhelpful staff er
-
-5 e dirty room
-
-2. 🎧 ©) What solutions to the problems do the hotels offer? Listen again and complete the R: Um, perhaps | > and get you into another extracts below. Which solutions are satisfactory of our hotels. Do you ¢ me to do that? and which are unsatisfactory? Why? C: Do you have any other solution? (C = Customer, R = Receptionist) R: No. , 4 C: Hello, | phoned 7 couple of hours age to say R: Oh, I'm so sorry, Mrs Robertson. | do ” for that the air conditioning is not working. The the inconvenience. Please come down and !'ll person | spoke to said someone would look at it 8 you get a room that's ready. but nothing has happened. R: | will ' maintenance. 5 C: And another thing. The Wi-Fi isn't working and R: I'm very sorry, madam. |’ll have a word with | need to be connected — I've got work to do. the staff. 1° you it won't 1° again. R: OK, | will 2 the person in charge. Thank you for bringing the matter to my
-
-**LLS DEALING WITH COMPLAINTS**
-
-3. Work in pairs. Rewrite the dialogues for the three unsatisfactory solutions so that they reflect best practice. Use the language from the satisfactory responses to help you.
-
-**PROFESSIONAL SKILLS: >=**
-
-4. Match the sentence halves to make useful advice about how to deal with complaints.
-
-4
-
-1. Give your guest your complete attention and a to make sure they are satisfied. |
-
-2. Tell the guest that b they are making their complaint.
-
-3. Apologize for the inconvenience and deal with ¢ ask him/her in what way you can solve the problem.
-
-4. 🎧 Listen carefully and if d you would feel the same if this had happened to you.
-
-5. Find a solution and let them know i : e he/she is angry, go somewhere private.
-
-6. Never argue with a guest when
-
-7. Check back with the guest after dealing with their complaint g and nod in agreement.
-
-f the complaint immediately.
-
-8. Keep a pleasant expression on your face h of your concern for their satisfaction. |
-
-5. 🎧 ©))2= > Complete the useful expressions for dealing with complaints with an appropriate word. Listen and check your answers. Practise saying the expressions so that you sound polite but assertive.
-
-( Apologizing Explaining Acting )
-
-I'm! about that. I'm 4 there’sbeena | I'll’ into it right away. misunderstanding.
-
-| do? for the What * to have I'll get & to you when inconvenience. happened is that ... it’s been sorted out. | hear what you're saying At the moment we're having | I'll’ everything
-
-Land [3 how you feel. | a® with ... | possibly can. J
-
-#### Speaking — Handling problems
-
-6. Work in pairs. Student A is a group leader, Student B is a hotel receptionist. Read the information files below and roleplay the situation.
-
-f- a Student A ‘| Student B 7 You are the leader of a group of 54 passengers You are the hotel receptionist at the Hotel San which has just arrived after an eight-hour journey Angelo in Milan. You have no record of a booking at a hotel in Milan, Italy. The passengers are all in for a coachload of 55 tourists from London and the coach outside. The booking from 25 February have never heard of the Insegna agency. The to 1 March was made through the Insegna agency hotel manager is on holiday in South Africa at the in London. You spoke to a representative of the moment. There is a fashion show taking place this agency yesterday, who said the prepayment week and it will be very difficult to find any free voucher and deposit were sent to the manager of hotel rooms but you will make enquiries. You have the hotel three weeks ago. Your group are mostly some contacts with hotels in the mountains outside senior citizens (aged 60 plus) and are tired and the city which may be able to accommodate such a hungry. Ask Student B (the hotel receptionist) which large party. rooms you have been allocated. \ J
-
-SA
-
-### 3.4 Investigate customer complaints — Case study
-
-**N CO**
-
-IC) i
-
-AT rm L);
-
-O
-
-Mi (
-
-1 1
-
-"OM no cai Na
-
-**CASE SED**
-
-**INVESTIGATE CUSTOMER**
-
-**COMPLAINTS**
-
-Aim: To investigate a customer complaint and respond to it appropriately.
-
-1. Read a brochure and a letter of complaint.
-
-2. Read some customer feedback and exchange information.
-
-3. 🎧 Listen to a management team meeting.
-
-4. Hold a meeting to discuss how to solve the problems.
-
-Promotional brochure
-
-4. Read the brochure extract about Sylvan Parks and answer the questions.
-
-1. Where are the Sylvan Parks?
-
-2. What kind of accommodation do they offer?
-
-3. What type of holidaymaker do they cater for?
-
-a fully-stocked supermarket, a choice a maid service in our Executive Villas.
-
-Discover our fabulous short breaks and family holidays in private and enclosed woodland settings throughout Europe. In each location, you stay in self-catering villa accommodation and benefit from the sports and leisure facilities available on site. Everything you need is on site, fully-equipped medical centre staffed 24 hours a day and of restaurants, a
-
-Customer complaint
-
-2. Read the complaint from a recent visitor to a Sylvan Park in the UK and answer the questions.
-
-1. What exactly happened to her?
-
-2. How did the staff deal with her problem?
-
-3. How serious is the problem now?
-
-4. What does she intend to do now?
-
-I am writing regarding our recent stay at the Sylvan Park in Caxton. On the morning of 26 September I reached down to the bedside table in our Executive Villa and caught my finger on it. Imagine my horror to discover that I had an enormous splinter from the table going under my thumbnail. The splinter was approx 3 cm long and 0.3 cm wide. I went directly to the Medical Centre where the nurse advised me to take painkillers. She phoned the relevant department while we were present and asked for the offending table to be removed from the villa. This never happened. As the only free activity is the Aquaboulevard, I spent a lot of the time there but was unimpressed with the standard of hygiene in the pool area. I now have a serious infection and risk amputation of part of my finger. I am going to put the matter in the hands of my solicitor to get compensation for the injury.
-
-3. Work in pairs. Student A, look at the documents below. Student B, turn to File 8, page 105. Read your documents. Share your information and make a list of the main problems at the Sylvan Park in Caxton.
-
-To: contact@sylvanparks.com From: m.hawkins@yahoo.net
-
-— Subject: Caxton Park Market
-
-While shopping at Park Market in Caxton,
-
-| was alarmed to discover not one but numerous food items several days past their sell-by date!
-
-| don’t understand how such a potential health hazard could occur in a busy supermarket with a captive audience (it’s the only store on the site). | have to say that | am disgusted.
-
-Margaret Hawkins
-
-(Ga = Lo a _ The Regional Director for Sylvan Parks is concerned about the number of complaints | _ about the one at Caxton and has asked you to _ investigate. Hold your own meeting to discuss the
-
-4. 🎧 ©) Listen to a meeting of the management team at Caxton. What do they
-
-decide to do for each of the items on the agenda? Then look at the Task and hold your own meeting to discuss the problems.
-
-Writing a letter of apology
-
-5. Write a letter of apology to Katarina Chalupova’s solicitor. Explain what action you are going to take in response to her complaint and, if you think it is justified, offer some form of reception area reservation compensation. Use the model in the Writing bank on page 101 room rate to help you. | See DVD-ROM Mini-dictionary
-
-@@0O00 ‘The level of service has deteriorated’ We have been going to the Sylvan Park in Caxton for three years and have noticed that the level of service and hygiene has gone down.
-
-On our last weekend break | spent several hours trying to get medical help for my husband who was suffering from gastro-enteritis. After making numerous phone calls to the medical centre, it took well over an hour before two staff members turned up to help and called an ambulance. | have no doubt that the swimming pool is to blame because of the number of young children | saw wandering around wearing nappies. This is probably the cause of many infections — why don’t they provide separate areas for young children to swim in? Value @@@OO = Rooms @@0O00 Location @@@@O = = Cleanliness @®OOOO eg)
-
-_ problems.
-
-1. What are the strengths and weaknesses of the
-
-Sylvan Park's customer service at Caxton.
-
-2. What else can be done to address the customers’ complaints and improve standards in the future?
-
-Agenda
-
-1. Katarina Chalupova
-
-2. Swimming pool health and safety
-
-3. Villa maintenance i
-
-Park Market supplies award air conditioning bed linen charge complaint sey ciisuauasaucsvazdesuens peosssevezuccuvesenesesasocs facilities grade housekeeping hygiene insurance maintenance overbooking
-
-**2 & NOILVGOWNOD**
-
-Mig
-
-3
-
-Oy
+- 🎧 **Track 3.1** — Ba nhóm khách nói điều gì quan trọng với họ khi đặt phòng (nữ doanh nhân Jin Wei, một travel manager, gia đình Waleed): đánh số ảnh theo thứ tự nói và điền chi tiết từng nhu cầu.
+- 🎧 **Track 3.2** — Phỏng vấn về xếp hạng khách sạn ở Tây Ban Nha: phần lớn châu Âu dùng hệ nào, Tây Ban Nha khác ra sao; rồi sáu câu True/False.
+- 🎧 **Track 3.3** — Năm hội thoại phàn nàn: ghép mỗi hội thoại với một loại khiếu nại, nghe lại để chép giải pháp khách sạn đưa ra và tự đánh giá cách nào ổn, cách nào không.
+- 🎧 **Track 3.4** — Bộ mẫu câu xin lỗi / giải thích / hành động: điền từ còn thiếu, nghe kiểm tra rồi luyện nói sao cho lịch sự mà vẫn dứt khoát.
+- 🎧 **Track 3.5** — Cuộc họp ban quản lý ở Caxton: họ quyết định làm gì cho từng mục trong agenda.
 
 ## Unit 4 — Destinations
 
-> - **Grammar:** Articles
-> - **Vocabulary:** Weather, climate · Features and attractions · Statistics for economic development
-> - **Professional skills:** Offering advice
-> - **Case study:** Develop a destination
+> **Sách giấy tr. 32–39** · Grammar: articles · Vocabulary: weather and climate, features and attractions · Professional skills: offering advice · Case study: develop a destination
 
-### 4.1 Weather and climate — Vocabulary
+### 1. Mục tiêu
 
-eet
+- Nói về thời tiết, khí hậu và cách thời tiết xấu làm đảo lộn ngành du lịch.
+- Mô tả đặc điểm tự nhiên, điểm tham quan và thời điểm nên đi của một quốc gia.
+- Dùng đúng *a/an*, *the* và trường hợp không mạo từ, nhất là với tên riêng địa lý.
+- Tư vấn cho khách bằng lời và bằng email, có lý do và có bước tiếp theo rõ ràng.
+- Làm SWOT cho một điểm đến đang phát triển và viết press release quảng bá.
 
-**DESTINATION**
+### 2. Từ vựng
 
-bn A » —*
+#### Thời tiết theo nhóm
 
-Grammar: articles
+| Rain | Temperature | Wind | Visibility |
+| --- | --- | --- | --- |
+| drizzle (mưa phùn) | freezing · mild | breeze (gió nhẹ) | fog (sương mù dày) |
+| showers (mưa rào) | chilly · cool | gale (gió giật mạnh) | mist (sương mỏng) |
 
-Vocabulary: weather, climate, features and attractions
+Thêm: blizzard (bão tuyết) · black ice (băng trong suốt trên đường) · sunny intervals / sunny spells (những lúc hửng nắng) · overcast (u ám) · scattered showers · heavy snowfall · monsoon · rainy season · humid · temperate · changeable.
 
-Professional skills: offering advice
+**Gián đoạn đi lại:** disruption · severe weather · grounded (bị cấm cất cánh) · cancelled · delayed · stranded · blocked · traffic congestion · forecast · hurricane alert.
 
-Case study: Develop a destination
+**Đặc điểm và điểm tham quan:** archaeological site · palace · temple · mosaics · causeway · canyon · geyser · volcano · desert excursion · rocky beach · colonial architecture · cultural heritage · artefacts · pottery.
 
-#### Reading — Weather and travel chaos
+**Kinh tế điểm đến:** investment · tax exemption (miễn thuế) · revenue · tourist receipts · hotel chain · unemployment · standard of living · political unrest · safe experience.
 
-Read the article about extreme weather conditions in Europe. How did the weather conditions affect the travel industry?
+**KEY WORDS (sách):** archaeological site · breeze · cancelled · climate · cloudy · disruption · fog · forecast · monsoon · palace · rainy season · shower · tropical · site.
 
-(n 2 x
+### 3. Ngữ pháp
 
-Travel chaos across northern Europe
+#### Articles — mạo từ (Grammar reference tr. 115)
 
-Thousands of people face further disruption to their travel plans as severe weather has gripped much of Northern Europe and the forecast for the next few days warns of more snow and icy conditions.
+- **a / an** — danh từ đếm được số ít, nhắc lần đầu: *a pullover, a raincoat*.
+- **the** + vật cụ thể hoặc duy nhất: *the lake by our resort, the town centre*.
+- **the** + quần đảo và quốc gia là tập hợp: *the Aran Islands, the United States of America*.
+- **the** + sông, biển, đại dương, sa mạc và một số khu rừng: *the River Ganges, the Black Forest* (nhưng *Sherwood Forest*).
+- **the** + dãy núi: *the Himalayas* — nhưng đỉnh núi thì không: *Mount Everest*.
+- **the** + so sánh nhất: *the best time to visit*.
+- **Không mạo từ (∅)** — trước hầu hết tên thành phố và quốc gia (*Dallas, Jordan*); trước danh từ số nhiều mang nghĩa chung (*frequent showers*); trước danh từ không đếm được (*information, transport, accommodation*).
 
-Passengers spent another night stranded at Heathrow Airport after all short and long- haul flights were grounded.
+### 4. Practically speaking
 
-A spokesman at Heathrow apologized after criticism had been made by the European transport commissioner that the airport had not done enough to ensure that flights could continue taking off and landing as normal in this weather. ‘These are conditions that you see only once ina lifetime. Passengers should not travel to the airport unless the airline has confirmed the booking. If the flight is cancelled, our advice is to stay at home and not to camp out in the terminal.’
+#### Offering advice — tư vấn cho khách
 
-Around 1,000 flights were cancelled across the continent and many more delayed. In France, there were serious delays at Roissy and Orly after a blizzard and freezing fog prevented all planes from taking off.
+- Đọc kỹ hồ sơ khách trước đã: tuổi, sức khoẻ, ngân sách, đi cùng ai, thích gì.
+- Đưa một đề xuất cụ thể, kèm lý do vì sao nó hợp với chính người này.
+- Nói rõ thời điểm nên đi và thời điểm nên tránh.
+- Tìm cho được một **selling point** riêng dựa trên mối quan tâm của khách — đó là thứ chốt được đơn.
+- Kết bằng một bước tiếp theo rõ ràng, rồi gửi email tóm tắt lại lời khuyên.
+- Khi tư vấn một chuyến đi, luôn phủ đủ sáu điểm: thời điểm tốt nhất · mang theo gì · đi tới đó bằng cách nào · ở đâu · phòng bệnh ra sao · thủ tục visa.
 
-Much of the road network has also been affected by the extreme weather conditions with motorways blocked with traffic because of snow and black ice, forcing hundreds of people to spend the night in their vehicles.
+### 5. Key expressions
 
-2. Read the article again and discuss the questions with a partner.
+- *I recommend the shore excursions.*
+- *I suggest you check the weather forecast before you leave.*
+- *If I were you, I would avoid the gym in the mornings.*
+- *I advise you to keep your cash in a money belt.*
+- *Maybe I could interest you in a weekend break?*
+- *Why don't you think about it and call me back tomorrow?*
+- *The best time for you would be during winter, when the weather is most enjoyable.*
+- *I wouldn't go during the hurricane season because the weather can be rather unpredictable.*
+- *If you want to really spoil yourselves, maybe I could reserve a first-class cabin for you?*
 
-1. Do you agree that extreme bad weather conditions in northern Europe are exceptional?
+### 6. Talking point
 
-2. What precautions do you think the airline industry should take to anticipate bad weather?
+- Thời tiết cực đoan ở Bắc Âu có thật sự là chuyện hiếm? Hãng bay nên chuẩn bị trước những gì, và phải làm gì cho hành khách khi buộc phải huỷ chuyến?
+- Viết 50–60 từ mô tả khí hậu nước bạn theo từng mùa.
+- Viết một review cho webzine ngành: chọn một tháng hoặc một mùa cùng một điểm đến đáng đi vào lúc đó, tả địa lý, khí hậu, cách đi lại, cảnh quan và điểm tham quan.
+- Roleplay tư vấn theo cặp (File 19 và File 22), rồi gửi email 200–250 từ tóm tắt những lời khuyên quan trọng nhất.
+- **Case study Eldorado:** chính phủ nên phát triển loại hình du lịch nào? Nên nhắm vào thị trường khách nước nào? Nhà đầu tư sẽ gặp trở ngại gì? Ghép thông tin của hai bạn để làm SWOT đầy đủ, quyết xem Eldorado có phải nơi đầu tư an toàn, rồi viết press release quảng bá và trấn an cả khách lẫn nhà đầu tư (mẫu ở Writing bank tr. 96).
 
-3. What do you think an airline should do for its passengers if a flight has to be cancelled?
+### Luyện nghe
 
-Complete the sentences about travel problems with the appropriate form of the words in bold from the text.
-
-1. As a result of the
-
-2 Police
-
-3. The flight was
-
-4. Many passengers were left
-
-5. The long caused by the air-traffic controllers’ strike, our flight couldn't land in Paris. the entrance to the terminal because of the terrorist threat.
-
-just before take-off when a passenger attacked a flight attendant. abroad when the airline collapsed.
-
-at passport control were due to staffing problems.
-
-6. There's a hurricane alert. The airport is closed and all further flights have been
-
-#### Listening — Weather forecasts 🎧
-
-4. Put the words in the box into the correct column in the table.
-
-C breeze drizzle fog freezing gale mild mist showers ) @ Rain Temperature Wind Visibility |
-
-5. 🎧 |)) = 4 © Listen to two weather forecasts. Choose the correct answers. Weather forecast 1
-
-1. Which season of the year do you think it is?
-
-2. What's the weather like in the morning? a heavy rain b bright anddry ¢ cloudy with light rain
-
-3. What will the weather be like in the afternoon? a hotandsunny b brightanddry c scattered showers
-
-Weather forecast 2
-
-1. Which geographical area does the weather report cover?
-
-2. What's the forecast for most of the Mediterranean countries? a mist and fog then sunny intervals b sunny intervals then mist and fog
-
-3. Which areas will experience scattered showers and a cool breeze? a Sicily b Sicily and Italy ¢ France, Spain and Portugal
-
-6. 🎧 Listen again and find words and expressions for the following. Check your answers by looking at the audio script on page 121.
-
-1. Another word for cloudy — o
-
-2. TWO words that mean cold — ch andc
-
-3. Another expression for periods of occasional sunshine — s s
-
-#### Vocabulary — Describing climate
-
-7. Match the descriptions of the climates with the countries. There is one extra country.
-
-Australia India Korea Norway
-
-A Our country has a tropical climate. The summer — from March to June — is very hot, with average temperatures of around 32°C. From July to September, we have the monsoon, when it rains a lot and there are storms. From October through to February, the weather is cooler and more temperate.
-
-B The winters in my country are very cold with temperatures as low as -40°C and heavy snowfall. The weather in the spring from May to mid-June can be changeable — sometimes warm and sometimes ready to snow again. Our summer is short but temperatures can reach 25°C and the days are long because we're so far north. Cc Our country is very mountainous and we have a humid climate. The summer from June to August is hot and humid with average temperatures of around 22-30°C and we have a short rainy season called jangma which is from June to July. The winters can be extremely cold with the minimum temperature dropping below —20°C.
-
-#### Writing — Describing climate
-
-8. Write a short description (50-60 words) of the climate in your country. Talk about the weather in the different seasons of the year. Use the expressions in bold in the texts in Exercise 7 to talk about temperature.
-
-### 4.2 Features and attractions; articles — Vocabulary & Grammar
-
-**WHERE [TO GO?**
-
-#### Vocabulary
-
-4. Match the famous tourist attractions A-F with the names in the box. You will find five of the countries in the table in Exercise 2. What is the name of the other country?
-
-the Giant's Causeway the Taj Mahal the Easter Island statues the Paphos mosaics the ancient city of Petra the Grand Canyon
-
-2. Read the information about six countries. Some of the facts are in the wrong place.
-
-Make the necessary changes (TWO for each country).
-
-mah cis Se ae Oo | at ee ( COUNTRY | CAPITAL CITY CLIMATE TOURIST ATTRACTIONS | CURRENCY | LANGUAGE
-
-Chile Santiago Mediterranean in the geysers, mountains, US dollar Hindi and centre, desert in the volcanoes, Easter Island English north, cold (arctic) in the south
-
-Cyprus | Delhi Nicosia | Mediterranean Paphos harbour and rupee English castle, windsurfing, water skiing
-
-India Mieesia Delhi | tropical climate in the the Taj Mahal, temples euro (Turkish | Greek and/ south, temperate alpine | and palaces, the Himalaya | lirainsome | or Turkish in the north Mountains places)
-
-The Dublin mild, wet and changeable! desert excursions, the euro Spanish
-
-Republic ancient city of Petra, of Ireland archaeological sites Jordan | Amman hot and dry most ofthe | Viking museums, castles, | dinar English and year hiking lrish Gaelic
-
-USA Washington | wide variety of climate The White House, Disney | peso Arabic
-
-DC types — more tornados World, the Grand Canyon than the rest of world combined
-
-#### Reading — Where to go when
-
-3. Read more about three of the places in Exercise 2. Complete the texts with the place names in the box. Dallas Galway Ireland Jackson Hole Jordan Petra the United States January is a great time to visit ' in
-
-. The weather is generally clear and sunny in the mountains but there can be very heavy snowfalls. The slopes here are ideal for skiing and snowboarding.
-
-We took a connecting flight from ° and the airport is ten minutes from the town centre. Getting to the resort is easy as there are frequent shuttle buses. More information is available on our website.
-
-April is the best time to visit 4 , before the extreme heat and sandstorms. A day trip to visit the rose-red city of 5 , one of the world’s greatest monuments, is not to be missed. Explore the site on foot, by camel, donkey or horse-drawn carriage.
-
-S on the west coast of ’ is a good place to visit in September for its annual oyster festival. The Aran Islands and Connemara are also not far away. You go by ferry to Aran, an archipelago of three tiny islands where the main language is Irish and life has a more traditional pace. Check the forecast beforehand and pack a pullover and a raincoat — you can expect frequent showers and it can be cold and windy along the dramatic rocky coast.
-
-4. Complete the lists of vocabulary under the headings with the words and phrases in bold in the text. Use a dictionary to help you. Add at least two more words to each list.
-
-Natural features Weather 4 mountains forecast Transport Attractions camel oyster festival L J
-
-**WHERE TO GO?**
-
-**GRAMMAR. =**
-
-Use a/an to talk about a singular countable noun for the first time, e.g. a pullover, a raincoat.
-
-Use the:
-
-® to refer to a specific or particular thing, e.g. the lake by our resort, the town centre (there's only one).
-
-* with the names of islands or countries when they are a collection of islands or states, e.g. the Aran Islands, the United States of America.
-
-¢ with the names of rivers, oceans and seas, deserts and with some forests, e.g. the River Ganges, the Black Forest (but Sherwood Forest). ¢ with names of mountain chains, e.g. the
-
-Himalayas, but not with mountains, e.g. Mount Everest.
-
-° with superlatives, e.g. the best time to visit. There is no article (@):
-
-e before the names of most cities and countries, e.g. © Dallas, O Jordan.
-
-¢ before plural nouns used in a general sense, e.g. O people, © frequent showers.
-
-¢ before uncountable nouns, e.g. © information, @ transport, @ accommodation.
-
-See Grammar reference, page 115.
-
-a,
-
-5. Study the Grammar box and complete the texts with the, a, an or @ if no article is necessary.
-
-1. September is ' best time for? _ cruise in 3 Turkey as*____s weather is warm but not too hot.°__ week is probably sufficient to visit®___ most important sites. Walking,
-
-7. diving and ® snorkelling are all ° popular activities.
-
-2. In December, '°___air is clear and bright, perfect for "' travelling on " fast-flowing Mekong River. Although you can fly into '3 Luang Prabang, entering
-
-4. country by ®___s boat from © Thai border will enable you to really appreciate W spectacular mountains of northern Laos.
-
-#### Writing — A review
-
-6. Write a review for a travel trade webzine. Use the texts in Exercise 3 as models.
-
-© Choose a month or season and a destination that is worth visiting during this period.
-
-¢ Describe the destination. Write about its geography, climate and transport.
-
-© Describe its natural features and attractions.
-
-### 4.3 Offering advice — Professional skills
-
-**PROFESSIONAL SKILLS.**
-
-**OFFERING ADVICE**
-
-Ls 4 geants aes I i sont =i: el
-
-| will find the best deal for you!
-
-Call or email me for expert advice on planning your perfect vacation.
-
-| can help you with selecting a vacation, air travel, accommodation, car rental, ocean cruises or customized tours. | also organize family reunions and can work with you on organizing a wedding and honeymoon. Whether it’s an individual or group vacation, | will work enthusiastically
-
-no matter what your budget or destination to organize a Patricia Walsh, Founder wonderful and memorable vacation. and CEO of BettaVacations Ni o Speaking Listening
-
-**A PERSONAL SERVICE COSTA DE SAUIPE**
-
-1. 🎧 Look at the BettaVacations website. The people 2 ©))©2> Listen to Patricia calling Barbara Klein below have contacted Patricia to find a holiday with a proposal. Complete the notes below. Is for them. What kind of holiday do you think the holiday similar to any of your ideas? would be suitable? Discuss your ideas with r ~ @ parser Destination ( i A dati Barbara (46) and Hank (48) are from Seattle ccommoaation and have two teenage sons — Judd (15) and ere : Ashley (17). The parents want a change from Activities available the rainy weather in Seattle and they need How to get there to relax. The boys are very active and love water sports. Best time to go Richard (72) and Jacqueline (75) Goldman from Orlando are a retired couple who want Weather to spend some of their savings on a special — Y vacation. They describe themselves as ‘active . -_ ao and sociable’ but Richard has arthritis in his 3 What did Patricia know about the family’s legs and they get tired easily. Richard and interests that helped her find a special Jacqueline say they would like to visit the selling point for this holiday? What was the West Indies. selling point? ie Z
-
-B PROFESSIONAL SKILLS: © == 29) 1 Oe | 4 Match the beginnings of the expressions 1-6 on the left with the endings a-f. |
-
-_ Professional language: Offering advice
-
-1 | recommend
-
-2. | suggest you
-
-3 If |
-
-4. | advise you _ 5 Maybe | could
-
-6. Why were you, d the shore excursions.
-
-a interest you in a weekend break?
-
-f to keep your cash in a money belt.
-
-b | would avoid the gym in the mornings.
-
-c check the weather forecast before you leave. | e don't you think about it and call me back tomorrow?
-
-5. Complete Patricia's email proposal to Richard and Jacqueline Goldman with suitable expressions from the Professional skills box. Why is this a suitable holiday for these clients?
-
-Hi Richard and Jacqueline
-
-I’m delighted that Barbara Klein recommended BettaVacations to you and we’ll do our very best to work with you to find your dream vacation!
-
-If you’d like to explore the West Indies this winter, |'____you to take a cruise. It’s a great way to see the world and relax at the same time. I’m going to? a seven-day package on board a luxury ship owned by Celebrity Cruises. It sails from Fort Lauderdale and stops at Catalina Island in the Dominican Republic, Saint Thomas in the Virgin Islands and Paradise Island in the Bahamas. The cabins are first-rate, with a spacious double bed, safe-box, TV and a private balcony. If you want to really spoil yourselves, maybe ° reserve a first-class cabin for you? We can get a special reduction if we book early. Entertainment on board includes a theatre, an aqua spa, beauty treatments and gym facilities, all with a panoramic view of the ocean. The shore excursions are all interesting -
-
-| particularly 4 the Atlantis tour, where you can observe all the sea life from a glass bottom boat.
-
-The best time for you would be during winter, when the weather is most enjoyable. °
-
-| wouldn’t go during the hurricane season (June through November) because the weather can be rather unpredictable.
-
-Why © contact me again so we can begin making arrangements?
-
-Very truly yours
-
-#### Speaking — Professional advice
-
-6. Work in pairs. You are going to practise giving professional advice. Student A, turn to File 19, page 109. Student B, turn to File 22, page 111.
-
-Take turns to ask for and give advice on organizing a trip. You need to discuss:
-
-e the best time to go
-
-¢ what the client should take with them e how to get there
-
-¢ how to avoid being ill e the best place to stay
-
-@ advice concerning visas
-
-#### Writing — An advice email
-
-7. Follow up your conversation with an email (200-250 words) to your client which summarizes the most important advice. Use the model in Exercise 5 to help you.
-
-### 4.4 Develop a destination — Case study
-
-ep) Ze 0 oo 2 t~ Sp) Lu OQ
-
-CASE Siglo
-
-**DEVELOP A DESTINATION**
-
-**_CASE STUDY MENU __}**
-
-imaginary country called Eldorado.
-
-Aim: To complete a detailed SWOT analysis of the tourism industry in an
-
-1. Read and discuss the potential for a tourist destination.
-
-2. 🎧 Listen to an interview with a tourism official.
-
-3. Read and exchange information about development plans.
-
-4. Complete a SWOT analysis of the tourism industry in Eldorado.
-
-4. Read about Eldorado, a small country which is trying to develop its tourism industry. Complete the text with the words in the box.
-
-( archaeological sites architecture complex investment landscape rainy season temperature tropical Eldorado is one of the most many other interesting ° in
-
-| spectacular countries in the world | with a wide range of natural
-
-: including forests, mountains and volcanoes in the north and rocky beaches in the south, ideal for snorkelling and diving. The climate Piaisé with warm sunny weather | most of the year round and a short | : from October through to the beginning of December. The weather is pleasantly warm but not uncomfortably hot, with an average
-
-4. around 30°C outside the wet season.
-
-The country also has a rich cultural heritage. The mountains to the north contain one of the most important sacred sites of the ancient world and the remains of the magnificent Bluestone Palace ° at Villanova is the best known ruin. There are also
-
-What should it focus on?
-
-experience?
-
-2. Discuss the questions with a partner.
-
-the country to visit. The National Museum in the capital, Pizarro, has an excellent collection of artefacts and pottery dating back to the
-
-4th century and there are many fine examples of colonial ” in the city itself, including the Governor's official residence.
-
-After several decades of economic and social problems and a recent civil war, Eldorado is now entering a period of recovery. The government is facing problems such as high unemployment, poverty and low standards of living but is determined to exploit the country’s potential and develop the tourism industry. However, recent political unrest has left the country with a poor image and tour operators are not convinced that the country is a safe ®
-
-1. What kind of tourism do you think the Eldorado government could develop?
-
-2. Which countries should Eldorado target to attract tourists from?
-
-3. What kinds of problems do you think investors in tourism in Eldorado might
-
-**DEVELOP A DESTINATION A**
-
-An interview with the Director of Tourism
-
-3. 🎧 ©) > Jon Jackson is director of Eldorado's national tourism promotion agency. Listen to the interview and answer the questions.
-
-1. How has the country changed recently?
-
-2. Which countries do tourists to Eldorado come from?
-
-3. What was the effect of the Lost and Found reality TV programme on the Eldorado ; a tourism industry? N
-
-4. What are the two Spanish hotel chains planning to do?
-
-5. What is a tax exemption? How big a tax exemption does the Eldorado government offer to foreign investors? q
-
-🎧 4. ©))) Listen to the interview again. Match the statistics with the numbers in the box.
-
-( 60,000 US $99 million 16% 5 11.8% 7,800 13,000,000 38,000 )
-
-1. the number of years since the end of the civil war
-
-2. the number of US visitors last year
-
-3. the revenue generated by tourism in the last four months
-
-4. the amount by which investment in tourism has increased this year
-
-5. the amount by which tourist receipts are going to rise
-
-6. the number of households who will watch Lost and Found
-
-7. the number of hotel rooms in Eldorado
-
-8. the number of hotel rooms in neighbouring countries
-
-TASK a iil
-
-Work in pairs. Student A, turn to File 2, page 102. Student B, turn to File 24, page 112. Read your information about tourism in Eldorado.
-
-1. Discuss the new information you have learnt with your partner. Use your shared knowledge to complete a detailed SWOT analysis of the tourism industry in Eldorado.
-
-2. Decide whether, in your opinion, Eldorado represents a safe investment. Writing a press release
-
-3. Present your conclusions to the class.
-
-5. Using the information from the a Strengths Weaknesses ‘\ case study and your own ideas, write a press release designed to promote Eldorado as an international tourist destination, and attract and reassure both tourists and potential investors. Use the model in the Writing bank on page 96 to help you.
-
-Opportunities Threats
-
-**KEY WORDS**
-
-archaeological site breeze cancelled climate cloudy disruption fog forecast monsoon palace rainy season shower _ tropical
-
-\ a See DVD-ROM Mini-dictionary ‘ site dj Ke 4
+- 🎧 **Track 4.1** — Hai bản tin thời tiết. Bản 1: đang là mùa nào, sáng và chiều thời tiết ra sao. Bản 2: bản tin phủ khu vực nào, dự báo cho vùng Địa Trung Hải, nơi nào có mưa rào rải rác và gió mát. Nghe thêm lần nữa để nhặt từ đồng nghĩa: *overcast*; *chilly* và *cool*; *sunny spells*.
+- 🎧 **Track 4.2** — Patricia (BettaVacations) gọi cho Barbara Klein đề xuất một kỳ nghỉ: ghi lại điểm đến, chỗ ở, hoạt động, cách đi, thời điểm nên đi, thời tiết — và chỉ ra đâu là selling point cô ấy tìm được.
+- 🎧 **Track 4.3** — Phỏng vấn Jon Jackson, giám đốc cơ quan xúc tiến du lịch Eldorado: đất nước thay đổi thế nào, khách đến từ đâu, chương trình truyền hình *Lost and Found* tác động ra sao, hai chuỗi khách sạn Tây Ban Nha định làm gì, *tax exemption* là gì và ưu đãi tới đâu. Nghe lại để ghép tám con số với ý nghĩa của chúng.
 
 ## Unit 5 — Things to do
 
-> - **Grammar:** Conditional structures with *if*
-> - **Vocabulary:** Describing attractions · Geographical features · Activities · Works of art · Calculating entrance fees and prices
-> - **Professional skills:** Speaking to a group
-> - **Case study:** Plan a coach tour
+> **Sách giấy tr. 40–47** · Grammar: conditional structures with *if* · Vocabulary: describing attractions, geographical features, activities, works of art · Professional skills: speaking to a group · Case study: plan a coach tour
 
-### 5.1 Describing attractions — Vocabulary
+### 1. Mục tiêu
 
-Case study: plan a coach tour
+- Dùng ngôn ngữ guidebook để giới thiệu hoạt động và điểm tham quan cho hấp dẫn.
+- Gọi tên đặc điểm địa lý và các hoạt động ngoài trời.
+- Dùng câu điều kiện với *if* để gợi ý và tư vấn.
+- Thuyết minh trước một nhóm khách, kể cả khi mô tả một tác phẩm nghệ thuật.
+- Lên lịch trình và tính giá một coach tour tám ngày.
 
-#### Reading — The Paris of South America
+### 2. Từ vựng
 
-Grammar: conditional structures with if
+#### Guidebook phrases
 
-Vocabulary: geographical features, describing attractions, activities, works of art Professional skills: speaking to a group
+- *is famous for* — nổi tiếng về · *lined with* — hai bên là, san sát
+- *take advantage of* — tận dụng · *be sure to check out* — nhất định phải ghé
+- *enjoy a great day out* — có một ngày chơi đã đời · *a perfect starting point* — điểm xuất phát lý tưởng
 
-4. Read the information from the DK Eyewitness Travel Guide to Argentina about things to do in Buenos Aires city. Which paragraphs mention the following? Write the letter next to the activity.
+#### Đánh giá điểm đến
 
-__ eating out __ listening to music __ enjoying the café culture
+| Tích cực | Tiêu cực |
+| --- | --- |
+| affordable (phải chăng) · family-fun · lively (nhộn nhịp) | overrated (được tâng bốc quá) |
+| worth visiting · value for money | touristy (đầy tính du lịch, mất chất) · packed (chật cứng) |
 
-__ taking boat trips __ learning to dance __ seeing paintings and architecture
+**Địa lý:** desert · mountain range (dãy núi) · mountain peak (đỉnh) · river · waterfall · lake · glacier (sông băng) · plain (đồng bằng) · plateau (cao nguyên) · ravine (hẻm vực) · rainforest · wilderness (vùng hoang dã) · steppe · archipelago (quần đảo) · grassland · landscape.
 
-__ watching sport __ shopping for handicrafts __ remembering a famous person pe
+**Hoạt động:** angling (câu cá) · bird-watching · climbing · hang-gliding (dù lượn) · horse-riding · quad-biking · rafting · skiing · trekking · whale-watching.
 
-A One of the great capitals for arts and leisure, Buenos Aires city, sometimes known as the Paris of South America, ' its history and culture. The streets and boulevards are ? beautiful buildings, world- class art galleries and museums, and if sport is your thing, Buenos Aires city is also home to one of the world’s best football teams and the best place on the planet to catch a polo match.
+#### Works of art
 
-B Many of Buenos Aires city’s bars and restaurants are open until the early hours. ° of the long nights, drinking dark roasted coffee with friends at the café La Biela or going to La Cabafa Las Lilas, one of the city’s oldest parrillas, or grill houses, for a taste of Argentinian beef.
+- Thể loại vật thể: fresco (bích hoạ) · tapestry (thảm treo) · vase / pottery (gốm) · statue / sculpture · wood carving.
+- Genres trong hội hoạ: still life (tĩnh vật) · landscape · portrait (chân dung) · abstract · historical.
+- Chất liệu: marble · bronze · stone · wood · clay.
+- Động từ: paint · carve · model · sculpt · engrave · cast.
+- Dụng cụ: oil paint · watercolour · pastels · canvas · brush · easel.
+- Tả màu: bold · rich · vibrant · light · dark.
+- Trường phái: Cubism · Impressionism · Fauvism · Renaissance · Romanticism.
 
-C Tango enthusiasts should 4 the Plaza Dorrego in the San Telmo barrio (neighbourhood). The square is famous for its live tango musicians and dancers who encourage spectator participation. The Confiterea Ideal is a café that holds tango classes for beginners and there are other milongas (tango nights) at La Calesita. D For a taste of history ® visit the Recoleta cemetery, the final resting place of hundreds of famous Argentinians. Most visitors probably come to see the tomb of Maria Eva Duarte de Perén, also known as Evita. E Forty-five minutes from the capital is an unspoilt subtropical delta full of islands and waterways.
+**KEY WORDS (sách):** authentic · canvas · glacier · handicrafts · itinerary · mountain peak · plain · rafting · region · sculpture · touristy · trekking · vineyard · waterfall.
 
-Take a river bus to the Puerto de Frutos and ° shopping at the craft fair. This is ” for exploring further down the river by booking a boat trip at the Estacién Fluvial in Tigre.
+### 3. Ngữ pháp
 
-2. Complete the text in Exercise 1 with the guidebook phrases in the box.
+**Conditional structures with *if*** *(Grammar reference tr. 116)*
 
-a perfect starting point is famous for be sure to check out enjoy a great day out lined with take advantage
+*If* mở đầu một điều kiện — chuyện có thể xảy ra hoặc không, tuỳ hoàn cảnh.
 
-2
+- **Điều kiện loại 1** — *if* + hiện tại → mệnh đề chính dùng *will*: *If you like dramatic landscapes, you'll love Mesopotamia.* (không nói *if you will like*) · *You'll have a great time if you visit my country.*
+- **Dạng gợi ý** — *if* + hiện tại → *would* / *should*: *If you have customers who enjoy fiestas, I'd recommend the carnival in the city of Gualeguaychú.* · *If you're looking for excitement, you should take a boat trip to the edge of the falls.*
 
-3. What advice would you give to a visitor to Buenos Aires city who:
+Đây chính là khuôn câu bạn sẽ dùng suốt nghề tư vấn: nêu nhu cầu của khách ở mệnh đề *if*, đặt đề xuất của bạn ở mệnh đề sau.
 
-a wants to buy handicrafts and souvenirs?
+### 4. Practically speaking
 
-b is a gourmet?
+#### Speaking to a group — thuyết minh trước nhóm
 
-¢ who likes going to bed late?
+1. **Research the subject matter** — nắm chắc nội dung trước đã.
+2. **Rehearse what you are going to say** — tập trước thành tiếng.
+3. **Speak clearly and distinctly** — nói rõ, tròn tiếng.
+4. **Make sure everyone can hear you** — để ý cả người đứng sau cùng.
+5. **Sound enthusiastic** — chèn chút hài hước hoặc một mẩu chuyện để giữ sự chú ý.
+6. **Drink plenty of water** — giọng sẽ mỏi nhanh hơn bạn tưởng.
+7. **Don't speak for too long** — đa số khách muốn một cái nhìn tổng quan, không phải chi tiết.
 
-d wants to escape from the city for a while?
+Nhớ luyện đọc năm tháng và kích thước khi thuyết minh tranh: *1659* = sixteen fifty-nine · *circa 1850* · *2nd century* = the second century · *C17th* = the seventeenth century.
 
-#### Vocabulary — Guidebook phrases
+### 5. Key expressions
 
-4. Complete the sentences about some other cities with the guidebook phrases in the texts from Exercise 1.
+- *Buenos Aires is famous for its history and culture.*
+- *The streets and boulevards are lined with beautiful buildings.*
+- *Take advantage of the long nights.*
+- *Tango enthusiasts should be sure to check out the Plaza Dorrego.*
+- *Enjoy a great day out shopping at the craft fair.*
+- *This is a perfect starting point for exploring further down the river.*
+- *For a taste of history, be sure to visit the Recoleta cemetery.*
+- *The Science Museum is well worth visiting and has lots of hands-on activities for children.*
+- *The Museum Pass is excellent value for money.*
 
-1. at the Sea Life London Aquarium — home to one of Europe's largest collections of marine life.
+### 6. Talking point
 
-2. Moscow the Kremlin, Red Square and the huge GUM department store.
+- Bạn khuyên gì với khách tới Buenos Aires muốn mua đồ thủ công? Khách sành ăn? Khách thích thức khuya? Khách muốn rời thành phố một buổi?
+- Với mỗi tính từ đánh giá ở mục 2, nghĩ ra một điểm tham quan hoặc hoạt động ở vùng bạn rồi kể cho bạn học.
+- Viết mô tả địa lý nước bạn theo mẫu bài về Argentina, rồi trình bày trước lớp: nói về các vùng và những hoạt động thể thao, thiên nhiên, văn hoá gắn với từng vùng.
+- Nghiên cứu một bức tranh bạn thích, soạn lời thuyết minh cho audio guide, rồi viết thành một entry cho catalogue của bảo tàng (mẫu ở Writing bank tr. 97).
+- **Case study:** lên lịch trình tám ngày cho 35 khách cao tuổi Mỹ (hạ cánh CDG 10.30 thứ Hai 7/10, bay về 12.00 thứ Ba 15/10, đã đặt trọn một ngày tham quan Paris, tuổi trung bình 70 nên nhiều người đi lại khó khăn). Tính chi phí: nửa ăn 60 €/người/ngày · tài xế và hướng dẫn 500 €/ngày · xe 35 chỗ chạy được 160 km một bình, khoảng 235 €. Cuối cùng gửi email 100–150 từ báo giá cho Bethany Martinez.
 
-3. Avenida 9 de Julio is cinemas, cafés and restaurants and luxury specialty shops.
+### Luyện nghe
 
-4. When in Rome, visit the Colosseum, Piazza Navona and the Trevi Fountain.
-
-5. Santiago de Compostela is for a walking tour around the countryside of
-
-Galicia.
-
-6. While you're in Dublin, of the fantastic live music scene.
-
-**DESCRIBING ATTRACTIONS**
-
-5. Work in pairs. Complete the descriptions of tourist attractions with the expressions in the box. Which create a positive impression and which are negative? Write P or N.
-
-affordable fun lively overrated packed touristy value for money worth visiting
-
-1. Miramar used to be an attractive seaside town but now it's become very touristy and is full of souvenir shops. N
-
-2. The Science Museum is well and has lots of hands-on activities for children.
-
-3. The Museum Pass gives huge discounts on tickets to monuments, palaces and museums, and is excellent
-
-4. | recommend the open-air market if you want to buy handicrafts at prices.
-
-5. For family- activities, visit Lujan Zoo in the Province of Buenos Aires, one of the city’s best attractions.
-
-6. In her opinion, French food is vastly and even though she’s from Paris, she prefers international cuisine.
-
-7. She's more interested in a quiet destination and wants to avoid places with daytrippers.
-
-8. If you're going out for a night on the town, don't expect to see a crowd until after midnight.
-
-Think of a tourist attraction or activity in your region to go with each of the words and expressions above. Tell your partner about them.
-
-**THINGS TO DO 5**
-
-### 5.2 Geographical features, activities; conditionals with *if* — Vocabulary & Grammar
-
-**EXPLORING ARGENTINA**
-
-#### Vocabulary — Geographical features
-
-41 Match the different geographical features 1-8 with the names a-h. Compare your answers with a partner.
-
-1. deserts a the Himalayas, the Andes, the Atlas
-
-2. mountain ranges b Aconcagua, Everest, y | Mont Blanc > Pr 3 rivers ¢ Baikal, Ontario,
-
-2 Tanganyika
-
-4. waterfalls d the Serengeti, the Pampas, the Prairie Provinces
-
-5. lakes e the Gobi, the Kalahari, the Sahara,
-
-6. glaciers f the Mer de Glace, the
-
-Jostedal, the ice sheet on Antarctica
-
-7. plains g Niagara, Victoria, Iguazu
-
-8. mountain peaks h the Nile, the Ganges, the Amazon
-
-2. Complete the geographical description of Argentina with the correct words in the box.
-
-[ glaciers landscapes peaks | plains rainforests wilderness
-
-Fa
-
-A geographical description of Argentina
-
-Argentina is the second largest country in South America after Brazil and the eighth largest country in the world. It has borders with five other countries — Chile in the west, Paraguay and Bolivia in the north and Brazil and Uruguay in the northeast. Due to its immense size (2.8 million km?), Argentina features a wide range of different ' . The vast 2 of the central Pampas region are characterized by flat and fertile grassland, while the west features the high
-
-3. and deep ravines of the Andes, the world’s highest mountain range outside Asia. The north boasts subtropical * and also the magnificent Iguazu Falls, one of the world’s great natural wonders. The steppe lands in the south of the country consist of a mainly dry plateau, although rivers, lakes and
-
-: can be found along the mountain range in the west. At the southernmost tip of the country, the remote archipelago of Tierra del Fuego is the perfect starting point for travellers who wish to visit Antarctica, the Earth's last great °
-
-Argentina | e eee Limit of the bed and subsoil
-
-— Outer limit of the Rio de la Plata
-
-«eee Lateral limit of Argentina — Uruguayan maritime
-
-**EXPLORING ARGENTINA 5**
-
-#### Listening — Things to do in Argentina 🎧
-
-3. 🎧 Beatriz Guido from the Argentinian Secretariat of Tourism is giving a presentation of the country’s attractions to European travel agents. Listen and | make notes on the geography of the regions: © Pampas Mesopotamia the Central Region Cuyo Patagonia e 1,
-
-4. 🎧 ©) Match the activities in the box with the icons on the right. Then listen again and list all the activities Beatriz mentions for each region.
-
-angling bird-watching climbing hang-gliding horse-riding quad-biking rafting skiing trekking whale-watching
-
-5. Which regions and places in Argentina would you recommend to somebody:
-
-1. who is interested in architecture? 4 wants to visit the vineyards?
-
-2. likes watersports? 5 isn't very fit but wants to see the Andes?
-
-3. wants an authentic cultural experience? 6 is interested in wildlife?
-
-**/ GRAMMAR:**
-
-If introduces a condition — something that may or may not happen, depending on the circumstances.
-
-1. First conditional (if clause + present tense — result clause + will)
-
-The ifclause introduces a possible situation; the main clause states the result.
-
-If you like dramatic landscapes, you'll love Mesopotamia. (NOT #yeutttike)
-
-You'll have a great time if you visit my country.
-
-2. Ifsentences can introduce suggestions (if clause + present tense — suggestion clause + would/should) If you have customers who enjoy fiestas, I‘’d recommend the carnival in the city of Gualeguaychu.
-
-If you‘re looking for excitement, you should take a boat trip to the edge of the falls. See Grammar reference, page 116.
-
-6. Study the Grammar box and complete the if sentences with the correct form of the verbs in brackets (+ will, should or would as necessary).
-
-1. Ifyou dramatic landscapes, you Argentina. (like / love)
-
-2. You to adapt to the high altitude if you walking in the Andes. (need / go)
-
-3. If they overnight, they tired in the morning. (travel / feel)
-
-4. We an opportunity to see some amazing places if we in Buenos Aires city. (miss / stay)
-
-5. If you for a taste of the real Argentina, we ____ staying on a ranch. (look / recommend)
-
-6. You Cérdoba if you interested in colonial architecture. (visit / be)
-
-7. If you____ to go whale-watching, you__a boat trip from the Puerto Piramides. (wish / take)
-
-8. Ifhe____ to experience an authentic carnival, he ____ to Gualeguaychu. (want / go)
-
-#### Writing — A geographical description
-
-7. Write a geographical description of your country. Use the text in Exercise 2 as a model to help you. Present your description to the class. Talk about some of the tourist attractions and activities related to sport, nature and culture in the different regions.
-
-### 5.3 Speaking to a group — Professional skills
-
-#### Speaking — Describing a work of art
-
-| Look at the images of different works of art A-E and match them with the genres
-
-1-5. Check your answers with a partner. Which do you like/not like? Why?
-
-1. a fresco 2 a vase (a piece of pottery) 3 a tapestry
-
-4. astatue/sculpture 5 wood carving
-
-Complete the descriptions with the names and places in the box. Which works of art A-E do they refer to?
-
-[ Achilles vase Mosque of Ugba Pompeii The Lady and the Unicorn The Thinker
-
-1. ______ is the title of a series of six tapestries held in the Cluny Museum in Paris.
-
-2. The first bronze cast of Auguste Rodin’s sculpture__——s was madée in 1902 and is now in the Musée Rodin in Paris.
-
-3. The door to the main prayer hall ofthe ____is richly carved with geometric motifs.
-
-4. This or amphora is one of the earliest examples of Greek pottery.
-
-5. This fresco showing a domestic scene was painted on a wall of a building in
-
-#### Vocabulary — Talking about works of art
-
-3. Match the groups of words 1-6 with the descriptions a-f.
-
-1. still life, landscape, portrait, abstract, historical a painter's esnips
-
-2. marble, bronze, stone, wood, clay b adjectives to describe colour
-
-3. paint, carve, model, sculpt, engrave, cast é maior art movements and
-
-4. oil paint, watercolour, pastels, canvas, brush, periods easel d genres in painting
-
-5. bold, rich, vibrant, light, dark e raw materials
-
-6. Cubism, Impressionism, Fauvism, f verbs to describe artistic Renaissance, Romanticism creation
-
-Complete the sentences with the appropriate form of words from Exercise 3.
-
-1. The artist Rembrandt used himself as a model and painted many self-p
-
-2. The Venus de Milo is a white m statue by an unknown Greek sculptor.
-
-3. Van Gogh's paintings are remarkable for their b and v colours.
-
-4. There is a beautifully c wooden staircase in the main hall of the castle.
-
-5. | is a term associated with a group of French painters in the late 19th century.
-
-6. She put the new canvas on the e and started to get her paints ready.
-
-7. His famous s painting of a bowl of lemons is in the National Gallery.
-
-8B is the most popular metal for cast metal sculptures.
-
-**S SPEAKING TO A GROUP**
-
-**GUIDED TOUR OF AN ART GALLERY**
-
-5. 🎧 )"5= Listen to a guide describing the painting Ophelia above. Are the
-
-statements true (T) or false (F)? Correct any false statements.
-
-1. Millais was a great admirer of the paintings of Raphael. T / F
-
-2. This painting dates from the late 19th century. T/F
-
-3. The Pre-Raphaelites were inspired by works of literature. T/ F
-
-4. Ophelia killed herself by drowning in a river. T / F
-
-5. It took several months to complete the painting. T/F
-
-6. Millais paid Elizabeth's father £50 to use her as a model. T/ F
-
-B PROFESSIONAL SKILLS: 223i Ol
-
-6. Complete the tips for speaking to a group with the words in the box.
-
-Sse ES ES PoE SMSO
-
-Don't speak Drink Make sure Rehearse Research Sound Speak clearly and distinctly.
-
-everyone can hear you.
-
-the subject matter.
-
-what you are going to Say. | plenty of water as your voice may get tired.
-
-See ee as | enthusiastic. Use some humour or an anecdote to maintain interest. |
-
-N Qo oF WYN = for too long. Most people just want an overview, not detail.
-
-7. 🎧 ©)"S= Listen and write the dates and dimensions you hear for six paintings.
-
-8. Practise saying these dates with a partner. 1.1659 2 circa1850 3 2ndcentury 4 C17th 5 1942 6 1267
-
-**RESEARCHING A PAINTING**
-
-Writing Do some research on a sesso ecosatcasarstbwsouscosavsonvnnonomeneunnynennesnnyicsitSSAt SRS OHSS ALATA TASCER DACRE OIE TITAN DOR ARTA eH ERE NEN NO EES painting you like. Prepare an A CATALOGUE DESCRIPTION audio guide commentary for
-
-. ’ . isitors to th llery.
-
-9. Use your audio guide commentary to write an entry In the gallery's visitors to the gallery catalogue. Use the examples in the Writing bank on page 97 to help you.
-
-### 5.4 Plan a coach tour — Case study
-
-**CASE 5] WY**
-
-**PLAN A COACH TOUR**
-
-Aim: Plan a suitable eight-day itinerary for a coach tour of France for a group of US senior citizens.
-
-Read an email requesting a customized package.
-
-2. Share information about tourist attractions in France.
-
-3. 🎧 Listen to the prices of visits to these attractions.
-
-4. Work out and cost a suitable itinerary.
-
-A request for a customized tour
-
-1. Alain Fournier, director of operations at Hexagon
-
-Voyages, has received a request for a customized tour. Read the message and look at the map of France. Which top three destinations do you think the group should visit?
-
-Dear M Fournier
-
-| have a request from a group of 35 senior citizens who wish to spend eight days (seven nights) touring France and visiting places of interest next fall. They are particularly interested in French history (many of them had relatives who fought in the Second World War) and, of course, gastronomy. Many of them would also be fascinated by all your historic monuments and kings and queens.
-
-Could you please provide a customized itinerary and your best price for this group, plus your rate of commission?
-
-We look forward to hearing from you.
-
-Yours sincerely
-
-Bethany Martinez (Roots Travel Inc)
-
-Destinations in France
-
-2. Work in pairs. Student A, turn to File 11, page 106.
-
-Student B, turn to File 15, page 108. Read about four places in France.
-
-1. Find the places on the map. Note their distance from each other and from Paris.
-
-2. Why would these places be of interest to Bethany Martinez’s group of senior citizens?
-
-3. Share your information with your partner. Decide which places you would want to include in an itinerary for this group.
-
-F Ro sv + 379 | e 572 | 627 | &
-
-662 | 364 | 409 | o ie 966 | 542 | 601 | 301] og 996 | 649 | 550 | 331 | 127 | SW eS 642 | 415 | 206 | 279 | 461 | 486 | o®
-
-689 | 313 | 585 | 186 | 234 | 359
-
-Cs \ 692 | 314 | 571 | 179%) 234°) 357 | 400} 22 xe
-
-(to UK)
-
-Golfe de St.r43/,
-
-: {Mont Saint Miche iusy Quimper} :
-
-oN
-
-: we{La Rochelle).
-
-Oradour-sur-Glane}” ,
-
-**FRANCE**
-
-Total Area : 547 030 sq.km (211 208 sq. miles)
-
-**POPULATION**
-
-@ | over 1 000 000 © | over 100000 © | over 50.000 © | over 10.000
-
-**LAND HEIGHT**
-
-Entrance fees and prices
-
-3. 🎧 |) =<. Listen to a conversation about entrance fees and prices and complete the table below. Which destination is the most expensive and which is the best value?
-
-Destination
-
-Price per Price fora | person group (if given) rec
-
-Chateau de Versailles
-
-Mont Saint Michel
-
-Caen Memorial (war museum)
-
-Avignon (Palais des Papes)
-
-Loire Valley Chateaux
-
-L
-
-Burgundy vineyard tour, Beaune Hétel-Dieu
-
-Bordeaux vineyard tour i
-
-Eiffel Tower
-
-Charles de Gaulle airport t
-
-6. Write an email to Bethany Martinez. Attach your itinerary and compose a short message (100-150 words) quoting the total wildlife price per person for the package.
-
-_ 5 Work out the cost per head of the tour. Present the whole |
-
-Saas Soo = ado feats se sy
-
-4. Work in pairs. Create an itinerary for Bethany Martinez. | Take the following information into account.
-
-1. The group arrive from Los Angeles at Charles de Gaulle Airport at 10.30 a.m. on Monday 7 October and depart on Tuesday
-
-15 October at 12.00. The flight time is ten and a half hours.
-
-2. The group have requested a full day's sightseeing in Paris.
-
-3. You have information about the distances, likely travel times and the length of the guided tours. However, you also need to take into account the fact that the average age of the customers is 70 and many of them have reduced mobility.
-
-Discover France Tour - Itinerary Mon 7 October
-
-10.30 a.m. — Arrive Paris CDG
-
-Coach transfer to Hotel Saint Louis near the Place d'Italie Afternoon — Free time
-
-Tues 8 October 9.30 a.m. — Depart for ...
-
-package to the class.
-
-Calculate the cost of the tours and visits you have chosen. * The cost of half-board accommodation is €60 per person per day. ¢ For the driver and guides, count €500 per day. |
-
-* The cost of the coach transport. (A coach carrying 35 passengers can travel 160 km on a full tank of fuel at a cost of approximately €235. You will need to calculate the distances.)
-
-authentic canvas glacier handicrafts itinerary mountain peak plain rafting region sculpture touristy trekking vineyard waterfall
-
-See DVD-ROM Mini-dictionary
+- 🎧 **Track 5.1** — Beatriz Guido (Secretariat of Tourism, Argentina) giới thiệu các vùng cho đại lý châu Âu: ghi chú địa lý của Pampas, Mesopotamia, Central Region, Cuyo và Patagonia; nghe lại để liệt kê hoạt động của từng vùng.
+- 🎧 **Track 5.2** — Hướng dẫn viên thuyết minh bức *Ophelia* của Millais: sáu câu True/False, sửa lại những câu sai.
+- 🎧 **Track 5.3** — Nghe và ghi năm sáng tác cùng kích thước của sáu bức tranh, rồi luyện đọc các mốc thời gian.
+- 🎧 **Track 5.4** — Hội thoại về giá vé vào cửa (Versailles, Mont Saint Michel, Caen Memorial, Avignon, các lâu đài Loire, Beaune, Bordeaux, tháp Eiffel): điền bảng giá lẻ và giá đoàn, xem nơi nào đắt nhất và nơi nào đáng tiền nhất.
 
 ## Review and Consolidation 1
 
@@ -2619,1990 +1119,456 @@ Conditional structures with if
 
 ## Unit 6 — Niche tourism
 
-> - **Grammar:** Verbs + infinitive or *-ing* form
-> - **Vocabulary:** Sectors in niche tourism · Dealing with numbers and statistics
-> - **Professional skills:** Dealing with figures
-> - **Case study:** Improve client security
+> **Sách giấy tr. 52–59** · Grammar: verbs + infinitive or *-ing* form · Vocabulary: sectors in niche tourism, dealing with numbers and statistics · Professional skills: dealing with figures · Case study: improve client security
 
-### 6.1 Verbs + infinitive or *-ing* form — Grammar
+### 1. Mục tiêu
 
-#### Speaking — Niche tourism vs mass tourism
+- Phân biệt niche tourism với mass tourism và gọi tên các phân khúc ngách.
+- Chọn đúng dạng sau động từ: *to* + nguyên thể hay *-ing*.
+- Đọc và trình bày số liệu, tỉ lệ, phân số, tiền tệ cho tự nhiên.
+- Viết mô tả một sản phẩm du lịch ngách cho website quảng bá.
+- Xây quy trình an toàn cho khách ở vùng có rủi ro và trấn an khách muốn huỷ tour.
 
-1. Look at the features in the box. Which are characteristics of niche tourism and which of mass tourism? Put them in the correct column.
+### 2. Từ vựng
 
-cheap package tours economies of scale high spenders international hotel chains _ large tourist resorts potentiathigh-profiterargins small businesses small-scale operations
+#### Niche và mass — hai mô hình
 
-7
+| Niche tourism | Mass tourism |
+| --- | --- |
+| high spenders (khách chi nhiều) | cheap package tours |
+| small businesses · small-scale operations | economies of scale (lợi thế quy mô) |
+| potential high profit margins | international hotel chains · large tourist resorts |
 
-Niche tourism | Mass tourism potential high profit margins |
+**Các phân khúc ngách:** religious tourism (pilgrimage — hành hương, holy sites) · festival travel · battlefield tourism (trenches — chiến hào, tunnel, military hospital, the unknown soldier) · medical tourism · language courses · culinary · extreme · genealogy (tìm gốc gác gia đình) · slum · space · wildlife · avi-tourism (du lịch ngắm chim).
 
-#### Listening — Niche opportunities 🎧
+**Medical và wellness:** surgery / surgeon · therapy / therapist / therapeutic · preventative medicine · organ transplant · dental treatment · plastic surgery · well-being (physical / psychological / spiritual) · spa · thalassotherapy · vinotherapy · retreat · meditation · low-calorie · massages · relaxation techniques.
 
-2. 🎧 ©) 21) You are going to hear a talk about opportunities in niche tourism. What are the differences between niche and mass tourism? Listen and check your answers to Exercise 1.
+**An toàn và huỷ đặt chỗ:** robbed · hijacked · safety measures · valuables · refund · deposit · terms and conditions · cancel a booking · reassure.
 
-3. 🎧 ©) What are the FIVE types of niche tourism the speaker mentions? Listen again and complete the descriptions.
+**KEY WORDS (sách):** culinary · economy of scale · mainstream · niche · sector · enrol · high spender · lifestyle · operation · pilgrimage · slum · surgery · well-being · wellness.
 
-1. ______ tourism such as pilgrimages and visits to___ sites
+### 3. Ngữ pháp
 
-2. travelto__ festivals
+**Verbs + infinitive or *-ing* form** *(Grammar reference tr. 116)*
 
-3. visitsto__—_fields
+Khi hai động từ đi liền nhau, động từ thứ hai ở dạng *-ing* hoặc *to* + nguyên thể.
 
-4. ____ tourism, where people travel abroad for health reasons
+- **Đi với *-ing*:** admit (to) · appreciate · avoid · be/get used to · consider · delay · discuss · enjoy · feel like · finish · imagine · involve · keep (on) · like / dislike · look forward to · love · miss · (not) mind · postpone · practise · recommend · regret · risk · start · stop · suggest · tolerate · understand.
+  *We recommend taking a customized tour.*
+- **Đi với *to* + nguyên thể:** agree · allow sb to · can / can't afford · choose · decide · encourage sb to · expect · forget · help sb to · hope · learn · manage · mean · need · offer · promise · refuse · teach sb to · want · wish.
+  *We undertake to support community projects.*
+- **Mẹo:** số động từ đi với *to*-infinitive nhiều hơn hẳn. Nếu động từ không nằm trong danh sách *-ing* ở trên, gần như chắc chắn nó đi với *to*.
 
-5. courses aimed at people who want to learn a
+### 4. Practically speaking
 
-#### Vocabulary — Niche tourism
+#### Dealing with figures — đọc số liệu
 
-#### Reading — Niche tourism experiences
+1. Số thập phân đọc **point**, từng chữ số một: 8.5% = *eight point five percent* · 4.25% = *four point two five percent*.
+2. **m** là million, **bn** là billion: £6m = *six million pounds* · $4.8bn = *four point eight billion dollars*.
+3. Ký hiệu tiền tệ viết trước số nhưng đọc sau: €34 = *thirty-four euros* · ¥23,000 = *twenty-three thousand yen*.
+4. Phân số đọc bằng số thứ tự: ½ *a half* · ⅓ *one third* · ⅔ *two-thirds* · ¾ *three-quarters* · ⅘ *four-fifths*.
+5. Có thể đổi phân số thành tỉ lệ: *one out of three* · *four out of five*.
+6. Dấu gạch nối giữa hai số đọc là **to**: *the 65–75 age range* = *the sixty-five to seventy-five age range*.
+7. Ước lượng: *around 1.6 million* · *somewhere in the region of US $100 billion* · *about 40%*.
 
-4. Match the texts about niche tourism experiences
+### 5. Key expressions
 
-with the sectors a—c. Then complete each text with the words in the box.
+#### Mô tả sản phẩm ngách
 
-a health and wellness b religious ¢ battlefield
+- *This once-in-a-lifetime adventure gives you an opportunity to climb into the canopy.*
+- *The package includes a number of nights spent in local villages.*
+- *Preparation for the flight involves training for at least three weeks.*
+- *If you can afford to pay a starting price of £125,000, this is the experience for you!*
+- *We undertake to support community projects.* · *We avoid taking any risks.*
 
-( military soldier trenches tunnel )
+#### Lập luận về thị trường ngách
 
-1. Before we start the tour, can | remind you that flash photography is not allowed in the : but at the end of the visit you'll be able to take photos of a reconstruction of the ceremony of the unknown 2 . During the visit you'll see a ° hospital, the food store and kitchens and experience life as it was in the 4
+- *Niche tourists tend to spend more.* · *Niche tourism has more potential for growth.*
+- *If the profile could be raised, the sector could grow very fast.*
 
-( holy language pilgrimage university >
+#### Trấn an khách đang lo
 
-2. This year, I'm thinking of going on a residential : course to brush up my Spanish because last year | went on a° to Santiago de Compostela with a group of friends from ’ , and a bit more Spanish would've really come in use. And | know I'd like to visit some more
+- *I can assure you that…* · *We've never had an accident at the centre.*
+- *Our guides know the area and stay with the group at all times.*
 
-8. sites in Spain and South America in future.
+### 6. Talking point
 
-C low-calorie massages spa_ stress )
+- Vùng bạn có tiềm năng du lịch ngách nào chưa khai thác? Đề xuất trước lớp.
+- 'Medical tourism' và 'wellness tourism' có khác nhau không? Xếp các ví dụ vào đúng nhóm: khoá yoga và thiền ở Himalaya · thay khớp háng ở Thái Lan · bọc răng sứ ở Costa Rica.
+- Chọn một quốc gia nổi tiếng về health tourism (Costa Rica, Ấn Độ…), tra cứu các dịch vụ và số liệu bệnh nhân rồi trình bày.
+- Viết 80–100 từ mô tả một sản phẩm du lịch ngách cho website quảng bá.
+- **Case study:** brainstorm mọi cách Dikeledi có thể tăng an toàn cho khách. Viết mục *safety and security* 100–150 từ cho website Township Experience, kèm danh sách *do* và *don't*. Rồi viết email thuyết phục Bronwyn Jones đừng huỷ tour.
 
-Are you worried about those extra kilos? So why not try a’ break at the Gwendale Lifestyle Retreat? All the latest hydrotherapy equipment, bubble baths, pressure showers and Yin Yang oil
+### Luyện nghe
 
-0 will take away the " of modern living and relieve your aches and pains. Our specialists will advise you on how to diet and prepare your own organic meals.
-
-5. Check your answers with a partner. Who is speaking in each case - a marketing and promotions executive, a tourist or a guide?
-
-**NICHE TOURISM IN SOUTH AFRICA**
-
-6. Read the report. What sector of niche tourism does it relate to? What reasons does the writer mention to explain why South Africa is a suitable market? Compare your answers with a partner.
-
-Niche tourism in South Africa
-
-The definition of Avi-tourism is ‘travel outside one’s usual environment to view birds in their natural habitat’. Experts estimate that avi-tourism is a fast-growing sector of nature tourism; at the moment, tourists are making about three million trips internationally each year specifically for bird-watching. South Africa is already an attractive avi-tourism destination because of the wide diversity of bird species in the country, including many rare species, and tourism professionals believe it has considerable potential. Both domestic and international visitors generally have a preference for nature-based experiences, so if the profile of avi-tourism experiences could be raised and they could be marketed more intensively, the sector could grow very fast.
-
-Developing niche tourism sectors in South Africa offers many advantages. Even if niche markets are smaller than mainstream markets, niche tourists tend to spend more. Niche tourism also has more potential for growth and creates quality jobs that require specialized skills, rather than the low- or semi-skilled jobs associated with mass tourism. For example, different areas of niche tourism might need local guides and teachers who specialize in aspects of local history, culture or wildlife, or different kinds of sport and outdoor activities. Finally, since niche tourism facilities often attract independent travellers who pay for preferential treatment, they spend more locally than pre-paid package tourists who have purchased much of their travel, accommodation, food and entertainment before they arrive.
-
-**ANSINAOL SHOIN ON**
-
-### 6.2 Sectors in niche tourism — Vocabulary
-
-**NICHE SECTORS**
-
-#### Speaking — Sectors in niche tourism
-
-1. Match the names of the different types of niche tourism in the box with the photos A-F.
-
-( culinary extreme genealogy slum space wildlife >
-
-#### Vocabulary — Describing sectors in niche tourism
-
-2. Read the descriptions. Which niche tourism sector do they describe? Write the correct name from Exercise 1.
-
-1
-
-Book now for the Virgin Galactic tour beyond the Earth's atmosphere. Join five other passengers and marvel at the view of the planet from a distance of 300 km. Preparation for the flight involves training for at least three weeks at the Mojave Air and Space Port in California to get used to being weightless in space. If you can afford to pay a starting price of £125,000, this is the experience for you!
-
-2
-
-This once-in-a-lifetime adventure to Borneo gives you an opportunity to climb into the canopy and observe orang-utans in their natural environment. The package includes a number of nights spent in local villages. These transfers usually mean hiking through the forest and travelling by canoe from lodge to lodge.
-
-3
-
-Do you like experimenting with new recipes? Learn to cook Italian-style under the guidance of Gino Pieroni who has extensive knowledge both as a top class chef and a hotel manager. Gino will show you how to select the ingredients, prepare and cook them. Finally, you'll enjoy eating what you have jointly created.
-
-4
-
-If you plan to travel to the Family History Library in Salt Lake City, Utah, or toa completely unfamiliar ancestral homeland where you don’t speak the language, we recommend taking a customized tour as the best way to get the most out of your vacation.
-
-5
-
-RealWorld Tours promises to show you what you won't find in your guidebooks, the real India. Our guided tours of Dharavi (India’s biggest slum) take you to the heart of small-scale industry in Mumbai, with its famous recycling area. Our tours also contribute to the local economy as we undertake to support community projects and the activities of NGOs working in the area.
-
-Obese
-
-The White Sea in the Russian Polar Circle is the only sea in Europe which is covered by ice during winter. It is one of the best places in the world to enjoy diving under the ice, but we know that 100% safety in the Arctic weather conditions is indispensable and we avoid taking any risks. As a result, we have never had an accident at the centre.
-
-**NICHE SECTORS 6**
-
-#### Writing — Describing a niche tourism product
-
-3. Study the Grammar box, then underline all the examples of verb + infinitive with to and verb + -ing form in the texts on page 54.
-
-**| GRAMMAR:**
-
-1. When two verbs are used in the same sentence, the second verb is
-
-**EITHER:**
-
-in the -ing form, e.g. We recommend taking a customized tour.
-
-OR in the infinitive form (with to), e.g. We undertake to support community projects.
-
-2. These common verbs are followed by -ing: admit (to), appreciate, avoid, be used to, consider, delay, discuss, enjoy, feel like, finish, get used to, imagine, involve, keep (on), like/dislike, look forward to, love, miss, (not) mind, postpone, practise, recommend, regret, risk, start, stop, suggest, tolerate, understand.
-
-3. These common verbs are followed by the infinitive with to: agree, allow (sb) to, can/can't afford, choose, decide, encourage (sb) to, expect, forget, help (sb) to, hope, learn, manage, mean, need, offer, promise, refuse, teach (sb) to, want, wish.
-
-4. There are more verbs followed by infinitives than by the -ing form. If the verb is not found in the list in 2 above, it is probably followed by an infinitive.
-
-See Grammar reference, page 116.
-
-, ore S
-
-4. Choose the correct alternative.
-
-1. If you wish to enrol / enrolling on the gastronomy tour, please fill in the application form.
-
-2. For top quality dental treatment abroad, we recommend mage. going te Greate. NICHE TOURISM OPPORTUNITIES IN YOUR AREA
-
-What potential is there for niche tourism in your local area? Make some suggestions for unexploited possibilities and present them to the class.
-
-3. Unfortunately, some of our suppliers delay to pay / paying their bills.
-
-4. We plan to increase / increasing the number of space tourists in the next twenty years.
-
-5. Asa responsible travel organization, we undertake to reduce / reducing our carbon footprint.
-
-6. If you want to learn about your family history, | suggest to enrol / enrolling on this genealogy tour.
-
-7. Imagine to sleep / sleeping out under the stars in the Sahara Desert.
-
-5. Choose a niche tourism product and write a description of it (80-100 words) for a promotional website. Use the models in Exercise 2 to help you.
-
-### 6.3 Dealing with figures — Professional skills
-
-**FIGURES**
-
-#### Reading — Medical tourism
-
-‘| What do you understand by the terms ‘medical tourism’ and ‘wellness tourism’? Do they mean different things? Discuss your ideas with a partner.
-
-2. Read the report on medical and wellness tourism and check your answers to Exercise 1.
-
-va
-
-The rise of medical and wellness tourism
-
-1 Introduction
-
-The rise of medical and wellness tourism in Western societies is caused by socio-economic factors including rising health costs, a growing distrust of orthodox medicine and an increasing desire for alternative, more holistic therapies. Media pressure to conform to images of physical beauty and eternal youth is also a significant factor.
-
-1.1 The terms used to describe this form of tourism — medical, wellness, health and holistic -— vary and are sometimes used interchangeably. In fact, they describe different tourism products. ‘Medical’ tourists travel to have surgery or some other kind of medical treatment, whereas ‘wellness’ tourists go on holiday to improve their physical fitness and/or their psychological and spiritual well-being.
-
-2. Essential vs Voluntary medical tourism
-
-Essential medical tourism involves major surgery, such as organ transplants, or non-surgical procedures, such as cancer treatment. Voluntary medical tourism is concerned with preventative medicine, dental treatment and aesthetic improvements, like plastic surgery and botox injections.
-
-3. Wellness tourism
-
-There are three main sectors of wellness tourism experience: beauty, lifestyle and spiritual.
-
-3.1 Beauty tourism
-
-This typically involves a visit to a spa for water-based treatments such as saunas, hammam or steam baths accompanied by special massages and beauty treatments. Two examples of this are thalassotherapy which uses beauty products made from seaweed and mud, and vinotherapy which uses grape-based products.
-
-3.2 Lifestyle tourism
-
-This involves activities and seminars related to fitness, healthy eating, weight loss and relaxation techniques. In contrast to beauty spa visitors, lifestyle visitors are actively involved in the courses. 3.3 Spiritual retreat
-
-Spiritual retreats may be religious or non-religious but usually include techniques of meditation. Many retreats are based on specific teachings or philosophy and focus on an activity, such as yoga or T’ai Chi.
-
-3. Read the report again and answer the questions.
-
-41. What are the reasons for the growth in medical and wellness tourism?
-
-2. In which sectors of medical tourism would you put the following?
-
-a a yoga and meditation retreat in the Himalayas b aahip replacement holiday in Thailand ¢ a dental holiday in Costa Rica (for teeth veneers)
-
-3. Find TWO synonyms for increasing in line 3 of the report.
-
-4. Find TWO adjectives that collocate (are used with) the noun well-being.
-
-5. Complete the word-building table with words from the report.
-
-y (Noun Noun Verb Adjective 4 (activity) (person)
-
-q therapist therapeutic surgery surgeon 2
-
-3. relax relaxing
-
-—— an4
-
-4. keep fit fit (unfit)
-
-prevention prevent : J
-
-**DEALING WITH FIGURES 6**
-
-#### Speaking — Dealing with figures and statistics
-
-yl PROFESSIONAL SKILLS: |
-
-~ 4 When we use a decimal, we say point. Each figure is said separately: Ee 8.5% = eight point five percent 4.25% = four point two five percent
-
-2. The letter m after a number indicates million. The abbreviation bn represents billion: £6m = 6 million pounds $4.8bn = four point eight billion dollars
-
-3. When speaking about money, write the currency unit before the figure and say it after:
-
-€34 = thirty-four euros +¥23,000 = twenty-three thousand yen
-
-4. Pronounce fractions using ordinal numbers: Ye =ahalf %=one/a third 7% = two-thirds */ = three-quarters “4 = four-fifths
-
-5. Itis possible to express a fraction as a ratio:
-
-| one out of three four out of five
-
-_ 6 Pronounce a hyphen between two figures as to:
-
-the 65-75 age range = the sixty-five to seventy-five age range
-
-_ 7 Use these words to refer to approximate amounts: around 1.6 million somewhere in the region of US $100 billion about 40%
-
-🎧 4. ©))22> Study the Professional skills box. Work with a partner and take turns to practise saying the figures below. Listen and check.
-
-1. US$252. 2 €3.5m 3 ¥72525 4% 5% 6125% 7 1%m_ 8 625bn
-
-#### Listening — Medical tourism statistics 🎧
-
-5. 🎧 ©))2=> Listen to a talk about medical tourism in Asia. Identify THREE reasons for the growth of medical tourism over the last decade.
-
-6. 🎧 ©)) Listen again and complete the table with the figures.
-
-(— > Value of the global market for medical tourism
-
-Cost of a heart bypass operation in Thailand compared to the USA
-
-Over 55s as a percentage of total wellness tourists
-
-Size of the medical tourism market in Asia
-
-Lilia of the American market Singapore would like to have
-
-MEDICAL TOURISM STATISTICS q Choose a country that is known for its health tourism
-
-(e.g. Costa Rica, India). Do some research into the treatments and services available and compile some statistics relating to the number of patients treated, etc. Present your findings to the class. J
-
-### 6.4 Improve client security — Case study
-
-Y)
-
-**ETO WRI**
-
-**NICH**
-
-ASE ShUDY
-
-IMPICOY F GIEKENG SECEIC Aly
-
-Aim: To compose appropriate ‘do’ and ‘don’t’ safety tips for visitors to a dangerous region.
-
-1. Read extracts about a township experience.
-
-2. 🎧 Listen to a phone conversation and read an email about cancelling a booking.
-
-3. 🎧 Listen to a discussion about safety measures.
-
-4. Write a list of safety tips and compose an email to reassure tourists.
-
-The township experience
-
-1. Dikeledi Sisulu runs a small-scale tour operation in Steenland, a township in the Western Cape region of South Africa. Read the extract from her website and the article on page 59. Answer the questions.
-
-1. What does the Township Experience offer for tourists?
-
-2. Why did the Ashburns go to Steenland?
-
-3. What is Amaswazi’s Place and why did they want to go there?
-
-4. Do you think Steenland is too dangerous for tourists?
-
-The Township Experience
-
-The Township Experience is a unique occasion for those who desire to get to know the ‘real’ South Africa in complete safety. You can meet the locals, experience a warm welcome in our hosts’ homes and experience the community life.
-
-e Eat at Amaswazi’s Place — a local barbecue hotspot e Sample a ‘smiley’ — a boiled sheep’s head — and a glass of the local drink e Visit a community radio station and educational projects e Check out the local craft stalls for souvenirs
-
-Take a local taxi around other townships — Gugulethu, Khayelitsha and Crossroads
-
-For those with an interest in life under apartheid, a trip to Robben Island where Nelson Mandela was sent to prison is a must, as are tours where protest action took place. These tours are led by former Umkhonto we Sizwe (Spear of the Nation) freedom fighters.
-
-All trips can be customized to suit your interests and requirements.
-
-Contact us on our website.
-
-South Africa meodche {2 Rast Bay \
-
-Robben Island]
-
-**ATLANTIC OCEAN**
-
-Nielena Bay sf 6
-
-Saldanh> cy 4
-
-Table
-
-**CAPE TO!**
-
-Simon's Town | False Bay
-
-Couple robbed
-
-British tourists Saffi (29) and Rodney (34) Ashburn had their holiday ruined when they were robbed during a visit to the Western Cape township of Steenland. The couple, who were enjoying a ‘once- in-a-lifetime’ trip to the country, were staying in a luxury Waterfront Hotel but allegedly wanted to experience the ‘real South Africa’. Fellow tourists say that they complained of finding the area around their hotel boring and sanitized and ‘too much like being at home’. On Saturday night, against advice from the staff at their hotel, they hired a car and driver to take them to visit a township where they could try the local food. Their car was stopped at traffic lights by three men, who forced the driver out of the vehicle before robbing its passengers. Rodney Ashburn was slightly injured in the attack and his wife suffered from shock. The attack has worried the community but local Community Safety Officer Jan Van Der Stel hastened to reassure reporters that police have made it ‘a priority’ to find the robbers and bring them to justice.
-
-A customer phone call
-
-2. 🎧 Listen to a phone call from a customer who booked a Township Experience tour last month and read her follow-up email. Answer the questions.
-
-1. How does Dikeledi try to convince Mrs Jones not to cancel her booking?
-
-2. Do you think Mrs Jones is overreacting? Why/Why not?
-
-3. Find THREE things you could say to Mrs Jones to persuade her not to cancel.
-
-NE ee SBME Nee Bingura AA \ on x4 Morrumbalae | is \
-
-To: booking@thetownshipexperience.za
-
-From: b.jones@aol.com
-
-Subject: My booking
-
-Further to our recent phone conversation, | confirm that | wish to formally cancel my booking on the Township Experience tour. As | am cancelling outside the 30-day period before | was due to travel, | request that you refund the deposit back to my credit card, in accordance with your terms and conditions.
-
-Thank you in anticipation of your co-operation and | apologize for any inconvenience.
-
-Yours sincerely
-
-Bronwyn Jones
-
-Safety measures
-
-3. 🎧 ()) © 5 > Listen to a conversation about safety and security in Steenland. What safety measures are discussed in relation to the
-
-**INDIAN OCEAN**
-
-MORC OF fad —K Aset ) uv |
-
-Dm
-
-E Saee, 1g William's Town fai} YF Segbe stown es ph, (909 Bay Elizabeth following?
-
-1. expensive items
-
-2 money
-
-3 going out
-
-DA improve security for her customers.
-
-- Work in pairs. Brainstorm all the ways in which Dikeledi can
-
-1. Write a section for the Township Experience website on safety and security. Try to reassure potential visitors by highlighting the culinary economy of scale mainstream niche sector enrol high spender _ lifestyle positive aspects of a visit to Steenland (100-150 words). Provide a list of ‘do’ and ‘don't’ safety tips for visitors to the township.
-
-2. Write an email to Bronwyn Jones to try to persuade her not to cancel her tour.
-
-operation pilgrimage slum surgery well-being wellness
-
-See DVD-ROM Mini-dictionary
-
-Zz
-
-**NSIYNOL**
+- 🎧 **Track 6.1** — Bài nói về cơ hội trong du lịch ngách: niche khác mass ở chỗ nào, và năm loại hình ngách diễn giả nhắc tới.
+- 🎧 **Track 6.2** — Luyện đọc số: US$252 · €3.5m · ¥72,525 · ¼ · ⅗ · 12.5% · 1½m · 6.25bn. Nói trước với bạn học rồi nghe kiểm tra.
+- 🎧 **Track 6.3** — Bài nói về medical tourism ở châu Á: ba lý do khiến lĩnh vực này tăng trưởng suốt thập kỷ qua; nghe lại để điền bảng số liệu (quy mô thị trường toàn cầu, chi phí mổ bắc cầu ở Thái Lan so với Mỹ, tỉ lệ khách trên 55 tuổi, quy mô thị trường châu Á, thị phần Mỹ mà Singapore muốn giành).
+- 🎧 **Track 6.4** — Bronwyn Jones gọi điện xin huỷ booking: Dikeledi thuyết phục bằng cách nào, bà Jones có phản ứng thái quá không, và bạn sẽ nói thêm ba điều gì?
+- 🎧 **Track 6.5** — Trao đổi về an toàn và an ninh ở Steenland: biện pháp nào cho đồ giá trị, cho tiền mặt, và cho việc ra ngoài buổi tối.
 
 ## Unit 7 — Cultural tourism
 
-> - **Grammar:** The passive
-> - **Vocabulary:** Culture · Linking words
-> - **Professional skills:** Taking part in meetings
-> - **Case study:** Present a proposal
+> **Sách giấy tr. 60–67** · Grammar: the passive · Vocabulary: culture, linking words · Professional skills: taking part in meetings · Case study: present a proposal
 
-### 7.1 Culture; linking words — Vocabulary
+> ⚠️ Hai bài 7.1–7.2 (tr. 60–63) không nhận được chữ khi quét — phần tóm tắt dưới đây dựng theo Unit Menu, danh sách Key words và Grammar reference của sách; chi tiết bài tập xem bản in.
 
-> ⚠️ **Thiếu nội dung:** trang 60–61 không nhận được chữ khi OCR. Xem bản PDF gốc.
+### 1. Mục tiêu
 
-### 7.2 The passive — Grammar
+- Nói về văn hoá, di sản và cách biến chúng thành sản phẩm du lịch.
+- Nối ý mạch lạc bằng linking words.
+- Dùng thể bị động để mô tả di tích, quy trình và những điều chưa chắc chắn.
+- Điều hành và tham gia một cuộc họp bằng tiếng Anh.
+- Soạn và thuyết trình một đề xuất ứng cử danh hiệu văn hoá.
 
-> ⚠️ **Thiếu nội dung:** trang 62–63 không nhận được chữ khi OCR. Xem bản PDF gốc.
+### 2. Từ vựng
 
-### 7.3 Taking part in meetings — Professional skills
+**KEY WORDS (sách):** artefact (hiện vật) · audio guide · belief (tín ngưỡng) · coin (tiền cổ) · cultural event · cultural heritage (di sản văn hoá) · custom (phong tục) · display (trưng bày) · entry fee (vé vào cửa) · excavate (khai quật) · exhibit (hiện vật trưng bày) · fringe festival · hieroglyph (chữ tượng hình) · impact (tác động) · script (chữ viết).
 
-#### Reading — Cultural tourism in Britain
+**Đầu tư cho văn hoá:** cultural manifesto · public appetite · free admission · return on investment · GDP · arts council · heritage fund · false economy (tiết kiệm hoá tốn kém) · cultural tourists.
 
-1. The Tower of London, Stonehenge and the Roman baths are three of the top most visited cultural sites in England. What do you know about them? What sites do you know in other parts of Britain (Scotland, Wales and Northern Ireland)? Compare your ideas with a partner.
+**Lễ hội ở Anh:** the Eisteddfod (xứ Wales) · Edinburgh Festival, kèm *fringe* và *military tattoo* · Belfast Festival.
 
-2. Read the article about cultural tourism in Britain.
+**Tác động của một danh hiệu văn hoá:** regenerate the urban infrastructure · enhance the city's image · give a new dynamic to cultural life · raise the city's international profile · visitor numbers · hotel occupancy.
 
-1. Find FOUR reasons why Britain represents a good opportunity for investment in cultural tourism.
+**Linking words** (bài tr. 61) — nhóm theo chức năng: nối thêm ý *furthermore, in addition, moreover*; nêu kết quả *consequently, therefore, as a result*; nêu tương phản *however, whereas, in contrast, although, despite*; nêu nguyên nhân *since, because of, due to*.
 
-2. Why does the decrease in public investment in tourism ‘make poor economic sense’?
+### 3. Ngữ pháp
 
-3. How are cultural tourists different from other tourists?
+#### The passive — thể bị động (Grammar reference tr. 116)
 
-You can bank on culture
+- Cấu tạo: *to be* chia đúng thì + past participle; modal đứng trước dạng bị động.
+  *The Roman ruins are being excavated.* · *The new museum was inaugurated in 2012.*
+  *Guided tours can be organized on request.* · *Breakfast will be served in the dining room.*
+- Dùng *by* khi cần nêu tác nhân: *The holidays are sold direct by the tour operator, not by the travel agent.*
+- Bỏ tác nhân khi nó không thêm thông tin gì hoặc không ai biết: *The streets are cleaned every evening.* · *All their money and passports were stolen.*
+- Dùng bị động để mô tả quy trình, khi việc được làm quan trọng hơn ai làm: *The application forms are read and a number of candidates are invited for interview.*
+- Cấu trúc **it + bị động + mệnh đề** cho điều người ta tin nhưng chưa đủ bằng chứng — rất hợp khi thuyết minh di tích:
+  *It is said that the princess was murdered in the castle.* · *It is thought that Stonehenge was built to observe the stars.* · *It is believed to have been built in two stages.*
 
-Britain’s leading cultural and heritage organizations have launched their vision for the future in a document called A Cultural Manifesto.
+So sánh trọng tâm câu: *Leonardo da Vinci painted the 'Mona Lisa'.* (câu nói về hoạ sĩ) ≠ *The 'Mona Lisa' was painted by Leonardo da Vinci.* (câu nói về bức tranh).
 
-The document shows that the last fifteen years of investment in culture has created a public appetite for it that continues to grow. Free admission to national museums and galleries has also encouraged visitor numbers to rise. Consequently, arts, cultural heritage and festivals make a strong contribution to the economic and social well-being of Britain.
+### 4. Practically speaking
 
-The UK has the largest cultural economy in the world in relation to GDP and one of the most effective in terms of return on investment. Every £1 invested in culture produces £2. Two-thirds of the adult population in the UK enjoy arts festivals, visit historic sites and go to museums and galleries.
+#### Taking part in meetings — sáu chặng của một cuộc họp
 
-The manifesto argues that the recent decrease in public investment in culture makes poor economic sense. Since last year, the Heritage Fund has lost £161.2 million; the four arts councils and two film councils have lost another £172 million. ‘These are false economies and are doing immense damage to the tourism sector’, a spokesperson said. International research carried out by ATLAS (The Association for Tourism and Leisure Education) shows that cultural tourists have higher incomes and spend more than most other tourists. It is therefore essential to continue to invest in the cultural sector that makes Britain a number one international destination for cultural tourism. pas S
+1. **Mở họp** — tuyên bố bắt đầu và nêu mục đầu tiên trong agenda.
+2. **Nêu mục đích** — nói rõ cuộc họp này để bàn gì hoặc để chốt điều gì.
+3. **Mời phát biểu** — gọi đích danh, đừng để một người nói suốt.
+4. **Chuyển chủ đề** — báo hiệu rõ khi sang mục tiếp theo.
+5. **Kiểm tra đồng thuận** — xác nhận mọi người đã nhất trí trước khi đi tiếp.
+6. **Kết thúc** — hỏi có việc gì khác không, rồi tóm tắt lại.
 
-**EFFECTIVE MEETINGS**
+### 5. Key expressions
 
-#### Listening — Festivals in Britain 🎧
+- **Mở họp:** *Let's make a start, shall we?* · *Shall we begin?* · *The first item on the agenda is…*
+- **Nêu mục đích:** *The aim of this meeting is to discuss…* · *We're here to talk about…* · *We need to reach a decision on…*
+- **Mời phát biểu:** *Kristina, what do you think about it?* · *Would anyone like to comment?* · *Carla, do you have anything to add?*
+- **Chuyển chủ đề:** *Can we move on to…?* · *The next item on the agenda is…*
+- **Kiểm tra đồng thuận:** *Do we all agree?* · *Is that decided then?* · *Do I take it we are all in agreement?*
+- **Kết thúc:** *Is there any other business?* · *I think we've covered everything.* · *So, to sum up…*
 
-3. What do you know about the British cities of Cardiff, Edinburgh and Belfast? Label them on the map below.
+### 6. Talking point
 
-4. 🎧 ©9972) A tour operator wants to organize a new package for a British festival. The staff is holding a meeting to decide which festival would be the most suitable. Listen and complete the table.
+- Bạn biết gì về Tower of London, Stonehenge và Roman baths? Còn di tích nào ở Scotland, Wales và Bắc Ireland?
+- Vì sao cắt đầu tư công cho văn hoá lại bị gọi là *false economy*? Khách du lịch văn hoá khác khách thường ở điểm nào?
+- Họp nhóm ba người để chọn một lễ hội Anh làm package mới: cử một chairperson, mỗi người bảo vệ lễ hội của mình, dùng bộ mẫu câu ở mục 5 để điều hành.
+- Thành phố nào ở nước bạn có thể ứng cử Blue Ribbon Award? Nó có những hoạt động và điểm tham quan văn hoá nào?
+- **Case study:** soạn proposal summary trả lời ba câu hỏi hướng dẫn — vì sao thành phố của bạn xứng đáng và nét đặc sắc là gì · chương trình sẽ có những sự kiện chính nào · lợi ích văn hoá, xã hội và kinh tế cho cộng đồng ra sao. Thuyết trình rồi bình chọn thành phố thắng cuộc (mẫu ở Writing bank tr. 100).
 
-( | When held? | No. of visitors Advantages | Disadvantages |
+### Luyện nghe
 
-The Eisteddfod | Edinburgh Festival Belfast Festival | |
-
-5. Complete the expressions to do with meetings in the Professional skills box with
-
-ONE word in each case. Compare your ideas with a partner. You can use the audio script for the festivals meeting on page 124 to help you.
-
-**PROFESSIONAL SKILLS:**
-
-ESN NIE i =| :;United _ 1 Opening a meeting | Kingdom ae: Let’s makeas , shall we? Shall we b ? 2
-
-The first item on the a Sas
-
-_ 2 Stating the purpose of a meeting | = Thea of this meeting is to discuss ... We’re here to t about... We need to r a decision on...
-
-3. Asking someone to speak
-
-Kristina, what do you t about it? _ Would anyone like to c. ? Carla, do you have anything to a ?
-
-4. Introducing another topic | Can we m onto...? The next item on the a Sees
-
-_ 5 Checking everyone agrees
-
-Do we alla 2. Is that d. then? | Do | take it we are all ina ? | | 6 Concluding the meeting | _ Is there any other b ? | think we've c everything. | A | So tos up ...? | B \ o ) LS J
-
-Speaking Student A
-
-CHOOSING A FESTIVAL You are in favour of the Edinburgh Festival because:
-
-e It's easy to find accommodation.
-
-6. Work in groups of three. Student A, look at the information on the right. Student B, turn to File 17, page 109. Student C, turn to File 25, page 112.
-
-e It's a truly international festival with performers from all over the world.
-
-e You can buy tickets for the ‘fringe’ performances on the day.
-
-e You don’t have to book in advance.
-
-1. Read your role cards and select a chairperson for your meeting.
-
-¢ There is a military tattoo (pipe bands) at Edinburgh Castle.
-
-e You can easily combine the festival with visits to other
-
-2. Hold a meeting to choose the best festival r places of interest, e.g. Loch Ness and the Orkneys.
-
-from Exercise 4 for your new package. You are not in favour of Belfast. In your opinion, there is
-
-3. Use the language in the Professional skills ; : : 7 occasionally some violence between the different communities.
-
-box to help you conduct the meeting.
-
-### 7.4 Present a proposal — Case study
-
-**JABS SOY.**
-
-**PRESENT A PROPOSAL**
-
-1. Read about an award and answer questions.
-
-The Blue Ribbon Award
-
-Aim: To present a proposal for the Blue Ribbon City of Culture Award.
-
-2. 🎧 Listen to a meeting about the impacts of the award and complete some information.
-
-3. Read the proposal guidelines and information about one of three cities.
-
-4. Compose a proposal summary for a city and present it to the class.
-
-Positive impacts
-
-1. Read the extract from the International Travel Foundation’s website and discuss the questions with a partner.
-
-1. What's the purpose of the Blue Ribbon Award?
-
-2. Which cities in your country could apply for it? What cultural activities and attractions could they offer?
-
-The Blue Ribbon Award
-
-The Blue Ribbon City of Culture Award was set up by the International Travel Foundation to celebrate the world’s cultural richness and diversity. The aim of the award is to bring people from different countries into contact with each other's culture and promote mutual understanding. Since 1984, 30 cities have held the award, from Stuttgart to St Petersburg,
-
-Glasgow to Gdansk and Perugia to Porto.
-
-Studies have shown that a successful nomination can:
-
-e regenerate the urban infrastructure e enhance the city’s image in the eyes of its own inhabitants
-
-° give a new dynamic to its cultural life
-
-@ raise the city’s international profile and increase tourism
-
-2. 🎧 ©) =) The members of a regional Tourism Board in the UK are discussing the impact of winning last year’s award. Listen to the first
-
-part of the meeting and complete the statistics.
-
-No. of events: '
-
-No. of artists: 2
-
-Concert attendance:
-
-No. of visitors to museums and galleries: *
-
-% increase of visitors to museums and galleries: 5
-
-No. of people in the city who visited a museum or gallery: ¢
-
-National average of visits to museums and galleries: ”
-
-X
-
-=e
-
-3. 🎧 ©) = > Listen to the second part of the meeting. What does Kevin say about visitor numbers and hotel occupancy?
-
-4. Look at the photos below of two of the most popular attractions at the festival. What were they called?
-
-**CASE STUDY PRESENT A PROPOSAL**
-
-**TASK _**
-
-_ You are a member of your city’s Tourism Board and you are going to nominate a city for the Blue Ribbon Award. Read the guidelines to be followed when applying
-
-_ for the Blue Ribbon Award. Then work in three small groups. Group A, read about
-
-_ Vaasa on this page. Group B, read about Donostia-San Sebastian in File 12, page 107. Group C, read about Manchester in File 18, page 109.
-
-A
-
-1. Brainstorm your ideas regarding the key cultural features of your city and the key events of your proposed cultural programme. If possible, do some internet research for more information and ideas.
-
-aK: ws q uel ay®)
-
-S
-
-2. List the benefits of winning the award for the community.
-
-3. Compose a proposal summary based on the guidelines below. (Use the model in the Writing Bank on page 100 to help you.)
-
-4. Present your proposals to the class. Vote for the winning city.
-
-Proposal guidelines
-
-1. Why should your city be nominated for the award? What are its key features?
-
-2. What would be the key cultural events in the programme?
-
-3. What would be the overall cultural, social and economic benefits for your city?
-
-All proposals must be written in English and will be assessed by an international panel of judges.
-
-he emeecaly
-
-Group A
-
-Vaasa
-
-Why Vaasa is the best choice
-
-¢ Vaasa is an important centre for Finnish-Swedish culture (bilingual population: 70% Finnish, 30% Swedish).
-
-¢ The Vaasa archipelago is a UNESCO World Natural Heritage Site.
-
-* All the museums, theatres and attractions are easily accessible on foot or by bike.
-
-Key events
-
-* Opening ceremony — firework display launched from old sailing ships anchored in the port.
-
-¢ The Saunalab Project — will bring new dimensions to this ancient Finnish tradition. There will be saunas with glass roofs for stargazing, hot cube floating saunas, saunas built next to a Viking village, etc.
-
-¢ The Urban Darkness Experience will light up the city during the winter nights from September to March. Fires will be lit on the waterfront, in parks and in people's gardens. Open-air concerts and movies, cultural events on the theme of darkness and sporting activities (e.g. night-time golf and swimming at the heated winter beach) will take place every evening and are free.
-
-Overall benefits
-
-‘The cultural participation of adult Finns is connected to long life expectancy. Those who are very active live longer than those who are moderately active or are inactive. The health effects of culture have been scientifically proven.’
-
-(Dr Markku T. Hyyppa)
-
-Vaasa is a major centre of research into alternative sources of energy and one out of five people is a university student. The nomination would bring in extra finance to boost renewable and sustainable sources of electricity.
-
-artefact audio guide belief coin cultural event cultural heritage custom display entry fee excavate exhibit fringe festival hieroglyph impact script See DVD-ROM Mini-dictionary
+- 🎧 **Track 7.1** — Thuộc bài 7.1–7.2 (tr. 60–63), phần bị mất khi quét. Mở sách giấy để làm bài rồi bấm nghe.
+- 🎧 **Track 7.2** — Cuộc họp chọn lễ hội cho package mới: điền bảng cho Eisteddfod, Edinburgh Festival và Belfast Festival — tổ chức khi nào, bao nhiêu khách, ưu điểm, nhược điểm.
+- 🎧 **Track 7.3** — Họp Tourism Board, phần 1: điền số liệu tác động của giải thưởng năm ngoái — số sự kiện, số nghệ sĩ, lượng khán giả hoà nhạc, lượt khách tới bảo tàng và phòng tranh, tỉ lệ tăng, số dân trong thành phố đã đi bảo tàng, mức trung bình toàn quốc.
+- 🎧 **Track 7.4** — Phần 2 cuộc họp: Kevin nói gì về lượng khách và công suất phòng khách sạn.
 
 ## Unit 8 — Running a hotel
 
-> - **Grammar:** *have/get something done*
-> - **Vocabulary:** *-ed/-ing* adjectives · Hotel statistics
-> - **Professional skills:** Making presentations
-> - **Case study:** Transform the team
+> **Sách giấy tr. 68–75** · Grammar: *have/get something done* · Vocabulary: *-ed/-ing* adjectives, hotel statistics · Professional skills: making presentations · Case study: transform the team
 
-### 8.1 *-ed/-ing* adjectives — Vocabulary
+### 1. Mục tiêu
 
-Grammar: have/get something done
+- Mô tả công việc, phẩm chất và một ngày làm việc của người quản lý khách sạn.
+- Dùng đúng tính từ đuôi *-ed* và *-ing*.
+- Dùng *have/get something done* để nói về việc thuê người khác làm.
+- Trình bày mạch lạc, đúng giờ, slide sạch sẽ.
+- Chẩn đoán vấn đề nhân sự của một khách sạn và đề xuất giải pháp bằng presentation và report.
 
-Vocabulary: -ed/-ing adjectives Professional skills: making presentations Case study: transform the team
+### 2. Từ vựng
 
-#### Reading
+**Phẩm chất người điều hành:** excellent business sense · motivating · outgoing (cởi mở) · quick-thinking · theatrical (có chất sân khấu) · energetic · great people skills · 24/7 commitment.
 
-HAVE YOU GOT WHAT IT TAKES TO RUN A HOTEL?
+**Cặp tính từ *-ed* / *-ing***
 
-1. Read the article about running a hotel. Find and underline the qualities and skills in the box in the article below. Why are they useful?
+tiring / tired · boring / bored · exasperating / exasperated · irritating / irritated · exhausting / exhausted · rewarding / rewarded · motivating / motivated · demanding / demanded · fascinating.
 
-excellent business sense motivating outgoing quick-thinking _ theatrical
+**Vận hành khách sạn:** occupancy rate (công suất phòng) · quarter (quý) · housekeeper · night manager · daily staff briefing · administrative work · refurbishment (cải tạo) · check-out policy · run out of (hết sạch) · bed-night · casual labour (lao động thời vụ) · cost-cutting · staff retention (giữ chân nhân sự) · staff turnover (tỉ lệ nghỉ việc) · overtime · temps · job evaluation · incentive · empower (trao quyền).
 
-2. Read the article again and answer the questions.
+**Tiêu chí của hotel inspector:** speed of response · ability to answer questions · upselling · use of name · politeness và friendliness · clean and tidy · en-suite facilities · offer to help with baggage · clean cutlery and plates.
 
-1. Why should hoteliers be born on Krypton? 3 What is a ‘24/7 commitment’?
+**KEY WORDS (sách):** administrative work · bed-night · casual labour · cost-cutting · demanding · empower · evaluate · incentive · occupancy rate · policy · refurbishment · rewarding · run out of · staff retention · stocked.
 
-2. Why is a hotel like a theatre? 4 How do hoteliers meet basic human needs?
+### 3. Ngữ pháp
 
-(a m= Have you got what it takes to run a hotel?
+**Tính từ *-ed* và *-ing***
 
-What were the occupancy rates for the last quarter? Why aren't the flowers on the reception desk fresh? The Assistant Housekeeper has phoned in sick, what shall we do? These are typical of the issues that hoteliers have to deal with every day.
+- **-ed** tả **cảm xúc của người**: *I feel tired.* · *We were bored.* · *They were exasperated by his bad behaviour.*
+- **-ing** tả **tính chất của sự vật, sự việc** — tức nguyên nhân gây ra cảm xúc đó: *It's been a tiring day.* · *The film was boring.* · *His behaviour was exasperating.*
 
-It's a responsible job and hotel managers sometimes say that you have to be born on the planet Krypton to do it, since only Superman could manage all the different administrative, aesthetic and financial decisions they have to make on a daily basis. And if you aren’t Superman, you should at least be energetic and quick-thinking and combine great people skills with excellent business sense.
+#### have / get something done (Grammar reference tr. 117)
 
-There is also a strong theatrical aspect to running a hotel — hoteliers are ‘on stage’ all day long, smiling and keeping the guests happy, so hotel managers need to enjoy performing and have an outgoing personality. However, it’s equally important to stay motivated and motivating when working on everyday tasks with the team of staff that make everything happen behind the scenes. It's a tiring job that requires 24/7 commitment and lots of energy. Dealing with irritating and demanding guests can be exasperating and, in a recent survey, over 70 percent of hotel owners said that they didn’t just feel ‘tired’ at the end of a working day (or night), they felt ‘totally exhausted’.
+- Cấu trúc **have/get + tân ngữ + past participle** = thu xếp cho người khác làm việc đó: *We have our catalogues printed in Morocco.* · *Please get these carpets cleaned! They're filthy.*
+- Muốn nêu rõ ai làm: *We'll get an electrician to fix those lights.* · *They had the bedrooms refurbished by an exclusive interior decorating firm.*
+- *get* thân mật hơn *have*. Đừng lẫn *get someone to do something* (nhờ) với *make someone do something* (bắt buộc — và sau *make* không có *to*).
 
-Despite all this, there are not many industries as fascinating and rewarding as hospitality. To start with, it’s a profession that is never boring: every day really is different. But the real pleasure is in meeting the basic human needs for food, warmth, comfort and friendship. You can’t please all people all of the time but the art lies in wanting to try.
+### 4. Practically speaking
 
-**RUNNING A HOTEL**
+#### Making presentations
 
-Vocabulary — x
+#### DO
 
-**ADJECTIVES ENDING IN -ING AND -ED**
+- **Greet the audience** (*Good morning, ladies and gentlemen*) và cho biết bạn là ai.
+- **Speak clearly** ở tốc độ tự nhiên — đừng vội mà cũng đừng cố kéo chậm.
+- **Keep to the time allowed** — kết thúc sớm còn hơn quá giờ; tính khoảng hai phút cho mỗi slide.
+- **Keep to your plan** — đừng lan man, vừa mất thời gian vừa mất mạch.
+- **Ask if there are any questions** — chuẩn bị sẵn vài câu phòng khi khán giả im lặng.
 
-VOCABULARY: 8 0=c1)
+#### DON'T
 
-Use adjectives ending in -ed to describe feelings. = | feel tired. Wewere bored. They were exasperated by his bad behaviour.
+- Đọc từ script — hãy dùng prompt ngắn và tập trước cho tự tin.
+- Đứng chắn màn chiếu.
+- Nhồi quá nhiều chữ vào một slide.
+- Dùng font quá nhỏ, hoặc quá nhiều màu và nhiều kiểu chữ.
+- Quên soát chính tả trên slide — lỗi này để lại ấn tượng rất xấu.
 
-Use adjectives ending in -ing to describe qualities or characteristics (the reason for the feelings). = It's been a tiring day. The film was boring. His behaviour was exasperating. :
+### 5. Key expressions
 
-3. Study the Vocabulary box above. Find and underline the -ed and -ing adjectives in ( the article in Exercise 2 to describe feelings. Which adjectives can take both forms? ) Use a dictionary to check.
+#### Dẫn dắt bài trình bày
 
-motivating / motivated / demanding / demanded X
+- *Good morning, ladies and gentlemen. My name's… and today I'd like to talk about…*
+- *Let's start with…* · *Moving on to my next point…* · *As you can see from this slide…*
+- *So, to sum up…* · *Thank you for listening. Are there any questions?*
 
-4. Complete the sentences with the adjectives in the box.
+**Giao việc trong biên bản họp** — luyện luôn *have/get something done*
 
-C exhausting irritated irritating motivated rewarded rewarding >
+- *We agreed to have the reception area repainted.*
+- *Nelson will arrange to get a firm of carpenters to put up shelves in each of the rooms.*
+- *Karen agreed to contact a firm of plumbers and have any leaking faucets replaced.*
+- *Jim is going to get an electrician to look at the wiring in the laundry room.*
 
-1. All our staff are hard-working and highly
+### 6. Talking point
 
-2. The receptionist had an habit of interrupting me.
+- Bạn có tố chất điều hành khách sạn không? Vì sao người ta nói khách sạn giống một nhà hát? *24/7 commitment* nghĩa là gì? Nghề này đáp ứng những nhu cầu cơ bản nào của con người?
+- Phỏng vấn một nhân viên khách sạn ở địa phương — concierge, housekeeper, lễ tân hoặc quản lý — về một ngày làm việc của họ, rồi báo cáo trước lớp.
+- Đóng vai hai hotel inspector làm mystery guest audit ở một khách sạn bốn sao tại New York: lập checklist cho reservations, room service, breakfast và dinner, trao đổi kết quả, chỉ ra điểm mạnh và điểm yếu, rồi chốt năm việc khách sạn nên làm để cải thiện.
+- Kaizen có phải một hệ thống tốt? Bạn thấy nó có nhược điểm gì?
+- So sánh chương trình khách hàng thân thiết của vài chuỗi khách sạn quốc tế rồi trình bày.
+- **Case study:** khách sạn Howatt đang được quản lý tốt hay không? Cần đổi những gì? Làm presentation tối đa mười slide trình bày kết luận và viết report 200–300 từ nêu vấn đề kèm khuyến nghị (mẫu ở Writing bank tr. 101).
 
-3. We must make sure that staff are for excellent performance.
+### Luyện nghe
 
-4. Sometimes | have to work very long hours and it's but at least I’m never bored!
-
-5 Guests get when they don't get the service they paid for.
-
-6. If you enjoy helping people and sorting out their problems, it’s a job.
-
-Listening —
-
-**A DAY IN THE LIFE OF A HOTEL MANAGER**
-
-5. 🎧 ©) > Listen to Jim Reginato, Manager of the International Pacific Hotel in Los Angeles, talking about his job. Number the activities in the correct order.
-
-__ Say hello to the guests __ Do administrative work
-
-__ Review the Night Manager's reports __ Attend a strategy and planning meeting __ Check emails __ Have lunch with staff members
-
-__ Attend the daily staff briefing __ Check the breakfast arrangements
-
-6. 🎧 ©) Listen again and complete the information about Jim’s problems and
-
-projects.
-
-Problems this morning
-
-1. One guest's didn't arrive for an hour and a half, so we need to find out why.
-
-2. This morning, we ran out of ___in the restaurant.
-
-3. We've actually got a potential problem at the end of this week, so we had to discuss alternative accommodation arrangements for the extra guests.
-
-Ongoing projects
-
-1. At the moment we're planning a major of all the guestrooms and suites.
-
-2. We're sending the sales team over to Australia and New Zealand to get more business.
-
-3. We've had problems with check-out times recently, so we're reviewing our policy. HOTEL STAFF ROUTINES
-
-Interview a member of staff in a local hotel (e.g. concierge, housekeeper, receptionist, manager) and find out about their daily routine. Report your findings to the class.
-
-### 8.2 *have/get something done* — Grammar
-
-**HOTEL INSPECTION.**
-
-#### Speaking — Inspection criteria
-
-1. How does a hotel inspector evaluate a hotel? What might he or she expect when checking the following aspects of a hotel’s service?
-
-1. reservations 3 restaurant 5 staff
-
-2. room service 4 reception area 6 rooms
-
-#### Listening — The hotel inspector 🎧
-
-2. 🎧 ©)))2> Tina Chapman is an inspector for the Miramar chain of hotels. Listen to her talking about what she expects when she’s evaluating different services. Does she mention any of your ideas from Exercise 1?
-
-3. 🎧 Listen again. Match the hotel service areas 1-6 with Tina's checklist criteria a-f,
-
-1. Reservations a speed of service, clean cutlery and plates, asked if enjoyed meal
-
-2. Reception area_ b politeness, friendliness, use of name
-
-3. Rooms c clean and tidy, looks welcoming, offer to help with baggage
-
-4. Roomservice —d_ use of name, speed of response, ability to answer questions
-
-5. Restaurant e clean and tidy, en-suite facilities, everything in place
-
-6. Staff f speed of response, ability to answer questions, upselling
-
-#### Speaking — An inspector calls
-
-4. Work in pairs. You and your colleague are hotel inspectors sharing a mystery guest audit in a four-star hotel in New York. You are going to inspect four areas of service - reservations, room service, breakfast and dinner.
-
-1. Discuss what aspects of work you are going to evaluate and the target levels of performance. Compile a checklist for each service (see below).
-
-2. Student A, turn to File 14, page 107. Student B, turn to File 23, page 111. Read the reports of your two service areas. Complete the charts for these areas and write comments on the standards achieved.
-
-3. Ask your partner questions about their two areas and complete the charts.
-
-4. Compare and discuss your notes. What are the hotel's strengths and weaknesses?
-
-, 5 Decide on FIVE things the hotel could do to improve the level of service. Report back | tothe class.
-
-( Name of service Items checked Comments
-
-BA No more than three rings before Reservations answering the phone
-
-#### Listening — Hotel statistics 🎧
-
-be UO EInINSEECT.
-
-5. 🎧 ©))=> Listen to part of a report by the American Hotel Standards Inspectorate on improving standards in hotels in the USA. Complete the statistics.
-
-lON
-
-One significant area of improvement was in wireless internet access. '____ of the hotels inspected had wireless internet connection compared with only 2__ from just four years earlier. In addition to this, the number of hotels that charge for in-room internet use is decreasing. °___ of hotels inspected currently charge for this service, down from *___ last year and*®____in the previous year. Thirty-five percent of the hotels inspected offer iPod docking stations in-room. Of these, ° were five-star hotels and’____ were four-star hotels.
-
-It is also encouraging to note that hotel managers are becoming more environmentally responsible.
-
-8. __ of hotels now use energy-efficient lighting.
-
-9. ___ of the hotels inspected are planning to adopt Leadership in Energy & Environmental Design
-
-(LEED) standards in the next '° months. Twenty percent have already done so in the past quarter.
-
-**GRAMMAR:**
-
-1. Use the structure have/get + past participle to describe the situation when we arrange for something to be done. We have/get our catalogues printed in Morocco.
-
-Please get/have these carpets cleaned! They're filthy.
-
-2. It is also possible to include the person who performs the service.
-
-We'll get an electrician to fix those lights.
-
-They had the bedrooms refurbished by an exclusive interior decorating firm.
-
-See Grammar reference, page 117.
-
-6. Study the Grammar box and read the minutes of a meeting about the refurbishment of a hotel. Complete the action points with the verbs in the box. Use the construction have/get + verb. ( install lookat putup repaint replace rewire ) a aN Meeting held on 3rd May Present: Jim Reginato, Adelina Dinculescu, Karen Coltrane, Nelson Weekes . : ' ' Person in chengel Action point Discussion and deadline Ground floor After much discussion, we agreed to ' AD, May 26 the reception area ? and to 3 ACV Vending Services to 4 expresso/cappuccino machine in the bar. Rooms 3-9 Nelson will arrange for carpets to be NW, May 15 removed and to § a firm of carpenters to® shelves in each of the rooms. Bathrooms 21-29 | Karen agreed to contact a firm of plumbers KC, May 20 and? any leaking faucets ° Laundry room Jim is going to ® an electrician to JR, June 5
-
-10. the wiring in the laundry room. We need to install extra washing machines, so if necessary, we'll " him to 1 the whole system. J Ne oe
-
-### 8.3 Making presentations — Professional skills
-
-**PRESENTATIONS**
-
-**MAKING PRESENTATIONS**
-
-41 What are common mistakes that people make when they give a presentation? Discuss your ideas with a partner and feed back to the class.
-
-2. Study the Professional skills box about giving presentations. Complete the DOs and DON'Ts with the phrases a-j below.
-
-a ask if there are any questions f keep to the time allowed b forget to check your spelling g use lots of different colours and fonts ¢ greet the audience h read from a script d stand in front of the screen i keep to your plan e speak clearly j use asmall font
-
-**PROFESSIONAL SKILLS:**
-
-ee (e.g. Good morning, ladies and gentlemen) and tell them who you are.
-
-2. ___ at annatural speed. Don't rush or talk deliberately slowly. |
-
-3. ____. Finishing early is better than running into extra time. Allow about two _ minutes for each slide. | 4 . Don't be tempted to digress — you will waste time and you might lose your | concentration. | [5 ___. If they are slow in coming, have some ready. |
-
-**DON’T |**
-
-_ 6_____. Prepare short prompts instead and rehearse your talk in advance so you feel | confident. | | 7 ____. Check that everyone can see. | 8 or put too many words on the slide. Keep your slides clear and simple. | | 9_____. It makes the information difficult to read, especially from the back of the room. | 10 on your slides. Mistakes of this kind can create a very bad impression.
-
-**PROFESSIONAL SKILLS PRESENTATIONS**
-
-#### Listening — Kaizen 🎧
-
-3. 🎧 ))) 8.4 | Listen to a presentation about using Kaizen.
-
-1. What is Kaizen and what is it used for?
-
-2. What does the word mean? FZ =
-
-3. Which Japanese industry first used Kaizen? J
-
-4. 🎧 ©) Listen again and complete the slides for the second half of the presentation with ONE to THREE words.
-
-SS a FE Who does Kaizen concern? When and where does Kaizen happen? * Everybody. ¢ From 1
-
-* Kaizen takes place 3 i
-
-* Kaizen is based on making changes
-
-4. where improvements are possible. 2 as a a
-
-The practice of Kaizen
-
-. The philosophy of Kaizen
-
-¢ Encourage staff to work §
-
-* Empower staff to 7 :
-
-* Provide incentives by giving staff _
-
-8 .
-
-ee
-
-5. Do you think Kaizen sounds like a good system? Can you think of any disadvantages?
-
-* There is no one best way; there’s always > j
-
-#### Speaking — Making hotel improvements
-
-6. Work in groups of three. You work for an extremely badly run hotel in central New York. You have three months in which to improve the situation or it will be closed down.
-
-1. Begin by working individually. Make a list of ideas for how to make a hotel efficient. Think about: booking and reservation, staff training, rooms and housekeeping, room service and restaurants, maximizing profit margins, differentiation from the competition, use of technology and target customers.
-
-2. Hold a meeting to exchange your ideas and agree on an action plan.
-
-**CUSTOMER LOYALTY PROGRAMMES**
-
-3. Organize the information about your action plan Do a comparative study on the customer loyalty into a presentation of up to ten PowerPoint slides. programmes offered by major international hotel
-
-4. Present your action plan to the class. “a chains. Present your findings to the class.
-
-### 8.4 Transform the team — Case study
-
-Ik O fe <L O Za Za Za Oo
-
-CAs 5 FUIDY
-
-**TRANSFORM THE TEAM**
-
-1
-
-2 3 4
-
-🎧 Read about human resource problems in Paris hotels. Listen to a consultant interviewing the staff of the Howatt Hotel. Read and exchange information about recent changes at the hotel.
-
-Give a PowerPoint presentation of your conclusions and write a report.
-
-Aim: To improve human resources management at the Howatt Hotel.
-
-Human resource problems
-
-1. Read the article about Paris hotels. What kinds of problems do many hotels in Paris have these days? Why?
-
-y=
-
-Xe
-
-© Hotels in Paris
-
-PARIS — The French hotel industry is facing a nationwide problem of high staff turnover and a shortage of skilled employees. The problem is even worse in the nation’s capital, where turnover is up to 15 percent higher than in the provinces. According to a recent French government report, over 50 percent of young hotel employees in Paris leave their jobs within six months of being taken on, creating a real headache for employers. The reasons for this high turnover include low salaries, anti- social working hours and undervalued jobs with limited career prospects. The result is an undermotivated and often incompetent workforce.
-
-Interview with staff
-
-2. 🎧 ©) => Alexandre Huchet, the Manager of the Howatt Hotel in Paris, has employed a consultant to help the hotel improve. Listen to the consultant's interviews with the members of staff. What problems does each person
-
-mention and what suggestions do they make?
-
-r
-
-Problems
-
-Suggestions
-
-Louis Moulin, Restaurant Manager
-
-Problems
-
-Suggestions
-
-Munir Gadouche, Maintenance Engineer
-
-’ | f ey
-
-Problems
-
-Suggestions
-
-Fatoumata Dembele, Chambermaid
-
-Problems
-
-Suggestions
-
-Mercedes Rodes, Receptionist
-
-Exchanging information
-
-3. Work in pairs. Student A, look at the information on this page. Student B, turn to File 10, page 106.
-
-Read the documents from the hotel files. Make notes. What, if anything, can you find out about the following? Share your information with your partner.
-
-1. recent changes to working conditions, including salaries and overtime cost-cutting customer feedback — positive and negative new technology a FF W N the following members of staff: Alexandre Huchet, Francoise Lagarde, Rachida Gadouche
-
-DY TRANSFORM THE TEAM e
-
-=o Student A
-
-From: Francoise Lagarde aa
-
-To: Alexandre Huchet > aE
-
-... We can offer a generous salary, plus ten O percent commission on net profits, which will =| be reduced to three percent p.a. when profits (11 increase beyond our agreed targets.
-
-We look forward to working with you,
-
-Francoise Lagarde District Manager, Howatt Hotels
-
-Interim report — Alexandre Huchet
-
-Over the last six months, | believe | have made a number of useful changes to improve staff motivation and staff retention and increase profits.
-
-M@ Staffing
-
-All the staff now wear the same uniform and badge. | have also introduced a method of job evaluation in order to identify jobs which have similar skills and introduce flexible working arrangements. If we are short-staffed in a particular area, other employees can do the work and we don’t need to employ any temps.
-
-| have introduced a Kaizen approach to staff management which means that employees now work in teams and share their responsibilities. In the new system, teams and individuals in teams can make their own decisions, which means they work more efficiently. We have also bought new software which will monitor employees’ time and productivity so we can see who might deserve a raise or promotion. We have increased pay to take inflation into account but the salaries have stayed at last year’s levels. The new flexible working arrangements have made it possible to reduce staff overtime by 30 percent.
-
-H Finance
-
-| have made a number of changes to reduce costs. | have replaced the previous a la carte menu with pre-packaged frozen foods purchased in bulk from a local supplier. We are able to serve the same items for only 60 percent of the previous cost. As the number of tourists visiting Paris continues to rise, there will always be a shortage of bed-nights in the capital, so | have reduced discounts for internet bookings and commissions to tour operators. | am working towards a paperless reservations system so we can reduce the number of staff at the front desk. In addition, dinner reservations can now be made from the in-room television screen, which can also be used for hotel information services.
-
-Is the hotel well managed or not? What changes, if any, need to be made? Work in pairs. Prepare a presentation of up to ten PowerPoint slides outlining your conclusions. Give the presentation to the class.
-
-pa S Z is ne St ara ES Fati 7 i
-
-Writing a report
-
-A Write a report of 200-300 words describing the problems in running this hotel together with your recommendations. Use the model in the Writing bank on page 101 to help you.
-
-**= KEY WORDS**
-
-administrative work bed-night casual labour cost-cutting demanding empower evaluate incentive occupancy rate _ policy refurbishment rewarding run out of _ staff retention stocked
-
-See DVD-ROM Mini-dictionary ee
+- 🎧 **Track 8.1** — Jim Reginato, quản lý International Pacific Hotel ở Los Angeles, kể về công việc: sắp tám hoạt động theo đúng thứ tự trong ngày; nghe lại để điền các sự cố buổi sáng và những dự án đang chạy.
+- 🎧 **Track 8.2** — Tina Chapman, inspector của chuỗi Miramar, nói về những gì cô kỳ vọng ở từng bộ phận: ghép sáu khu vực dịch vụ với sáu nhóm tiêu chí trong checklist.
+- 🎧 **Track 8.3** — Báo cáo của American Hotel Standards Inspectorate: điền các tỉ lệ về Wi-Fi, phí internet trong phòng, iPod docking station, đèn tiết kiệm điện và chuẩn LEED.
+- 🎧 **Track 8.4** — Bài thuyết trình về Kaizen: Kaizen là gì và dùng để làm gì, từ này nghĩa là gì, ngành nào của Nhật dùng đầu tiên; nghe lại để hoàn thành các slide của nửa sau bài nói.
+- 🎧 **Track 8.5** — Chuyên gia tư vấn phỏng vấn nhân viên Howatt Hotel (Louis Moulin, Munir Gadouche, Fatoumata Dembele, Mercedes Rodes): mỗi người nêu vấn đề gì và đề xuất gì.
 
 ## Unit 9 — Customer service
 
-> - **Grammar:** Question forms
-> - **Vocabulary:** Customer service terms · Personal qualities · Telephone numbers · Multi-word verbs
-> - **Professional skills:** Handling telephone calls
-> - **Case study:** Improve customer service
+> **Sách giấy tr. 76–83** · Grammar: question forms · Vocabulary: customer service terms, personal qualities, multi-word verbs · Professional skills: handling telephone calls · Case study: improve customer service
 
-### 9.1 Customer service terms; personal qualities — Vocabulary
+### 1. Mục tiêu
 
-**CUSTOMER SE**
+- Kể và phân tích trải nghiệm dịch vụ tốt hoặc tệ, và biết thế nào là một *gesture of goodwill*.
+- Gọi tên phẩm chất nghề nghiệp và tạo dạng phủ định bằng tiền tố.
+- Đặt câu hỏi đúng loại: đóng, mở, đề nghị lịch sự và câu hỏi gián tiếp.
+- Nghe và nói qua điện thoại theo đúng etiquette; đọc được số điện thoại.
+- Thu thập phản hồi khách hàng và dựng kế hoạch cải thiện dịch vụ.
 
-‘a
+### 2. Từ vựng
 
-Grammar: question forms Vocabulary: customer service terms, personal qualities, multi-word verbs Professional skills: handling telephone conversations
+**Customer service:** gesture of goodwill (cử chỉ thiện chí) · complimentary (miễn phí, tặng kèm) · on the house (quán mời) · frequent-flyer mileage credit · *it shows they care* · no record of the reservation · audit · qualitative data · code of conduct · unacceptable.
 
-Case study: improve customer service
+#### Phẩm chất nghề nghiệp và dạng phủ định
 
-#### Speaking — Customer expectations
+| Tiền tố | Từ |
+| --- | --- |
+| un- | unwelcoming · unfriendly · unreliable |
+| im- | impolite · impatient · impersonal |
+| in- | inappropriate · incompetent · inefficient |
+| dis- | dishonest · disloyal · disrespectful |
 
-1. Do you agree that ‘The customer is always right’? Discuss your ideas with a partner.
+Gốc tích cực: welcoming · loyal · appropriate · reliable · competent · honest · polite · efficient · friendly · patient · respectful · well-groomed (ăn mặc chỉn chu).
 
-2. Talk about your own experiences of good or bad customer service in one or more of the following places.
+**Thu thập phản hồi:** questionnaire · mystery guest audit · focus group · phone survey · feedback area on website · staff interaction · competitions · direct questions.
 
-ahotel arestaurant astore atravelagency anairport acall centre
+**Multi-word verbs dùng qua điện thoại:** put somebody through (nối máy) · hold on (giữ máy) · get back to somebody (liên lạc lại) · pass on a message (chuyển lời) · be cut off (bị ngắt) · hang up (cúp máy) · run out (hết pin) · get through (gọi được) · look into (xem xét) · sort out (giải quyết).
 
-#### Listening — Customer service experiences 🎧
+**KEY WORDS (sách):** audit · code of conduct · complimentary · efficient manner · gesture of goodwill · incompetent · interrupt · on the house · qualitative data · show you care · sort out · unacceptable · well-groomed.
 
-3. 🎧 ()))> Listen to four people speaking about customer service. Where did each
+### 3. Ngữ pháp
 
-experience happen? Which are good experiences and which are bad?
+#### Question forms (Grammar reference tr. 117)
 
-🎧 4. ©) Which of the speakers 1-4 use the phrases below? Listen again and write 1, 2,3 or 4. Problems __ [They] had no idea what they were doing. __ There was no record of the reservation. __ There didn't seem to be any network at all. __ There was a mechanical problem.
+- **Closed questions** — chỉ trả lời được yes/no; dùng để xác nhận dữ kiện, không moi được chi tiết: *Was the room comfortable?* · *Did you enjoy your stay?*
+- **Wh- questions** — dùng để mở đầu trao đổi và thu thập thông tin: *What exactly seems to be the problem?* · *How can I help you?*
+- **Đề nghị lịch sự:** *May I sit next to you?* · *Do you mind if I smoke?* · *Would you mind sharing a room?*
+- **Câu hỏi gián tiếp** — trang trọng và lịch sự hơn; chú ý trật tự từ giống câu kể: *Can I ask you how old you are?* · *Could you tell me what time it starts?* · *Have you any idea when you'll be leaving?* · *Do you know whether he wants the executive suite?*
+- Khi *who / what / which* chính là chủ ngữ thì cũng giữ trật tự câu kể: *Who looks after the travel arrangements?*
 
-__ All the tables were taken. Customer service
+### 4. Practically speaking
 
-___ gesture of goodwill
+#### Handling telephone calls — bảy quy tắc
 
-__ complimentary box of chocolates __ It shows they care.
+- **Answer** mọi cuộc gọi thật nhanh — để chuông quá năm hồi là không chấp nhận được.
+- **Turn away** khỏi bàn làm việc và màn hình máy tính để tập trung.
+- Chào bằng tên bạn và tên đơn vị, rồi **ask** xem có thể giúp gì.
+- Nghe kỹ và đừng **interrupt**; vừa nghe vừa nghĩ sẵn câu trả lời.
+- **Smile** khi nói — nụ cười làm giọng bạn ấm và thân thiện hơn hẳn.
+- Nói rõ và chậm, **adapt** ngôn ngữ theo trình độ tiếng Anh của người gọi.
+- **Take notes** khi nhận lời nhắn có tên riêng hoặc con số.
 
-__ onthe house
+### 5. Key expressions
 
-__ frequent-flyer mileage credit
+#### Nhận cuộc gọi
 
-5. What could the people responsible in the two bad customer service situations have done to improve those situations? Discuss your ideas with a partner.
+- *Hello, Aphrodite Travel, Constantin speaking. How can I help you?*
+- *Who's calling, please?* · *It's about a booking I made recently.*
 
-**CUSTOMER SERVICE**
+#### Chuyển máy và giữ máy
 
-Vocabulary O
+- *I'm putting you through.* · *Hold on a minute, please.*
+- *I'm sorry, she's in a meeting at the moment. Can I take a message?*
 
-**PERSONAL QUALITIES**
+#### Cam kết hành động
 
-6. Complete the Employee Code of Conduct with the words in the box.
+- *I'll check straightaway.* · *I'll pass on your message and make sure she gets back to you.*
+- *I'll look into it.* · *It won't take long to sort out the problem.*
 
-( appropriate competent loyal reliable welcoming : Employee Code of Conduct = The Prestige Group of Hotels trains all its staff in customer care, particularly in the @)
+#### Khi đường truyền có vấn đề
 
-importance of having the right professional attitude and behaviour. Employees with a good professional attitude should:
+- *Sorry, we were cut off.* · *It's impossible to get through.* · *My battery has nearly run out.*
 
-¢ be warm and '! to guests when they arrive and throughout their stay.
+#### Câu hỏi lịch sự của lễ tân
 
-° be? to the organization and not criticize it in front of guests.
+- *Would you mind filling in this form for me?*
+- *Could you tell me what your credit card number is?*
+- *Do you mind if I check all the details again?*
+- *I was wondering if you would mind changing your room tomorrow night?*
+- *Could you tell me what time you want me to give you an early morning call?*
 
-© wear ° clothes and make it a priority to be well-dressed and well-groomed. ° be4 so that others can count on you and be a good team player. A.
+### 6. Talking point
 
-e know your job and work in a ° and efficient manner at all times. S
+- Bạn có đồng ý rằng "The customer is always right"? Kể một trải nghiệm dịch vụ tốt hoặc tệ ở khách sạn, nhà hàng, cửa hàng, đại lý du lịch, sân bay hay call centre.
+- Trong hai tình huống dịch vụ tệ ở bài nghe, người phụ trách lẽ ra nên làm gì?
+- *Gesture of goodwill* nào phù hợp khi: một gia đình chờ rất lâu mà đồ ăn lại dở · lễ tân quên đặt bàn và giờ nhà hàng đã kín · khách bay chặng 20 tiếng đặt suất chay nhưng không còn · khách phàn nàn phòng bẩn và ám mùi thuốc lá.
+- Trong các phản hồi của khách, phản hồi nào hợp lý và làm được, phản hồi nào vô lý? Với phản hồi tích cực thì nên đáp lại thế nào?
+- Với khách sạn, bảo tàng, nhà hàng, công viên giải trí và hãng bay — nếu chỉ được chọn một kỹ thuật thu thập phản hồi thì bạn chọn cái nào cho mỗi nơi?
+- **Case study:** họp nhóm bốn người, lập action plan ít nhất năm điểm để cải thiện dịch vụ ở Lilburne Manor, kèm mốc thời gian và chi phí ước tính; sau đó viết email trả lời hai khiếu nại trong comment card (mẫu ở Writing bank tr. 101).
 
-7. Write the opposite of the personal qualities 1-12 below using the prefixes in the box. Use a dictionary to help you.
+### Luyện nghe
 
-( dis im in un )
-
-1. __ appropriate 4 competent 7 __ efficient 10 __ friendly
-
-2. ___ honest 5 ___loyal 8 ___ patient 11 ___personal
-
-3. ___ polite 6 ___ reliable 9 respectful 12 welcoming
-
-8. Complete the sentences below with the appropriate form (positive or negative) of adjectives from Exercise 7.
-
-1. His clothes were for a waiter. He wore jeans and a not very clean T-shirt.
-
-2. The receptionist obviously had no idea what she was doing and was totally
-
-3. In our country, it is to address older people by their first names.
-
-4. Our staff are very . Nothing has ever been stolen from the guests’ rooms.
-
-5. The hotel is part of a chain, so the rooms are the same everywhere and it all feels a bit ;
-
-6. The food is excellent but the service is - some nights it's good and on others it's awtul.
-
-7. | couldn't believe how and well organized the staff were. They sorted out all my problems.
-
-8. The atmosphere was . The receptionist didn’t smile or speak to me when | walked past and nobody offered to help me with my bags.
-
-#### Speaking — Showing you care
-
-Q What could customer service staff do as a ‘gesture of good will’ in the following situations? Discuss your ideas with a partner and feed back to the class. Use the ideas from the listening in Exercise 3 to help you.
-
-1. A family have to wait a long time to get served in the __RESEARCH | _ restaurant and the food is not of a good standard. GOOD AND BAD CUSTOMER SERVICE
-
-2. The receptionist forgot to make a restaurant reservation and Conduct a webquest to find examples the restaurant is now full. of good and bad examples of customer
-
-3. Apassenger on a long-haul flight (20 hours) has ordered a service in travel and tourism facilities vegetarian meal but there are none available. (hotels, tourist attractions, transport, etc.).
-
-4. A guest complains that her room is dirty and smells of L Report back to the class.
-
-r tobacco smoke.
-
-### 9.2 Question forms — Grammar
-
-**CUSTOMER FEEDBACK**
-
-#### Speaking — Evaluating feedback
-
-‘The pool was nice and clean, and there were always plenty of clean towels.’
-
-‘We found the sand was not like the sand in the brochure. Your brochure shows the sand as golden but it was white.’
-
-‘We had to queue outside with no air conditioning for 20 minutes.’ ‘It is your duty as a tour operator to warn us in advance of any rude or noisy guests.’
-
-‘It took us nine hours to fly home from Barbados to England. It only took the Americans three hours to get home.’
-
-‘The best resort in Spain, loads to do and see. There was great varied evening entertainment.’
-
-1. Work in pairs. Read the examples of customer feedback. Which are useful and possible to act on? Which are unreasonable? How can you react to positive feedback?
-
-#### Listening — Getting customer feedback 🎧
-
-2. 🎧 ©))22> Listen to some tips about how to get feedback from your customers. Tick (/) the techniques mentioned.
-
-__ questionnaire __ direct questions __ mystery guest audit __ focus group __ phone survey __ feedback area on website __ staff interaction __ competitions
-
-3. 🎧 ©) Listen again and complete the tips with THREE words. Which feedback technique does each tip refer to?
-
-1. Act as one of a group of customers with special needs, such as a person ina wheelchair or someone whose first language is not English and see how
-
-2. There can be a great difference between what we think people want and what
-
-3. Make sure that the people you use for your phone surveys are polite and unaggressive because many people react negatively to
-
-4. If the questionnaire is long, remember to allow people to save their data and come back .
-
-5. With focus groups, you can obtain good qualitative data and, at the same time, make customers feel part
-
-4. If you could choose only one, which technique above is the best for getting customer feedback for the businesses below? Discuss your ideas with a partner and report back to the class.
-
-ahotel amuseum arestaurant atheme park an airline
-
-se CUSTOMER FEEDBACK O
-
--GRAMMAR: 25 ce
-
-» UY)
-
-Question forms =
-
-1. Closed questions can only be answered by yes or no. Use closed questions to clarify S) facts but not to gather details. Was the room comfortable? Did you enjoy your stay?
-
-2. Wh- questions cannot be answered by yes or no. Use them to start a discussion or gather information. What exactly seems to be the problem? How can | help you?
-
-3. Use these forms to make a polite request. May I sit next to you? Do you mind if | smoke? Would you mind sharing a room?
-
-4. Indirect questions are more formal and polite than direct questions. Note the word order. Can I ask you how old you are? Could you tell me what time it starts? Have you any idea when you'll be leaving? So you’d like to order breakfast in ve | your room? Do you know whether he wants the executive suite? cS
-
-See Grammar reference, page 117.
-
-5. Study the Grammar box and reorder the words below to form questions that a hotel receptionist would ask.
-
-1. you/in/ would/ filling / me / this / for / mind / form ?
-
-2. me/ credit / is / you / could / what / card / tell / number / your ?
-
-3. details / you / the /1/ all / if / mind / check / again / do ?
-
-4. like / you / would / taxi / to / for / book / 8/ a/ so / tomorrow / me / morning / at ?
-
-5. was / mind /if/|/you/ your / changing / room / tomorrow / wondering / would / night ?
-
-6. call/ give / tell / early / time / could / me / you / to / me / you / morning / an / what / want / you ?
-
-6. Use the expressions in brackets to make these direct questions polite and indirect.
-
-1. What kind of room would your director prefer? (Can you ...?)
-
-2. How many nights will he be staying? (Do you know ...*)
-
-3. He'll need to be picked up from the airport. (So he ...?)
-
-4. What time will he be arriving? (Could you ...?)
-
-5. Will he have all his meals in the hotel? (| was wondering ...)
-
-6. When will he be checking out? (Have you any idea ...?)
-
-#### Speaking — A feedback questionnaire
-
-7. Work in pairs. Take turns to be the hotel guest and the customer service employee at a Prestige Hotel. Interview a guest about a recent stay at the Prestige Hotel and complete the questionnaire in File 20, page 110. Use polite question forms when asking the questions.
-
-Rate YOUN ANION Us.
-
-<~ C= i. > <—
-
-O000
-
-### 9.3 Handling telephone calls — Professional skills
-
-**VICE**
-
-Re SER
-
-E
-
-C) Nf Y)
-
-C
-
-**SKILLS**
-
-**HANDLING ©**
-
-**TELEPHONE**
-
-**CALLS**
-
-**USEFUL TELEPHONE PHRASES**
-
-1. Complete the telephone conversations with appropriate words or phrases.
-
-2
-
-Compare your ideas with a partner.
-
-1. (TA = Travel agent, C = Customer)
-
-TA: Hello, Aphrodite Travel, Constantin speaking. ' ?
-
-C: I'd like to speak to Mrs Castellanos, please.
-
-TA: 2 ?
-
-C: My name's Robert Taylor. * a booking | made recently.
-
-TA: Fine. Can you give me the reference number, please?
-
-2. (CS = Customer Service operator, C = Customer)
-
-CS; Hello, Customer Enquiries. *___——S-s How can | help you?
-
-C: I'd like to speak to the Chief Operations Officer, please. Maria Tardelli. CS: Yes. ° ?
-
-C: It's Lars Vandenbosch from Belltours.
-
-CS: I'm putting °
-
-C: Thank you.
-
-3. (C = Customer, R = Receptionist)
-
-C: Good morning. My name is David Saada. I’m calling from a landline at the airport.
-
-| checked out this morning and | think | left my cell phone in room 218. | was wondering if anyone has found it.
-
-R: Oh right, well, I'll straightaway and see if the room has been cleaned.
-
-C: Thank you. I'll call back in ten minutes.
-
-4. (R = Receptionist, C = Customer)
-
-R: I'm sorry, she’s in a meeting at the moment. ° ?
-
-C: Yes, please. Can you tell her that Mrs Castell phoned about the meeting in Zurich at the end of the week. | need to change the time of the appointment.
-
-R: OK. I'll? and make sure she " to you as soon as the meeting's finished. Does she have your number?
-
-C: Yes, but | can give it to you just in case. It's 00 33 1 60 63 61 40.
-
-R: OK, I've got that.
-
-🎧 =) Listen and check your answers. Learn the useful telephone phrases.
-
-#### Reading — Telephone etiquette
-
-3. Read and complete the Professional skills box about telephone etiquette with the words in the box. Compare your answers with a partner. Is there anything else you can add?
-
-adapt answer ask interrupt smile takenotes turn away
-
-**PROFESSIONAL SKILIS-**
-
-} all calls quickly more than five 5 while you are talking — it raises | | rings is unacceptable. your voice and makes you sound warm | bes from your desk and computer and friendly. | screen. Speak clearly and slowly, ¢ your
-
-🎧 | Greet the caller with your name and/or language to the English language ability | organization and 3 how you can of the caller. help. z when there isa message fora Listen carefully and don’t 4 d colleague and the information includes
-
-_ Think about your answer while the caller names or numbers.
-
-| is speaking.
-
-#### Speaking — Telephone numbers
-
-4. 🎧 (2) Listen and write the SIX telephone numbers you hear.
-
-5. What are the different ways of pronouncing these numbers?
-
-0044 07734 066777750 078899
-
-#### Vocabulary — Multi-word verbs
-
-6. Complete the sentences with the words in the box to make equivalent expressions.
-
-cutoff getback get through hang up holdon look into pass on put you through runout sort out
-
-1. I'm trying to connect you now. I'm trying to now.
-
-2. One moment, please. a minute, please.
-
-3. I'll contact you again soon. I'll to you soon.
-
-4. I'll give her your message. I'Il_____ your message.
-
-5. Sorry, we were disconnected. Sorry, we were
-
-6. Don't end the call yet. Don't yet.
-
-7. My battery is nearly flat. My battery has nearly.
-
-8. It's impossible to connect to the number. It's impossible to
-
-9. I'll investigate the possibility of a reduction. |'lI the possibility of a reduction.
-
-10. It won't take long to solve the problem. It won't take long to the problem.
-
-#### Speaking — A hotel booking
-
-7. Work in pairs. Student A, turn to File 13, page 107. Student B, turn to File 26, page 112. Make the phone call and manage the conversation.
-
-**ILLS HANDLING TELEPHONE CALLS 9**
-
-### 9.4 Improve customer service — Case study
-
-**CASE STUDY**
-
-**IMPROVE CUSTOMER**
-
-**SERVICE**
-
-Aim: To improve customer service at a stately home.
-
-1. Read about the history of a stately home, its facilities and attractions.
-
-2. Share customer feedback on services at the stately home.
-
-3. 🎧 Listen to a customer telephone call and complete the feedback card.
-
-4. Read some information and hold a meeting to draw up a plan for improvement.
-
-The history of Lilburne Manor
-
-1. Read the information about Lilburne Manor. Are the statements true (T) or false (F)? Correct any false statements.
-
-1. The manor and gardens are privately owned. T/F
-
-2. Some parts of the building are not suitable for visitors with reduced mobility. T / F
-
-3. The exhibition is specially designed to interest children. T / F
-
-4. Renovation work on the house is currently in progress. T / F
-
-5. It is possible to have a picnic in the grounds behind the manor. T/F
-
-6. Access to the manor by car is difficult at the present time. T / F
-
-Lilburne Manor
-
-Set in 100 acres of woodland, Lilburne Manor — with extensive pleasure gardens, orangery, boating lake and a beautiful suite of receptions rooms on the first floor* — is one of the most complete and best-preserved examples of a 16th-century gentlemen’s residence. The house was built by William Lilburne, a favourite of King Henry VIII, in 1522 and was the home of the Lilburne family for over 400 years until it was bought by the Historic Houses Trust in 1952.
-
-Facilities include:
-
-Gourmet restaurant in the grounds of the manor, serving morning coffee, lunch and afternoon tea. (Please note that consumption of food is not permitted elsewhere in the house and grounds.) Year-round children’s activities, including quizzes, nature trails and a permanent hands-on exhibition about daily life in 16th-century Britain. Family tickets are available at a reduced price.
-
-Boat Hire is available on the lake from
-
-16 April-30 September at weekends and during school holidays.
-
-Note: the car park is being renovated and is closed to the public. There is limited free parking 750 metres away.
-
-* There is currently no disabled access to this part of the house.
-
-4
-
-Customer comment cards
-
-2. Work in pairs. Read the visitors’ comment cards and share the information to compile a list of Lilburne Manor's strengths and weaknesses. Student A, look at the cards below.
-
-Student B, turn to File 16, page 108.
-
-Date of visit: 4 July E-mail: Javorka@viasat.hu Name: Zsuzsa Javorka
-
-Address: Kiscelli u. 116
-
-Postcode: HU-1037
-
-Country: Hungary
-
-Comments:
-
-The manor is certainly interesting for children but | am in a wheelchair and as there is no ramp,
-
-| had to be carried up the front steps. Also, why not install a lift to the first floor? You have a legal obligation not to discriminate. There was no toilet for the disabled either.
-
-Data collected from this comment card is used solely for internal purposes and is not passed on to third parties. Tel: 030 8857 3322 comments@lilburnemanor.net
-
-Customer phone call
-
-3. @)E23 Jack Carter is
-
-🎧 the Customer Service Manager at the manor. Listen to him taking
-
-a telephone call from a recent visitor and complete the comment card.
-
-E-mail: 2
-
-Date of visit: '
-
-Name: ?
-
-Address: Griiner Weg 6 Postcode: 61169 Friedberg Country: Germany Comments:
-
-Data collected from this comment card is used solely for internal purposes and is not passed on to third parties.
-
-Le 030 8857 3322 comments@lilburnemanor.net yo
-
-4. Do you think the complaint was justified? Did Mr Carter handle the conversation satisfactorily? Why/Why not?
-
-Writing a response to a customer
-
-5. Choose two of the complaints from the comments cards and write an email in reply to the customer. Use the model in the
-
-Writing bank on page 101 to help you.
-
-Date of visit: 5 July E-mail: m.stofer@wanadoo.fr Name: Michelle Stofer
-
-Address: 60 Boulevard Jourdan, Paris
-
-Postcode: 75015
-
-Country: France
-
-Comments:
-
-The so-called ‘gourmet’ restaurant was most disappointing. The starters we ordered were swimming in oil and the salad was tired. The chicken soup was lukewarm and the assortment of meat and vegetarian dishes all tasted the same. The only good thing was the courteous manner in which the staff patiently listened to our complaints. | hope in future the quality of your food is able to match the quality of your service.
-
-Data collected from this comment card is used solely for internal purposes and is not passed on to third parties.
-
-Tel: 030 8857 3322 comments@lilburnemanor.net
-
-FAK | siaiaidiaiciammenininiae
-
-- You are going to hold a meeting to decide on an — _ action plan for improving customer services at | Lilburne Manor. Work in pairs. Student A, turn | _ to File 4, page 103. Student B, turn to File 9, | page 105. |
-
-_ 1 Read your additional information and make notes about your ideas for improving customer | service.
-
-2. Come together in groups of four and hold the meeting. | 3 Draw up an action plan with at least FIVE main points for improving customer service at
-
-Lilburne Manor. Include the time frame and 1 approximate costs.
-
-4. Present your action plan to the class.
-
-**KEY WORDS**
-
-audit code of conduct complimentary — efficient manner gesture of goodwill incompetent interrupt on the house qualitative data show you care sort out unacceptable well-groomed See DVD-ROM Mini-dictionary
-
-**DY IMPROVE CUSTOMER SERVICE OQ**
-
-(3)
+- 🎧 **Track 9.1** — Bốn người kể trải nghiệm dịch vụ: mỗi chuyện xảy ra ở đâu, tốt hay tệ; nghe lại để ghép các cụm về vấn đề và về cách xử lý với đúng người nói.
+- 🎧 **Track 9.2** — Mẹo thu thập phản hồi khách hàng: tick những kỹ thuật được nhắc tới; nghe lại để điền ba từ vào mỗi mẹo và xác định mẹo đó thuộc kỹ thuật nào.
+- 🎧 **Track 9.3** — Bốn hội thoại điện thoại mẫu: nghe kiểm tra đáp án rồi học thuộc bộ mẫu câu.
+- 🎧 **Track 9.4** — Nghe và ghi sáu số điện thoại; so sánh các cách đọc 0044 · 07734 · 066777750 · 078899.
+- 🎧 **Track 9.5** — Jack Carter, Customer Service Manager của Lilburne Manor, nhận điện thoại của một khách vừa tới thăm: điền comment card, rồi tự đánh giá khiếu nại có chính đáng không và anh ấy xử lý đã ổn chưa.
 
 ## Unit 10 — Business travel
 
-> - **Grammar:** Past perfect
-> - **Vocabulary:** Idioms and metaphors
-> - **Professional skills:** Socializing and making small talk
-> - **Case study:** The Trade Fair Game
+> **Sách giấy tr. 84–91** · Grammar: past perfect · Vocabulary: idioms and metaphors · Professional skills: socializing and making small talk · Game: The Trade Fair Game
 
-### 10.1 Idioms and metaphors — Vocabulary
+### 1. Mục tiêu
 
-Grammar: past perfect
+- Đọc hiểu xu hướng du lịch công vụ và dùng idiom, metaphor trong ngữ cảnh kinh doanh.
+- Dùng past perfect để kể chuyện có hai mốc quá khứ.
+- Nói về incentive travel và cách chọn nhà cung cấp team-building.
+- Làm quen, giữ mạch small talk và rút lui khỏi cuộc trò chuyện một cách lịch sự.
+- Tổng ôn toàn bộ kỹ năng giao tiếp qua The Trade Fair Game.
 
-Vocabulary: idioms and metaphors
+### 2. Từ vựng
 
-Professional skills: socializing and making small talk
+**Du lịch công vụ:** corporate executive · sales representative · VIP · travel budget · business class · premium traveller · frequent flier · upgrade · business lounge · conference call · virtual meeting · webinar · incentive travel · annual bonus · scheduled flight / charter flight · heightened security measures.
 
-Game: The Trade Fair Game
+#### Idioms và metaphors (từ bài báo New York Times)
 
-#### Reading — Changes in business travel
+| Idiom | Nghĩa |
+| --- | --- |
+| cut costs to the bone | cắt chi phí tới tận xương |
+| hazards on the horizon | rủi ro đang ló ở phía trước |
+| foot the bill | đứng ra chi trả |
+| on a shoestring | với ngân sách bèo bọt |
+| put the brakes on | hãm lại, kìm đà |
+| go through the roof | tăng vọt |
+| greet somebody with open arms | đón chào nồng nhiệt |
+| get back on the road | trở lại với các chuyến đi |
 
-1. Read the article, originally published in the New York Times, and answer the questions.
+**Team-building:** facilitator (người điều phối) · tailor a programme (may đo chương trình) · public liability insurance · venue · testimonial (lời chứng thực của khách cũ) · corporate client · professional delivery · challenging · innovative.
 
-1. Look at the title. Who sits ‘in the front row’? What is the significance of the front row in air travel?
+**Small talk:** strike up a conversation · exit lines · open questions · body language · ill at ease (không thoải mái) · current affairs.
 
-2. Find TWO reasons why business travel decreased and TWO reasons why it has increased?
+### 3. Ngữ pháp
 
-3. List the strategies airlines use to attract business travellers.
+#### Past perfect (Grammar reference tr. 113)
 
-4. What could limit the growth of business travel in the future?
+- Dùng cho hành động xảy ra **trước** một sự kiện quá khứ khác: *I came down to breakfast but I'd only slept for about 15 minutes.* · *I left the hotel in San Francisco where I'd worked for 13 years.*
+- Past perfect cho biết việc nào xảy ra trước. So sánh: *When he got to the airport, he checked in.* (đến rồi mới làm thủ tục) ≠ *When he got to the airport, he had checked in.* (đã check-in online từ trước khi ra sân bay).
+- Thường đi kèm trạng từ định vị trước một mốc quá khứ: *The presentation had already started when we arrived.* · *I'd just got to sleep when she started snoring even more loudly.*
 
-la
+### 4. Practically speaking
 
-Niles
+#### Socializing and making small talk — tám mẹo
 
-A Return to Spending and the Front Rows
+1. Chào trước; đưa tên mình ra để người kia khỏi phải cố nhớ.
+2. Giới thiệu người này với người kia; cố nhớ tên và gọi đúng tên.
+3. Nhận xét một câu về nơi đang đứng hoặc chuyện đang diễn ra.
+4. Hỏi câu mở — loại câu người kia không thể đáp gọn bằng yes hay no.
+5. Nghe nhiều hơn nói; nhìn vào mắt người đối diện, đừng đảo mắt quanh phòng.
+6. Chú ý ngôn ngữ cơ thể — trông tự tin và thoải mái, kể cả khi chưa thấy vậy.
+7. Có sẵn điều gì đó đáng nói; nắm tin tức và thời sự để có cớ bắt chuyện.
+8. Chuẩn bị trước vài *exit line* để rút lui nhẹ nhàng.
 
-By JAD MOUAWAD
+Chủ đề an toàn với người mới quen: thời tiết, xu hướng ngành du lịch, nơi họ sống, bài nói vừa nghe. Chủ đề nên tránh: lương, tôn giáo, chính trị, sức khoẻ, chuyện tối qua.
 
-Whether they are the CEOs of small and medium businesses, sales representatives, VIPs or corporate executives, business travellers these days are more often found at the front of the plane than at the back, where cuts in travel budgets confined them during the recession.
+### 5. Key expressions
 
-The restrictive company policies that banned business-class travel, limited overnight stays to three- star hotels and replaced three-day sales conferences in Las Vegas with virtual meetings via conference calls have all but disappeared. The years of chasing costs have given way to a rebound in travel as the economy picks up and company travel managers are prepared to foot the bill for first-class travel and better accommodation.
+#### Bắt chuyện
 
-The airlines have greeted the return of their premium travellers with open arms and are fighting more fiercely than ever for their loyalty with new business-class seats, refurbished business lounges and improved on-board service.
+- *Excuse me, are you Tim Mason by any chance?*
+- *I don't think we've met. I'm Peter Baxter from the Los Angeles office.*
+- *Hello, may I introduce myself? I'm Werner Krig from Graz in Austria. Where do you come from?*
+- *Hello, may I give you my card?*
 
-Karl Kennedy, a Detroit-based travel consultant who does about 100,000 miles a year with United Airlines, said he has seen evidence of this trend this year. ‘It’s been harder to get upgraded to first class these days because so many frequent fliers are crowding the air. Budgets had been cut to the bone. But you can’t keep your people in the office forever. Webinars and e-meetings may save time but you don’t get to know people in the same way. Companies realized they had to get back on the road and grow their business.’
+#### Giới thiệu người khác
 
-While the days of travelling on a shoestring are largely over, business travellers remain cautious. Unemployment remains high and the risks posed by the prospect of high energy prices are threatening airlines and their passengers. Air travellers still also have to live with heightened security measures — the skies are not safe yet from terrorists.
+- *Have you met Brent McIntosh, our Marketing Director in Sydney?*
 
-While companies have sent their managers back into the air, there remain significant hazards on the horizon. Energy costs are going through the roof and companies may switch back to economy class on short-haul flights and premium economy for longer distances.
+#### Câu hỏi đuôi để mở mạch chuyện
 
-‘We will certainly have a better year for business travel but the question is how high is high?’ said travel analyst, John W. Huffman. ‘The reality of high fuel costs, uncertain earnings and the weak dollar could potentially put the brakes on the growth.’
+- *It's been a long day, hasn't it?* · *That was an interesting talk, wasn't it?* · *It's a splendid programme, isn't it?*
 
-#### Vocabulary — Idioms and metaphors
+#### Exit lines
 
-2
+- *Just excuse me, there's something I have to attend to.*
+- *Well, it's getting late. I think I'd better be going.*
+- *Look, Richard, I'm afraid I'll have to leave you — I have a busy day tomorrow.*
 
-The expressions in bold in the article are all popular idioms. Replace each of the expressions in italics below with one of the idioms.
+### 6. Talking point
 
-1. Prices have to be reduced to a bare minimum during a recession or you get no sales at all.
+- Ai là người ngồi *in the front row*, và chỗ ngồi đó nói lên điều gì? Hai lý do khiến du lịch công vụ từng giảm và hai lý do khiến nó tăng trở lại là gì? Điều gì có thể hãm đà tăng trong tương lai?
+- Khách công vụ khác khách thường ở những mặt nào: độ phức tạp của lịch trình, chuyến bay theo lịch hay thuê bao, hạng vé, an toàn và an ninh, thủ tục check-in, thuê xe, yếu tố chi phí, đặt phòng?
+- Nếu công ty muốn thưởng cho thành tích của bạn, bạn chọn gì: một món quà, một gói bí ẩn, kỳ nghỉ cùng đồng nghiệp, kỳ nghỉ cùng gia đình, hay tiền? Vì sao Taylor's Travel cho rằng tiền không phải cách thưởng tốt? Kỳ nghỉ theo nhóm có lợi gì cho người sử dụng lao động?
+- Tổ chức sự kiện team-building cho doanh nghiệp có phải một mảng kinh doanh tốt? Cần những gì để khởi sự?
+- Tra cứu các nhà cung cấp team-building và sự kiện doanh nghiệp ở vùng bạn, xem họ bán những gói nào, rồi báo cáo trước lớp.
+- **Coffee break roleplay:** tự đặt cho mình một cái tên, một công ty và một nghề. Đi quanh lớp bắt chuyện, mỗi người ba đến năm phút — dùng các chủ đề gợi ý (dự án đang làm, một tin tức gần đây, thời tiết, trục trặc đi lại, khách sạn bạn ở, chiếc điện thoại mới) — rồi xin phép rút và nói rõ lý do.
+- **The Trade Fair Game (tr. 90–91):** đi từ START tới FINISH, mỗi ô là một tình huống giao tiếp phải xử lý bằng tiếng Anh — từ dặn tài xế taxi, nhận phòng và bắt chuyện về thời tiết, cho tới hỏi dịch tài liệu.
 
-2. Business is good at the moment but we foresee problems in the near future.
+### Luyện nghe
 
-3. Unfortunately, when fuel costs go up, it's the passenger who has to pay.
-
-4. The original promotional video didn't have a budget and was filmed for almost nothing.
-
-5. Arise in interest rates could slow down our potential for further investment.
-
-6. The price of real estate in cities like Moscow or London is rising very rapidly.
-
-#### Speaking — Business travellers and incentives
-
-3
-
-How are business travellers different from ordinary travellers? Discuss the factors below with a partner.
-
-complexity of itineraries scheduled/charter flights class of travel safety and security check-in procedure car hire cost factors hotel reservations
-
-If your employer wanted to reward you for your performance, which of the options below would you prefer? Discuss your ideas with a partner.
-
-agift amystery package a vacation with colleagues a vacation with your family money
-
-Read about Taylor's Travel’s incentive travel programme and answer the questions.
-
-1. Why, according to Taylor's Travel, is money not a good way to reward employees?
-
-2. What is the advantage to the employer of a group vacation?
-
-3. Find out about a specialist company that offers incentive travel packages to companies. Report back to the class.
-
-Pa:
-
-[uplors [rad
-
-**INCENTIVE TRAVEL SOLUTIONS**
-
-If you're looking for a way to reward your high-flying employees, an incentive travel programme can be one of your best solutions. Companies often give their best employees an annual bonus but this is often spent on bills and shopping for groceries. How much better to give your personnel an experience they'll remember for the rest of their lives! Sharing unforgettable moments will bond your team and increase motivation and productivity in the workplace more than you can imagine. Call us now and let a Taylor Travel specialist put together an incentive travel programme that's right for you.
-
-### 10.2 Past perfect — Grammar
-
-**TRAVELLING AND**
-
-**TEAM-BUILDING**
-
-#### Listening — Business travel stories 🎧
-
-4. 🎧 ©) 2) Listen to the two business travel stories and answer the questions. Speaker 1
-
-1. Why didn’t she wear earplugs that night?
-
-2. Why was she so tired at breakfast?
-
-3. Why did she sleep in the presidential suite the next night?
-
-Speaker 2
-
-1. How long had he worked in San Francisco before coming to Memphis?
-
-2. Why did he decide to dress as a cowboy?
-
-3. How was he finally able to attend the awards banquet?
-
-**GRAMMAR: °**
-
-1. Use the past perfect to talk about an action or event that happened before another past event.
-
-| came down to breakfast but I’d only slept for about 15 minutes. | left the hotel in San Francisco where I’d worked for 13 years.
-
-2. The past perfect shows you which of two events happened first. When he got to the airport, he checked in. (He arrived and then checked in.) When he got to the airport, he had checked in. (He checked in on-line before leaving for the airport.)
-
-3. The past perfect is often used with adverbs that situate an event before a point in the past. The presentation had already started when we arrived. I‘d just got to sleep when she started snoring even more loudly.
-
-See Grammar reference, page 113.
-
-2. Study the Grammar box and complete the story with the verbs in the box in the past simple or past perfect tense.
-
-ask be create fly got land leave pack put spend
-
-Last year, || to Mexico City for a crucial product expo held by the company’s largest and most important account. The client 2 me to make a presentation to decide whether or not to continue the partnership.
-
-[3 all of the materials for the exhibition — brochures, surveys, badges and registration signs — in my suitcase the night before | 4 . But when | 5 at Santa Lucia Airport, | discovered the baggage handlers ¢ the Middle East.
-
-Sol’ two days re-doing the documents and printing them in a business centre. Luckily, because it ® such a big event, | ? there three days early. The trip
-
-0 a new company policy: all printed materials would henceforth be taken as carry-on luggage.
-
-ms it on a flight bound for
-
-**TRAVELLING AND TEAM-BUILDING**
-
-**TEAM-BUILDING EVENTS**
-
-3. What do you know about corporate team-building events? What sorts of activities are available? Discuss with a partner.
-
-4. Read the text about team-building package providers. Match the questions a-f with the answers
-
-1-6 in the text.
-
-a Does the provider have public liability insurance?
-
-b Does the provider create programmes to meet the client's needs?
-
-c How competent are the facilitators?
-
-d How challenging and imaginative is the programme?
-
-e Can we see examples of feedback from other clients?
-
-f What about the choice of venue and facilities?
-
-How to find a good team-building provider eee LN aig ena Your provider should have experience in tailoring A professional team-building provider wouldn't programmes for corporate clients. This means dream of taking a corporate group as far as the building the programme from zero to suit the client's coffee shop without proper insurance coverage. It is specific aims, not just offering a standard package. essential to protect everyone's safety. Furthermore, if your provider is insured (and don't go anywhere near them if not!), this demonstrates that an insurance company is satisfied with their level of expertise.
-
-2 es
-
-Dealing with a group of HR executives or sales people is not the same as dealing with ordinary tourists. Sports and outdoor activity instructors 5 won't have all the necessary skills. Make sure your It doesn’t matter if your team are going to the provider has trained facilitators with experience in mountains for ten days or playing an enjoyable team corporate training and management theory. game for two hours on the beach, good equipment is essential. It is important for safety reasons but it
-
-Sar 3 also helps to ensure professional delivery. yp} Does your provider have good ideas? Are they creative and innovative? They will need to be 6
-
-Ask to see some client testimonials, or if these are not available, to speak to some past clients with needs similar to yours. It will be no problem for an experienced operator to provide this.
-
-_| in order to develop activities that prove truly inspirational. Talk to them and find out.
-
-5. Do you think that organizing corporate AL Be a i He team-building events would be a good.business? fe What would you need to set up this kind of.
-
-business? Discuss your ideas with a partner. _
-
-**TEAM-BUILDING PROVIDERS**
-
-Do some internet research about team-building and corporate event providers in your region. Find out what kinds of packages are available. Report back to the class.
-
-### 10.3 Socializing and making small talk — Professional skills
-
-a LU (az WY SQ) Lu Nn (aa)
-
-#### Speaking — Topics of conversation
-
-1. Look at the list of conversation topics. Which of them could you talk about with the people below? In what situations?
-
-a colleague a client someone you have just met at a trade fair a friend your boss |
-
-1 the weather
-
-2. family 7 religion
-
-3. work problems
-
-4. trends in the travel industry 9 politics
-
-5. finding out where someone lives
-
-2. Are there any subjects you would never discuss?
-
-#### Vocabulary — Making small talk
-
-3. Complete the tips for making small talk in the Professional skills box with the correct option a, b, c or d. Which tip do you find the most useful?
-
-1. acard bname chand d greeting
-
-2. aGive bMeet clntroduce d Offer
-
-3. aspeech bsay cword dremark
-
-4. astatements b greetings ¢c questions d ideas
-
-5. aEat bHear cWait d Listen
-
-6. aEnglish bbody cformal d polite
-
-7. aoffer badvance cidea d opportunity
-
-8. aleave b finalize cend d organize
-
-4. Write an example sentence for each tip (where appropriate). Share your example sentences with the class.
-
-e.g. Tip 1: Hello, may | give you my card?
-
-6 your salary
-
-10 your health
-
-8. what you did last night
-
-**MAKING**
-
-**SMALL TALK**
-
-1. Say hello first. Offer your so that the other person doesn't have to remember it.
-
-2 people to each other. Make an effort to remember names and use them.
-
-3. Make a about where you are and what's happening.
-
-4. Ask open (that the other person can’t answer with only yes or no.)
-
-5. more than you talk. Look the other person in the eye — don't look around the room.
-
-6. Be careful about your language. People who look ill at ease make others uncomfortable. Act as if you're confident and comfortable, even if you aren't.
-
-7. Have something interesting to say. If you know what's happening in the news/current affairs, this can give you an to start a conversation.
-
-8. Prepare some ‘exit lines’ so that you can the conversation and move on gracefully.
-
-**STRIKING UP A CONVERSATION**
-
-5. 🎧 |) (©) Listen to the conversations and complete the exchanges.
-
-1. (PB = Peter Baxter, MC = Mrs Chen)
-
-PB: Excuse me, Mrs Chen?
-
-MC: Yeah.
-
-PB: | . I'm Peter Baxter from the Los Angeles office.
-
-MC: Ah yes, Peter Baxter. 2
-
-2
-
-Hello, 3 . I'm Werner Krig from Graz in Austria. Where do you come from?
-
-3. (LL = Lucas Lee, TM = Tim Mason)
-
-LL: Excuse me, are you Tim Mason by any chance?
-
-TM: Yes, that's right.
-
-LL: 4 . My name's Lucas Lee. | work for AsiaTravel in Singapore.
-
-4. (HMC = Hwang Mi Hee, PM = Phillipe Moreau)
-
-HMH: > Phillipe Moreau.
-
-PM: That's right.
-
-HMH: °¢ Brent McIntosh, our Marketing Director in Sydney?
-
-6. 🎧 ©)FTD=> Listen to these people and complete the missing words in the sentences below. What does the other person say in reply?
-
-1
-
-It's been a long day, ' ?
-
-2
-
-So, that was an interesting talk, ? ?
-
-3
-
-It's a splendid programme, 3 ?
-
-4
-
-Just 4 , there's something | have to attend to. 5
-
-Well, it's getting late. 5
-
-6
-
-Look Richard, °* . |have a busy day tomorrow.
-
-#### Speaking — Coffee break
-
-7. You are at a travel Trade Fair and are having coffee at the end of the morning session.
-
-1. Choose a name for yourself, the organization you work for and your occupation.
-
-2. Move around the class and strike up a conversation with a number of people.
-
-3. Use the topics below, the Professional skills tips and the expressions in the listening to help you.
-
-4. After three to five minutes with each person, say you have to leave and why.
-
-a project you're working on arecent news story the weather transport difficulties your hotel your new mobile phone
-
-### 10.4 The Trade Fair Game — Game
-
-**THE TRADE FAIR. GAME**
-
-Poe oe eee eee eee ee ee ee ee
-
-**START**
-
-119°
-
-* Tell the airport taxi driver ' where you want to go. On ’ the way, ask what sights there are to see in the city.
-
-Ti
-
-» Check in at the hotel and | start a conversation about ' the weather forecast for
-
-' the week. Confirm that
-
-' you can have documents ' translated.
-
-H ee ee ee
-
-**FINISH**
-
-24
-
-" Invite someone to share a * taxi back to the airport at ' the end of the Trade Fair. ~ Ask about his/her travel
-
-, arrangements.
-
-23 » Talk to another delegate
-
-» about the sessions you
-
-, found the most and least ) interesting. You now have » to go back to your hotel
-
-» and write a report.
-
-fi gen ji i i oe ee ee ee ee ee ee
-
-124
-
-» Go back three spaces.
-
-(22T
-
-"You meet someone who , ' was on the same course as
-
-" the course and what you learnt from it. Suddenly you realize you have to leave quickly to catch a
-
-: train.
-
-a ee
-
-‘20F 19
-
-DNsti araewtheedsteicn _ Avisitor comes to your
-
-' delegate who asks you i stand and asks you about about economic conditions — the new incentive travel and the outlook for I package on offer. business travel spending : Ses over the next two years.
-
-ye eee et esos eee = om oat net you a while ago. Talk about
-
-'3 <=
-
-Introduce yourself and
-
-49
-
-» You have forgotten your ask another delegate at =| smartphone in the taxi you the Trade Fair what he/ ' took from the airport. Call she thinks of the choice of | the taxi company in order to location and the facilities try and get it back.
-
-at the Trade Fair centre.
-
-17
-
-You are not happy with your hotel accommodation. Tell another delegate about your bad experiences there. Discuss ways in which hotels can ensure high standards of customer service.
-
-18
-
-» Avisitor to your stand asks » you if there are any niche
-
-» tourism products that
-
-» would interest business
-
-' travellers.
-
-i Sex i i i i cee ees emt ems eee ieee ees eee eco eae oem esses ee
-
-Work in groups of four and play the Trade Fair Game. Follow the instructions.
-
-Instructions
-
-1. Play the game in groups of four.
-
-2. The first player tosses a coin (heads = move
-
-1. space, tails = move 2 spaces) and chooses another member of the group to speak to. These two players must conduct a conversation for one minute following the instructions in the square.
-
-3. The person the player has chosen shares equal responsibility for keeping the conversation going by asking questions or providing additional information, etc. If they fail to do so, they move back one space.
-
-4. When the minute has passed and the conversation is over, the next player tosses the coin, moves forward and chooses another person for the conversation.
-
-5. The first player to reach the ‘Finish’ square — and successfully complete a conversation according to the instructions written there — is the winner.
-
-a
-
-A person has introduced himself/herself to you but you didn’t catch his/her name. Ask him/her where he/she works, if it is his/her first visit and how long he/ she is staying.
-
-16
-
-You are sitting in the restaurant next to another delegate. Comment on the food and ask about typical dishes in his/her country.
-
-6
-
-You meet an old friend. Find out what he/she has been doing recently. Tell him/her about the training course you went on a month ago.
-
-15
-
-A delegate has asked you for information about places to eat in town for dinner this evening. Describe the different types of restaurant available and make recommendations.
-
-**THE TRADE FAIR GAME @**
-
-7
-
-You have been asked to help an overseas delegate. Explain the Trade Fair programme for the day, including breaks and how to get to a different place in the building.
-
-10
-
-Strike up a conversation
-
-. with another delegate.
-
-Ask him/her where he/she comes from and what his/ her job involves.
-
-11
-
-A delegate asks you for your opinion on the effectiveness of various hotel guest loyalty programmes on offer.
-
-14
-
-Strike up a conversation with another delegate. You recently attended a Trade Fair on ‘doing business across cultures’. Tell him/ her about it.
-
-bonus consultant grow a business reward VIP webinar
-
-**KEY WORDS**
-
-CEO conference call corporate client team-building
-
-Ce DVD-ROM Mini-dictionary
-
-8
-
-A delegate asks for your opinion on the impact of major sporting events on tourism spending in your country.
-
-9
-
-Go back three spaces.
-
-12
-
-You meet an interesting delegate from another country. Invite him/her for a drink. Talk about tourism opportunities and developments in his/her country.
-
-13
-
-A visitor asks you which hotel is best for business travellers in your city, and why. He/She also wants to know about car hire.
-
-executive incentive travel upgrade w G= 2 Ze mM Wn Y mS) Mm
+- 🎧 **Track 10.1** — Hai câu chuyện đi công tác. Người thứ nhất: vì sao tối đó cô không đeo nút tai, vì sao tới bữa sáng đã mệt lử, vì sao hôm sau được ngủ ở presidential suite. Người thứ hai: anh làm ở San Francisco bao lâu trước khi chuyển tới Memphis, vì sao lại mặc đồ cao bồi, và cuối cùng dự được gala trao giải bằng cách nào.
+- 🎧 **Track 10.2** — Bốn đoạn bắt chuyện ở hội chợ: điền các câu làm quen và câu giới thiệu còn thiếu.
+- 🎧 **Track 10.3** — Sáu câu mở đầu và kết thúc hội thoại bằng câu hỏi đuôi và exit line: điền chỗ trống và nghe xem người kia đáp lại thế nào.
 
 ## Review and Consolidation 2
 

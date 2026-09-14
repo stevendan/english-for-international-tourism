@@ -71,20 +71,45 @@ function mdToHtml(md) {
     list.last = num;
   };
 
+  /* "… Track 1.1 …" trên một dòng → mọi dấu 🎧 của dòng đó phát audio/Track1_1.mp3 */
+  const trackOf = (line) => {
+    const m = /Track\s*(\d+)\.(\d+)/.exec(line);
+    return m ? `${m[1]}_${m[2]}` : null;
+  };
+
   for (let i = 0; i < lines.length; i++) {
     const raw = lines[i];
     if (!raw.trim()) continue;
+
+    const track = trackOf(raw);
 
     const head = /^(#{1,4})\s+(.*)$/.exec(raw);
     if (head) {
       flush();
       const level = head[1].length;
       let text = head[2];
-      /* "#### Track 1.1" → chip 🎧 gắn sẵn tệp audio/Track1_1.mp3 */
-      const tr = level === 4 ? /^Track\s+(\d+)\.(\d+)/.exec(text) : null;
-      if (tr) text += ' ' + HEADPHONE;
-      out.push(`<h${level} id="${slug(head[2])}">${
-        inline(text, { track: tr ? `${tr[1]}_${tr[2]}` : null })}</h${level}>`);
+      /* heading "#### Track 1.1" trong Audio Script chưa có 🎧 — thêm vào */
+      if (level === 4 && /^Track\s+\d+\.\d+/.test(text)) text += ' ' + HEADPHONE;
+      out.push(`<h${level} id="${slug(head[2])}">${inline(text, { track })}</h${level}>`);
+      continue;
+    }
+
+    /* bảng: dòng | a | b | theo sau là dòng phân cách | --- | --- | */
+    if (raw.trim().startsWith('|') && /^\s*\|[\s:|-]+\|\s*$/.test(lines[i + 1] || '')) {
+      flush();
+      const rows = [];
+      while (i < lines.length && lines[i].trim().startsWith('|')) {
+        rows.push(lines[i].trim().replace(/^\|/, '').replace(/\|$/, '')
+          .split('|').map((c) => c.trim()));
+        i++;
+      }
+      i--;
+      const row = (tag, cells) => `<tr>${cells.map((c) =>
+        `<${tag}>${inline(c, { track: trackOf(c) })}</${tag}>`).join('')}</tr>`;
+      out.push('<div class="table-wrap"><table>' +
+        `<thead>${row('th', rows[0])}</thead>` +
+        `<tbody>${rows.slice(2).map((r) => row('td', r)).join('')}</tbody>` +
+        '</table></div>');
       continue;
     }
 
@@ -102,13 +127,13 @@ function mdToHtml(md) {
     }
 
     const ol = /^(\d{1,2})\.\s+(.*)$/.exec(raw);
-    if (ol) { pushItem('ol', Number(ol[1]), inline(ol[2])); continue; }
+    if (ol) { pushItem('ol', Number(ol[1]), inline(ol[2], { track })); continue; }
 
     const ul = /^[-*+]\s+(.*)$/.exec(raw);
-    if (ul) { pushItem('ul', 0, inline(ul[1])); continue; }
+    if (ul) { pushItem('ul', 0, inline(ul[1], { track })); continue; }
 
     flush();
-    out.push(`<p>${inline(raw)}</p>`);
+    out.push(`<p>${inline(raw, { track })}</p>`);
   }
   flush();
   return out.join('\n');
@@ -132,13 +157,6 @@ function parseBook(md) {
 
   book.notes = book.front.filter((l) => l.startsWith('>')).map((l) => l.replace(/^>\s?/, ''));
 
-  /* Bản scan gốc không kèm audio, nhưng thư mục audio/ nay đã có đủ track — sửa lại ghi chú đó. */
-  book.notes = book.notes.map((n) => audioFiles.length && /không chứa file âm thanh/.test(n)
-    ? `${HEADPHONE} **Audio:** thư mục \`audio/\` có ${audioFiles.length} tệp ` +
-      `(Track 1.1 – ${audioFiles[audioFiles.length - 1].track}), đã gắn sẵn vào từng bài nghe — ` +
-      `bấm ${HEADPHONE} là phát ngay, không phải chọn tệp.`
-    : n);
-
   book.sections = book.sections.filter((s) => s.title !== 'Mục lục');
 
   book.sections.forEach((sec) => {
@@ -154,6 +172,10 @@ function parseBook(md) {
     sec.num = unit ? unit[1] : null;
     sec.shortTitle = unit ? unit[2] : sec.title;
 
+    /* dòng ghi chú mở đầu mục — dùng làm mô tả trên thẻ ở trang chủ */
+    const intro = sec.lines.find((l) => l.startsWith('> ') && !/⚠️/.test(l));
+    sec.tagline = intro ? intro.replace(/^>\s?/, '').replace(/[*`]/g, '') : '';
+
     sec.lessons = [];
     let head = null;
     for (const line of sec.lines) {
@@ -164,9 +186,11 @@ function parseBook(md) {
         continue;
       }
       if (/^#{1,4}\s/.test(line) || !line.trim() || line.startsWith('>')) continue;
+      if (/^\s*\|[\s:|-]+\|\s*$/.test(line)) continue;      // dòng phân cách của bảng
       book.index.push({
         sec, head,
-        text: line.replace(/[*`#]/g, '').replace(new RegExp(HEADPHONE, 'gu'), '').trim()
+        text: line.replace(/[*`#]/g, '').replace(/\s*\|\s*/g, ' · ')
+          .replace(new RegExp(HEADPHONE, 'gu'), '').trim()
       });
     }
   });
@@ -202,26 +226,6 @@ const audioFiles = audioNames
 
 const byName  = new Map(audioFiles.map((f) => [f.name, f]));
 const byTrack = new Map(audioFiles.map((f) => [f.key, f]));
-
-/* Sách in số track cạnh mỗi bài nghe, nhưng OCR làm mất (chỉ còn rác kiểu "©))2=>").
-   Bảng này khôi phục lại: phần tử thứ i là track của dấu 🎧 thứ i trong mục (tính cả 🎧
-   trên heading "Listening — …"), dựng bằng cách đối chiếu đề bài với lời thoại trong
-   Audio Script — ví dụ Unit 1 bài "stress pattern" khớp Track 1.2 (danh sách tính từ),
-   Unit 8 còn giữ được số "8.4" trong bản quét nên xác nhận cả chuỗi.
-   Unit 7–10 không có lời thoại (mất khi quét), nên suy theo vị trí bài trong unit.
-   Mục Audio Script tự khớp theo heading "#### Track x.y", không cần bảng. */
-const CHIP_TRACKS = {
-  'unit-1-selling-dreams':   ['1.1','1.1','1.1','1.2','1.3','1.3','1.3','1.4','1.5','1.5','1.5'],
-  'unit-2-getting-there':    ['2.1','2.1','2.1','2.2','2.3','2.4','2.5','2.5','2.5','2.6','2.6'],
-  'unit-3-accommodation':    ['3.1','3.1','3.1','3.2','3.2','3.2','3.3','3.3','3.3','3.4','3.5','3.5'],
-  'unit-4-destinations':     ['4.1','4.1','4.1','4.2','4.3','4.3','4.3'],
-  'unit-5-things-to-do':     ['5.1','5.1','5.1','5.2','5.3','5.4','5.4'],
-  'unit-6-niche-tourism':    ['6.1','6.1','6.1','6.2','6.3','6.3','6.3','6.4','6.5','6.4','6.5'],
-  'unit-7-cultural-tourism': ['7.2','7.2','7.3','7.3','7.4'],
-  'unit-8-running-a-hotel':  ['8.1','8.1','8.2','8.2','8.2','8.3','8.3','8.4','8.4','8.4','8.5','8.5'],
-  'unit-9-customer-service': ['9.1','9.1','9.1','9.2','9.2','9.2','9.3','9.3','9.4','9.5','9.5'],
-  'unit-10-business-travel': ['10.1','10.1','10.2','10.3']
-};
 
 const audio      = $('#audio');
 const playerEl   = $('#player');
@@ -448,7 +452,8 @@ function buildChrome() {
         ${s.audioCount ? `<span class="card-audio">${HEADPHONE} ${s.audioCount}</span>` : ''}
       </span>
       <h3>${esc(s.isUnit ? s.shortTitle : s.title)}</h3>
-      <p>${s.lessons.length ? esc(s.lessons.map((l) => l.title).join(' · ')) : 'Mở để xem nội dung'}</p>
+      <p>${esc(s.tagline ||
+        (s.lessons.length ? s.lessons.map((l) => l.title).join(' · ') : 'Mở để xem nội dung'))}</p>
     </button>`;
   $('#unitGrid').innerHTML  = units.map(card).join('');
   $('#extraGrid').innerHTML = others.map(card).join('');
@@ -457,7 +462,7 @@ function buildChrome() {
   const lessons = book.sections.reduce((n, s) => n + s.lessons.length, 0);
   const audios  = book.sections.reduce((n, s) => n + s.audioCount, 0);
   $('#heroStats').innerHTML =
-    `<span>${units.length} unit</span><span>${lessons} bài học</span>` +
+    `<span>${units.length} unit</span><span>${lessons} mục</span>` +
     `<span>${HEADPHONE} ${audios} chỗ nghe</span><span>${audioFiles.length} tệp mp3</span>`;
   $('#homeNotes').innerHTML = book.notes
     .map((n) => `<div class="note">${inline(n, { chips: false })}</div>`).join('');
@@ -481,11 +486,6 @@ function go(sectionId, headId = null, { push = true } = {}) {
 
   activeSection = sec;
   $('#docBody').innerHTML = sec.html;
-  /* chip trong Audio Script đã có data-track từ heading; còn lại tra bảng theo thứ tự */
-  const tracks = CHIP_TRACKS[sec.id] || [];
-  $$('#docBody [data-chip]').forEach((chip, i) => {
-    if (!chip.dataset.track && tracks[i]) chip.dataset.track = tracks[i].replace('.', '_');
-  });
   refreshChips();
 
   $('#crumbs').innerHTML =

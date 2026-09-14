@@ -471,6 +471,26 @@ main {
 
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 30px 0; }
 
+/* ── Bảng ── */
+.table-wrap {
+  margin: 0 0 20px; overflow-x: auto;
+  border: 1px solid var(--line); border-radius: var(--radius-sm);
+}
+.table-wrap table {
+  width: 100%; border-collapse: collapse;
+  font-family: var(--font-ui); font-size: 14.5px; line-height: 1.55;
+}
+.table-wrap th, .table-wrap td {
+  padding: 10px 14px; text-align: left; vertical-align: top;
+  border-bottom: 1px solid var(--line);
+}
+.table-wrap th {
+  background: var(--bg-elev);
+  font-weight: 680; letter-spacing: -.01em; white-space: nowrap;
+}
+.table-wrap td + td, .table-wrap th + th { border-left: 1px solid var(--line); }
+.table-wrap tbody tr:last-child th, .table-wrap tbody tr:last-child td { border-bottom: 0; }
+
 mark {
   background: color-mix(in srgb, var(--accent) 28%, transparent);
   color: inherit; border-radius: 3px; padding: 0 2px;
