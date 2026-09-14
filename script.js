@@ -17,6 +17,9 @@ const store = {
   },
   set(key, value) {
     try { localStorage.setItem('eit:' + key, JSON.stringify(value)); } catch { /* chế độ riêng tư */ }
+  },
+  del(key) {
+    try { localStorage.removeItem('eit:' + key); } catch { /* chế độ riêng tư */ }
   }
 };
 
@@ -33,7 +36,7 @@ const esc = (s) => s
   .replace(/&/g, '&amp;').replace(/</g, '&lt;')
   .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
-function inline(text, { chips = true } = {}) {
+function inline(text, { chips = true, track = null } = {}) {
   let s = esc(text);
   s = s.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g, '<a href="$2">$1</a>');
   s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
@@ -41,7 +44,8 @@ function inline(text, { chips = true } = {}) {
   s = s.replace(/`([^`]+)`/g, '<code>$1</code>');
   if (chips) {
     s = s.split(HEADPHONE).join(
-      '<button type="button" class="chip-audio" data-chip data-state="empty">' +
+      '<button type="button" class="chip-audio" data-chip' +
+      (track ? ` data-track="${track}"` : '') + ' data-state="empty">' +
       HEADPHONE + '<span class="chip-label">Chọn audio</span></button>'
     );
   }
@@ -76,8 +80,11 @@ function mdToHtml(md) {
       flush();
       const level = head[1].length;
       let text = head[2];
-      if (level === 4 && /^Track\s/.test(text)) text += ' ' + HEADPHONE;
-      out.push(`<h${level} id="${slug(head[2])}">${inline(text)}</h${level}>`);
+      /* "#### Track 1.1" → chip 🎧 gắn sẵn tệp audio/Track1_1.mp3 */
+      const tr = level === 4 ? /^Track\s+(\d+)\.(\d+)/.exec(text) : null;
+      if (tr) text += ' ' + HEADPHONE;
+      out.push(`<h${level} id="${slug(head[2])}">${
+        inline(text, { track: tr ? `${tr[1]}_${tr[2]}` : null })}</h${level}>`);
       continue;
     }
 
@@ -125,6 +132,13 @@ function parseBook(md) {
 
   book.notes = book.front.filter((l) => l.startsWith('>')).map((l) => l.replace(/^>\s?/, ''));
 
+  /* Bản scan gốc không kèm audio, nhưng thư mục audio/ nay đã có đủ track — sửa lại ghi chú đó. */
+  book.notes = book.notes.map((n) => audioFiles.length && /không chứa file âm thanh/.test(n)
+    ? `${HEADPHONE} **Audio:** thư mục \`audio/\` có ${audioFiles.length} tệp ` +
+      `(Track 1.1 – ${audioFiles[audioFiles.length - 1].track}), đã gắn sẵn vào từng bài nghe — ` +
+      `bấm ${HEADPHONE} là phát ngay, không phải chọn tệp.`
+    : n);
+
   book.sections = book.sections.filter((s) => s.title !== 'Mục lục');
 
   book.sections.forEach((sec) => {
@@ -160,24 +174,71 @@ function parseBook(md) {
 
 /* ═══════════ 3. AUDIO ═══════════ */
 
-const audioFiles = (window.AUDIO_FILES || []).map((f, i) => ({ ...f, i }));
-const byName = new Map(audioFiles.map((f) => [f.name, f]));
+/* Thư mục audio/ dùng tên TrackU_N.mp3 — U là unit (1–10), N là track thứ N của unit.
+   TRACKS_PER_UNIT[u] = số track của unit u+1, khớp đúng các tệp hiện có.
+   Nếu book-data.js được sinh lại và có liệt kê các tệp Track* thì lấy theo đó;
+   danh sách br2_* cũ (Business Result) bị bỏ qua vì không còn tệp trên đĩa. */
+const TRACK_RE = /^Track(\d+)_(\d+)\.mp3$/i;
+const TRACKS_PER_UNIT = [5, 6, 5, 3, 4, 5, 4, 5, 5, 3];
+
+const audioNames = (() => {
+  const listed = (window.AUDIO_FILES || [])
+    .map((f) => (f && f.name) || '').filter((n) => TRACK_RE.test(n));
+  if (listed.length) return listed;
+  const names = [];
+  TRACKS_PER_UNIT.forEach((count, u) => {
+    for (let n = 1; n <= count; n++) names.push(`Track${u + 1}_${n}.mp3`);
+  });
+  return names;
+})();
+
+const audioFiles = audioNames
+  .map((name) => {
+    const [, unit, index] = TRACK_RE.exec(name);
+    return { name, src: 'audio/' + name, unit: Number(unit), index: Number(index) };
+  })
+  .sort((a, b) => a.unit - b.unit || a.index - b.index)
+  .map((f, i) => ({ ...f, i, track: `${f.unit}.${f.index}`, key: `${f.unit}_${f.index}` }));
+
+const byName  = new Map(audioFiles.map((f) => [f.name, f]));
+const byTrack = new Map(audioFiles.map((f) => [f.key, f]));
+
+/* Sách in số track cạnh mỗi bài nghe, nhưng OCR làm mất (chỉ còn rác kiểu "©))2=>").
+   Bảng này khôi phục lại: phần tử thứ i là track của dấu 🎧 thứ i trong mục (tính cả 🎧
+   trên heading "Listening — …"), dựng bằng cách đối chiếu đề bài với lời thoại trong
+   Audio Script — ví dụ Unit 1 bài "stress pattern" khớp Track 1.2 (danh sách tính từ),
+   Unit 8 còn giữ được số "8.4" trong bản quét nên xác nhận cả chuỗi.
+   Unit 7–10 không có lời thoại (mất khi quét), nên suy theo vị trí bài trong unit.
+   Mục Audio Script tự khớp theo heading "#### Track x.y", không cần bảng. */
+const CHIP_TRACKS = {
+  'unit-1-selling-dreams':   ['1.1','1.1','1.1','1.2','1.3','1.3','1.3','1.4','1.5','1.5','1.5'],
+  'unit-2-getting-there':    ['2.1','2.1','2.1','2.2','2.3','2.4','2.5','2.5','2.5','2.6','2.6'],
+  'unit-3-accommodation':    ['3.1','3.1','3.1','3.2','3.2','3.2','3.3','3.3','3.3','3.4','3.5','3.5'],
+  'unit-4-destinations':     ['4.1','4.1','4.1','4.2','4.3','4.3','4.3'],
+  'unit-5-things-to-do':     ['5.1','5.1','5.1','5.2','5.3','5.4','5.4'],
+  'unit-6-niche-tourism':    ['6.1','6.1','6.1','6.2','6.3','6.3','6.3','6.4','6.5','6.4','6.5'],
+  'unit-7-cultural-tourism': ['7.2','7.2','7.3','7.3','7.4'],
+  'unit-8-running-a-hotel':  ['8.1','8.1','8.2','8.2','8.2','8.3','8.3','8.4','8.4','8.4','8.5','8.5'],
+  'unit-9-customer-service': ['9.1','9.1','9.1','9.2','9.2','9.2','9.3','9.3','9.4','9.5','9.5'],
+  'unit-10-business-travel': ['10.1','10.1','10.2','10.3']
+};
 
 const audio      = $('#audio');
 const playerEl   = $('#player');
 const seekEl     = $('#seek');
 const RATES      = [0.75, 1, 1.25, 1.5, 2];
 
-let assignments  = store.get('assign', {});
-let currentFile  = null;
-let assignTarget = null;                              // key của chip đang chờ gán
+let currentFile = null;
+
+store.del('assign');           // bỏ các gán tay của bản cũ — nay khớp track tự động
 
 const fmtTime = (s) => {
   if (!isFinite(s)) return '0:00';
   const m = Math.floor(s / 60);
   return m + ':' + String(Math.floor(s % 60)).padStart(2, '0');
 };
-const fileLabel = (f) => `Nhóm ${f.group} · bài ${f.index}`;
+const fileTitle = (f) => `Track ${f.track}`;
+const fileLabel = (f) => `Unit ${f.unit} · ${f.name}`;
 
 function setSeekFill() {
   const pct = audio.duration ? (audio.currentTime / audio.duration) * 100 : 0;
@@ -194,12 +255,12 @@ function play(file, { silent = false } = {}) {
     audio.src = encodeURI(file.src);
     audio.playbackRate = store.get('rate', 1);
     playerEl.dataset.empty = 'false';
-    $('#npTitle').textContent = file.name;
+    $('#npTitle').textContent = fileTitle(file);
     $('#npSub').textContent = fileLabel(file);
     if ('mediaSession' in navigator && typeof MediaMetadata === 'function') {
       try {
         navigator.mediaSession.metadata = new MediaMetadata({
-          title: file.name, artist: fileLabel(file),
+          title: fileTitle(file), artist: fileLabel(file),
           album: 'English for International Tourism'
         });
       } catch { /* trình duyệt không hỗ trợ */ }
@@ -258,13 +319,9 @@ $('#btnLoop').addEventListener('click', (e) => {
 /* ── Thư viện audio ───────────────────────────────────────── */
 const libraryEl = $('#library');
 
-function openLibrary(chipKey = null) {
-  assignTarget = chipKey;
-  $('#libTitle').textContent = chipKey ? 'Gán audio cho bài nghe này' : 'Thư viện audio';
-  $('#libHint').textContent = chipKey
-    ? 'Chọn một tệp để gán và phát — lựa chọn được nhớ lại lần sau.'
-    : `${audioFiles.length} tệp · bấm để phát`;
-  $('#btnUnassign').hidden = !(chipKey && assignments[chipKey]);
+function openLibrary() {
+  $('#libHint').textContent = `${audioFiles.length} tệp · bấm để phát`;
+  $('#libSearch').value = '';
   libraryEl.hidden = false;
   renderLibrary();
   setTimeout(() => $('#libSearch').focus(), 60);
@@ -272,13 +329,13 @@ function openLibrary(chipKey = null) {
 
 function closeLibrary() {
   libraryEl.hidden = true;
-  assignTarget = null;
 }
 
 function renderLibrary() {
   if (libraryEl.hidden) return;
   const q = $('#libSearch').value.trim().toLowerCase();
-  const hits = audioFiles.filter((f) => !q || f.name.toLowerCase().includes(q));
+  const hits = audioFiles.filter((f) => !q ||
+    `${f.name} track ${f.track} unit ${f.unit}`.toLowerCase().includes(q));
   const list = $('#libList');
 
   if (!hits.length) {
@@ -286,17 +343,17 @@ function renderLibrary() {
     return;
   }
 
-  let html = '', group = null;
+  let html = '', unit = null;
   for (const f of hits) {
-    if (f.group !== group) {
-      group = f.group;
-      html += `<div class="lib-group">Nhóm ${group}</div>`;
+    if (f.unit !== unit) {
+      unit = f.unit;
+      html += `<div class="lib-group">Unit ${unit}</div>`;
     }
     const cur = currentFile && currentFile.name === f.name;
     html += `<button class="lib-item${cur ? ' is-current' : ''}" data-file="${esc(f.name)}">
       <span class="dot">${cur && !audio.paused ? '▮▮' : '▶'}</span>
-      <span class="nm">${esc(f.name)}</span>
-      <span class="sub">bài ${f.index}</span>
+      <span class="nm">Track ${f.track}</span>
+      <span class="sub">${esc(f.name)}</span>
     </button>`;
   }
   list.innerHTML = html;
@@ -304,69 +361,48 @@ function renderLibrary() {
 
 $('#libList').addEventListener('click', (e) => {
   const btn = e.target.closest('[data-file]');
-  if (!btn) return;
-  const file = byName.get(btn.dataset.file);
-  if (!file) return;
-  if (assignTarget) {
-    assignments[assignTarget] = file.name;
-    store.set('assign', assignments);
-    toast(`Đã gán ${file.name} cho bài nghe này.`);
-    closeLibrary();
-  }
-  play(file);
+  const file = btn && byName.get(btn.dataset.file);
+  if (file) play(file);
 });
 
 $('#libSearch').addEventListener('input', renderLibrary);
 $('#btnLibrary').addEventListener('click', () => openLibrary());
-$('#btnUnassign').addEventListener('click', () => {
-  if (!assignTarget) return;
-  delete assignments[assignTarget];
-  store.set('assign', assignments);
-  refreshChips();
-  closeLibrary();
-  toast('Đã bỏ gán.');
-});
 $$('[data-close]', libraryEl).forEach((el) => el.addEventListener('click', closeLibrary));
 
-if (store.get('warnHidden', false)) $('#libWarn').hidden = true;
+if (store.get('audioNoteHidden', false)) $('#libWarn').hidden = true;
 $('#btnWarnHide').addEventListener('click', () => {
   $('#libWarn').hidden = true;
-  store.set('warnHidden', true);
+  store.set('audioNoteHidden', true);
 });
 
 /* ── Chip 🎧 trong nội dung ───────────────────────────────── */
+
+const chipFile = (chip) => byTrack.get(chip.dataset.track);
+
 function refreshChips() {
   $$('#docBody [data-chip]').forEach((chip) => {
-    const file = byName.get(assignments[chip.dataset.key]);
+    const file = chipFile(chip);
     const label = chip.querySelector('.chip-label');
-    if (!file) {
-      chip.dataset.state = 'empty';
-      label.textContent = 'Chọn audio';
-      chip.title = 'Chưa gán tệp audio — bấm để chọn';
+    if (!file) {                      // chỗ sách nhắc "listen" nhưng không có bản ghi
+      chip.dataset.state = 'empty';   // (đóng vai theo cặp, phim DVD…)
+      chip.disabled = true;
+      label.textContent = 'Không có bản ghi';
+      chip.title = 'Bộ audio không có tệp cho chỗ này';
       return;
     }
-    const playing = currentFile && currentFile.name === file.name && !audio.paused;
+    const playing = currentFile === file && !audio.paused;
     chip.dataset.state = playing ? 'playing' : 'ready';
-    label.textContent = file.name.replace(/^br2_003_/, '').replace(/\.mp3$/, '');
-    chip.title = `${file.name} — bấm để phát; Shift+bấm (hoặc nhấn giữ) để đổi tệp`;
+    label.textContent = `Track ${file.track}`;
+    chip.title = `${file.name} — bấm để ${playing ? 'dừng' : 'phát'}`;
   });
 }
 
 $('#docBody').addEventListener('click', (e) => {
   const chip = e.target.closest('[data-chip]');
-  if (!chip) return;
-  const file = byName.get(assignments[chip.dataset.key]);
-  if (!file || e.shiftKey) { openLibrary(chip.dataset.key); return; }
-  if (currentFile && currentFile.name === file.name && !audio.paused) { audio.pause(); return; }
+  const file = chip && chipFile(chip);
+  if (!file) return;
+  if (currentFile === file && !audio.paused) { audio.pause(); return; }
   play(file);
-});
-
-/* nhấn giữ trên điện thoại = đổi tệp đã gán */
-$('#docBody').addEventListener('contextmenu', (e) => {
-  const chip = e.target.closest('[data-chip]');
-  if (!chip) return;
-  e.preventDefault();
-  openLibrary(chip.dataset.key);
 });
 
 /* ═══════════ 4. ĐIỀU HƯỚNG & HIỂN THỊ ═══════════ */
@@ -445,7 +481,11 @@ function go(sectionId, headId = null, { push = true } = {}) {
 
   activeSection = sec;
   $('#docBody').innerHTML = sec.html;
-  $$('#docBody [data-chip]').forEach((chip, i) => { chip.dataset.key = `${sec.id}#${i}`; });
+  /* chip trong Audio Script đã có data-track từ heading; còn lại tra bảng theo thứ tự */
+  const tracks = CHIP_TRACKS[sec.id] || [];
+  $$('#docBody [data-chip]').forEach((chip, i) => {
+    if (!chip.dataset.track && tracks[i]) chip.dataset.track = tracks[i].replace('.', '_');
+  });
   refreshChips();
 
   $('#crumbs').innerHTML =
@@ -640,7 +680,7 @@ async function loadMarkdown() {
   else go(null, null, { push: false });
 
   if (!audioFiles.length) {
-    toast('Không thấy tệp audio nào — kiểm tra lại book-data.js.');
+    toast('Không thấy tệp audio nào — kiểm tra thư mục audio/ (TrackU_N.mp3).');
   }
 })();
 

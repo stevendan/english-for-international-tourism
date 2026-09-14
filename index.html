@@ -114,7 +114,7 @@
 
   <div class="player-body">
     <div class="player-meta">
-      <strong id="npTitle">Chưa chọn audio</strong>
+      <strong id="npTitle">Chưa phát audio</strong>
       <span id="npSub">Bấm 🎧 trong bài, hoặc mở thư viện audio</span>
     </div>
     <div class="player-seek">
@@ -145,7 +145,7 @@
     <header class="modal-head">
       <div>
         <h2 id="libTitle">Thư viện audio</h2>
-        <p id="libHint">63 tệp · bấm để phát</p>
+        <p id="libHint">45 tệp · bấm để phát</p>
       </div>
       <button class="icon-btn" data-close aria-label="Đóng">
         <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 6l12 12M18 6L6 18"/></svg>
@@ -153,20 +153,18 @@
     </header>
 
     <div class="modal-warn" id="libWarn">
-      <strong>⚠️ Audio không khớp sách.</strong>
-      Thư mục audio là của <em>Business Result Intermediate</em> (Oxford), còn nội dung sách này là
-      <em>English for International Tourism</em> (Pearson) — hai giáo trình khác nhau, nên không có
-      liên kết sẵn giữa bài nghe và tệp mp3. Bạn vẫn nghe được mọi tệp ở đây, và có thể tự gán tệp cho
-      từng chỗ 🎧; lựa chọn được lưu lại trong trình duyệt.
+      <strong>🎧 Bấm là nghe, không phải chọn tệp.</strong>
+      Mỗi dấu 🎧 trong bài đã gắn sẵn track tương ứng (<em>Track 1.1 – 10.3</em>), bấm vào là phát ngay.
+      Số track được khôi phục bằng cách đối chiếu đề bài với lời thoại trong <em>Audio Script</em>, vì
+      bản quét làm mất số in cạnh biểu tượng loa. Danh sách dưới đây để nghe tự do hoặc kiểm tra lại tệp.
       <button class="link-btn" id="btnWarnHide">Đã hiểu, ẩn đi</button>
     </div>
 
     <div class="modal-tools">
       <div class="search-wrap search-wrap--plain">
         <svg class="search-icon" viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
-        <input type="search" id="libSearch" placeholder="Lọc theo tên tệp…" aria-label="Lọc tệp audio" autocomplete="off">
+        <input type="search" id="libSearch" placeholder="Lọc: Track 3.2, Track3_2, unit 3…" aria-label="Lọc tệp audio" autocomplete="off">
       </div>
-      <button class="pill" id="btnUnassign" hidden>Bỏ gán</button>
     </div>
 
     <div class="modal-body" id="libList"></div>

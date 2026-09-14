@@ -494,6 +494,8 @@ mark {
   background: transparent; color: var(--ink-faint);
   border-color: var(--line-strong); border-style: dashed;
 }
+.chip-audio:disabled { cursor: default; }
+.chip-audio:disabled:hover { transform: none; box-shadow: none; }
 .chip-audio[data-state="playing"] {
   background: var(--accent); color: var(--accent-ink);
   border-color: var(--accent);
