@@ -31,8 +31,11 @@
   --player-h:      74px;
   --sidebar-w:     288px;
 
-  --font-ui:       system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-  --font-read:     Georgia, "Iowan Old Style", "Times New Roman", serif;
+  /* Cả hai font đều có sẵn glyph tiếng Việt dựng sẵn (U+1EA0–U+1EF9);
+     font dự phòng cũng vậy — không dùng Georgia vì thiếu khối này,
+     khiến ạ ậ ệ ợ ữ … rơi sang font khác và chữ bị lệch chân. */
+  --font-ui:       "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  --font-read:     "Noto Serif", Cambria, "Palatino Linotype", "Times New Roman", serif;
 
   color-scheme: light;
 }
@@ -76,6 +79,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font: 15px/1.6 var(--font-ui);
+  font-optical-sizing: auto;
   overflow-wrap: break-word;
 }
 
