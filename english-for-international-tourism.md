@@ -4,7 +4,7 @@
 
 > 📚 **Cách dùng:** mỗi unit ở đây là một khung sườn sáu phần — Mục tiêu · Từ vựng · Ngữ pháp · Practically speaking · Key expressions · Talking point — chứ không chép lại toàn bộ bài. Số trang ghi theo bản in Pearson 2013: mở sách giấy ra làm bài tập, dùng trang này để ôn và tra nhanh.
 
-> 🎧 **Nghe:** phần luyện nghe được giữ nguyên. Mỗi dấu 🎧 đã gắn sẵn track tương ứng (Track 1.1 – 10.3), bấm là phát ngay. Lời thoại nằm ở phần **Audio Script**.
+> 🎧 **Nghe:** phần luyện nghe được giữ nguyên. Mỗi dấu 🎧 đã gắn sẵn track tương ứng (Track 1.1 – 10.3). Ngay dưới mỗi track là một khối **📝 Script** gập lại (bấm vào để mở) chứa lời thoại — nghe xong bấm mở ra để đối chiếu. Với các track không có script (Unit 7–10 và một vài chỗ khác do khoảng trống OCR), khối này ghi rõ lý do và trang cần tra trong sách giấy.
 
 > ⚠️ **Khoảng trống OCR:** bài 7.1–7.2 (tr. 60–63) và Audio Script của Unit 7–10 (tr. 124–128) không nhận được chữ khi quét bản PDF — hai chỗ đó tra trong sách giấy.
 
@@ -487,10 +487,105 @@ Mẹo làm bài điền lịch sử Thomson/TUI: mỗi chỗ trống hỏi hai c
 ### Luyện nghe
 
 - 🎧 **Track 1.1** — Vy-Anh Nguyen phỏng vấn Teresa Koh (Hawaii Tourism Authority). Lần 1: bốn điều cô muốn biết. Lần 2: khảo sát hỏi gì, xếp thứ tự các thị trường nguồn, chân dung hai nhóm khách cao cấp, chương trình đào tạo đại lý dạy gì.
+  <details><summary>📝 Script</summary>
+
+  VAH = Vy-Anh Nguyen, TK = Teresa Koh
+
+  **VAH** I'd like to ask you some questions about tourism in Hawaii if that's OK with you?
+
+  **TK** Sure. Go ahead.
+
+  **VAH** What kind of destination is Hawaii? Who goes there?
+
+  **TK** Well, Hawaii was named the top 'Dream Destination' in a recent study of American travellers. The Leisure Trend Group, the professional association who did the survey, asked over two million rich, active and outdoor-oriented people 'where would you take your favourite person on vacation if money was of no importance to you?' And Hawaii was their number one destination!
+
+  **VAH** So where do most visitors to Hawaii come from?
+
+  **TK** Our biggest market is the United States — but we get more people from the West coast than the East coast. Japan is in third position and Canada is fourth — although it's interesting that in terms of visitor expenditure, the Canadians spend less than the Japanese even though, on average, the Canadians stay over twice as long. After that, there's Oceania and then Europe. The Europeans tend to stay longer than the visitors from Australia and New Zealand, but we don't get as many of them.
+
+  **VAH** OK. So what makes people want to come to Hawaii?
+
+  **TK** Well, as you know, tourism is about selling dreams. It's all about people doing something different and taking a break from their ordinary daily routines. We focus mainly on luxury products and we have a wide spectrum. Luxury travellers can range in age from their late 20s to late 60s and beyond. Typical profiles would be rich baby boomers, who are typically well-travelled and demanding about the experience they want, and younger professionals, who have money but very little free time. Our visitors want to experience something out of the ordinary — a luxury B&B in the mountains, play golf on a famous Championship golf course, experience our regional cuisine, take a spa treatment while listening to the sounds of the ocean, things like that.
+
+  **VAH** So how do you promote Hawaii as a destination?
+
+  **TK** Well, we have a specialist programme to teach travel agents about the appeal of Hawaii to this sector. There are luxury resorts all over Hawaii, so the main task for the travel agent or consultant is to match the right island to the clients' interests. Are they looking for sunset sailing along the coast, helicopter rides over dormant volcanoes, surfing on secluded beaches or first-class scuba-diving? Each module on the programme focuses on an island and teaches agents about the unique attractions it has to offer.
+
+  </details>
 - 🎧 **Track 1.2** — Trọng âm của tính từ mô tả (*steep, sandy, extinct*…). Tự xếp nhóm theo stress pattern trước, rồi nghe kiểm tra và nhắc lại.
+  <details><summary>📝 Script</summary>
+
+  1 steep
+
+  2 sandy, golden, active, dormant, pretty, quiet, spacious, scenic, winding
+
+  3 extinct, remote
+
+  4 deserted, surrounding, majestic
+
+  5 spectacular, luxurious
+
+  6 comfortable
+
+  </details>
 - 🎧 **Track 1.3** — Kenji Ischikawa nói về marketing mix, phần 1: hai chữ P đầu tiên và ví dụ kèm theo.
+  <details><summary>📝 Script</summary>
+
+  Part 1
+
+  So, the marketing mix involves four Ps — and the first of these is P for Product. Now it's important to remember that 'Product' is, in fact, either a product or service. A product is usually a tangible product — something you can see or touch — so, in the hotel and catering industry, a tangible product would be the actual food and drink served in a hotel restaurant.
+
+  A service, however, is intangible: it can't be touched. The work of the waitress or the bar staff serving the customer or the housekeeping in a hotel is intangible. Since the travel industry is mostly about providing services, its products are mostly services and are therefore intangible.
+
+  Products can also be perishable, which means that they have a sell-by date. If a hotel room or airline seat is not booked prior to the day of departure, it can't be sold after that day has passed. Travel products are usually perishable: they only have a limited life and no longer exist after the departure date has passed.
+
+  The second P is 'Place'. This means deciding how the product will be distributed and where people will buy it. In the past, most products were sold through travel agents. An envelope full of documents such as a letter of confirmation, flight tickets and hotel vouchers was the only factor in distribution. But these days, the internet has completely changed the idea of place. Many customers now book on-line directly with the operator or airline, so actual physical location is not so important.
+
+  </details>
 - 🎧 **Track 1.4** — Phần 2 bài nói: hai chữ P còn lại (direct marketing, sales promotions / value for money, competition).
+  <details><summary>📝 Script</summary>
+
+  Part 2
+
+  The third P is 'Promotion'. This means more than just advertising, although advertising is important. Customers need to be told that the product exists, and this can be done via direct marketing, for example direct mail, websites, advertisements on TV and in the press, telemarketing and point-of-sale material, such as tour operator brochures. In addition to this, we also use sales promotion techniques such as offering discounts, promotional codes and loyalty programmes, such as offering customers airmiles on a frequent flyer programme.
+
+  Last but not least is 'Price'. The travel industry is incredibly competitive so the actual cost of a package is very important. Most people are looking for value for money, which means that the customer's perceived benefits must be greater than the costs. As there is considerable competition, the operator or hotelier or restaurant owner has to analyse the cost structure of its competitors. This means that the price needs to be slightly cheaper or more or less the same as the price charged by the nearest competitor offering a similar product or service. Costings will also be subject to currency fluctuations and the price of a package may change after a brochure has been printed, leading to surcharges.
+
+  </details>
 - 🎧 **Track 1.5** — Chủ Evermore Tours họp chốt nội dung gói cưới Virgin Islands: tick những chủ đề được bàn, rồi trả lời năm câu True/False.
+  <details><summary>📝 Script</summary>
+
+  D = Diane, A = Anthony
+
+  **D** OK, Anthony, let's get down to business. I suggest we talk about transport first.
+
+  **A** Yeah, well, that depends where they're coming from, so we can't really anticipate that, can we? They'll need to tell us in advance, plus how many people are going to travel with them, and we can then negotiate a price with the airline.
+
+  **D** Sure, and we can stress the fact that we can negotiate a better price from the airline if we book them as a group. Um, we'll have to do a costing for local transport to and from the airport, and any excursions or tours during the stay, but we can't do that in advance.
+
+  **A** Right, well, that's item number seven. Do you want to deal with that now?
+
+  **D** Well, it's kind of the most important thing. I think we need to work on a profit margin of 30 percent if we're going to be competitive. So anything we buy in from a supplier like hotel bed-nights we need to increase by 30 percent.
+
+  **A** OK, I think the hotel we should go for is the Clearwater. I've spoken to the manager and they can give us a 20 percent discount for group bookings.
+
+  **D** Fine. We also need to cost the activities we offer like spa treatment, snorkelling, and so on.
+
+  **A** Right. One point we could mention somewhere is that according to a recent survey, a wedding abroad on average costs about one-third less than one arranged at home. We can negotiate better rates for hotels and catering, the band or DJ for the reception, the flowers, the photography, hairdressing, and so on. And usually there aren't as many guests prepared to fly out, so you can keep numbers down and you don't spend so much on food and drink. It's much cheaper abroad than at home.
+
+  **D** Good point. And I think one good way of presenting what we do is in the form of a list of Frequently Asked Questions. So we could mention that under *How much will it cost?*
+
+  **A** Yes, and we'll have to include questions like *What are the legal requirements?*, *How many guests can I bring?*, *Who does all the organizing* and *Who'll look after us on the big day?*
+
+  **D** Yes, we need to make a list of questions.
+
+  **A** OK, well, let's do that after lunch. Have you got any other business you'd like to discuss?
+
+  **D** Just one thing. I'm a bit worried about payment in different currencies. Changes in exchange rates could have a big impact on the profit we make.
+
+  **A** Yeah, you're right, we'll have to get advice on that.
+
+  </details>
 
 ## Unit 2 — Getting there
 
@@ -588,11 +683,175 @@ Mẹo làm bài điền lịch sử Thomson/TUI: mỗi chỗ trống hỏi hai c
 ### Luyện nghe
 
 - 🎧 **Track 2.1** — Dennis xin Wenjing Zue tư vấn chuyến đi Trung Quốc: anh hỏi gì, định tới những đâu, nói tiếng Trung tới đâu; rồi năm câu True/False.
+  <details><summary>📝 Script</summary>
+
+  D = Dennis, WZ = Wenjing Zue
+
+  **D** Hello, I'm thinking of spending about six to eight weeks in China, so I was wondering if you could tell me something about what kind of transport is best for me to use for travelling round the country?
+
+  **WZ** Yes, but can you tell me where exactly you're planning to go?
+
+  **D** Well, certainly Beijing and probably Xian, Guizhou and Fujian and Shenzhen too, if possible.
+
+  **WZ** OK, well if you want to get from one end of the country to another quickly, then you have to fly. There are a lot of regional airports — about 150 — so you have a very big choice. It's cheaper to buy your tickets inside China rather than before you go but you can also book tickets online in advance. In my experience, elong or ctrip are very reliable.
+
+  **D** What about rail travel?
+
+  **WZ** There's a really good network and the trains are usually fast, punctual and safe. But you should try and reserve a ticket well in advance because the trains are crowded. Do you speak Chinese at all?
+
+  **D** Not very much, I'm afraid.
+
+  **WZ** So it's best if you ask the hotel to make the booking for you because reading a timetable in Chinese is going to be difficult for you, and trying to find English-speaking staff on the platform is almost impossible, even in big cities.
+
+  </details>
 - 🎧 **Track 2.2** — Phần hai cuộc trò chuyện: bốn hạng vé tàu Trung Quốc (Soft Sleeper, Hard Sleeper, Hard Seat, Soft Seat) — điền chi tiết từng hạng và nghe xem Wenjing nói gì về xe khách.
+  <details><summary>📝 Script</summary>
+
+  D = Dennis, WZ = Wenjing Zue
+
+  **D** Can you tell me about different classes of seats, first class, second class...?
+
+  **WZ** Well Soft Sleeper class is the most comfortable and the most expensive — it costs about the same as a plane ticket. There are four berths in each compartment and there's a table with a tablecloth, and they usually provide hot water for making tea. The compartment door has a lock and there's a smartly-dressed attendant to look after each car. You share with other passengers but this is a good way to meet people.
+
+  **D** Yes, that's something I want to do.
+
+  **WZ** Then there's the Hard Sleeper class for journeys of more than six hours. Hard Sleeper berths are reasonably comfortable and bedding is supplied. Newer trains have power sockets for laptops and mobiles. I think they are very economical if you travel overnight because you save the cost of a night in a hotel.
+
+  **D** Yes, it sounds like a good idea.
+
+  **WZ** The cheapest is the Hard Seat class which has three people sitting side by side. They're fine for short journeys — short distance daytime trains only have Hard class seats. But it's an uncomfortable way to travel for longer journeys. Soft Seat class is more expensive. It's about the same price as Hard Sleeper but I would recommend it for any journey over two hours.
+
+  **D** OK, I'll remember that. What about buses?
+
+  **WZ** Well, there are still places and sights in China that you can only get to by bus. For example, you can only get to many parts of Guizhou and Guangxi by bus. There's a railway network in Fujian but the connections aren't very direct, so it's best to go by bus.
+
+  **D** OK, thanks, you've been very helpful.
+
+  **WZ** Thank you. Have a good trip!
+
+  </details>
 - 🎧 **Track 2.3** — Tám thông báo hành trình: nghe kiểm tra đáp án rồi luyện đọc theo cho đúng ngữ điệu.
+  <details><summary>📝 Script</summary>
+
+  1 Please mind the gap between the train and the platform when leaving the train.
+
+  2 We expect heavy traffic congestion and long delays on the northbound carriageway after a coach collided with a lorry at junction 14.
+
+  3 Will all passengers requiring a landing card please speak to the purser before going ashore.
+
+  4 Lunch will be served in the dining car between twelve and two o'clock.
+
+  5 Will all passengers for flight BA5074 to Cairo please make their way to the departure lounge where your aircraft is waiting to depart from gate number 56.
+
+  6 The captain invites all first-class passengers to join him for cocktails on the upper deck.
+
+  7 Turn left and drive straight on for 500 metres. At the first roundabout, take the third exit. Drive on for three kilometres.
+
+  8 Passengers arriving from Brussels please proceed to the baggage claim where your luggage will arrive shortly.
+
+  </details>
 - 🎧 **Track 2.4** — Emma kể sếp nghe chuyến đi Praha: điền phrasal verb đúng dạng vào hội thoại.
+  <details><summary>📝 Script</summary>
+
+  E = Emma, EB = Emma's Boss
+
+  **E** We set off really early for the airport — at about 5.30 in the morning — so I would have plenty of time. But, of course, there were long delays on the motorway. A lorry had broken down and blocked an exit, so we were held up for more than an hour. Anyway, we got there in the end. My husband dropped me off outside the terminal just after eight but by that time my flight had already taken off.
+
+  **EB** Oh no! So what happened?
+
+  **E** Well, I went to find out what time the next flight for Prague was departing. The helpdesk people were very helpful but I had to hang about for ages while they tried to get me on another flight. I tried to phone the Prague office but the line was bad and I couldn't get through. Anyway, I managed to get on another flight to Prague a bit later that morning. Of course, there was no one to pick me up when I arrived at the airport. But I got a taxi to the city centre and finally turned up for the first part of the visit at lunchtime!
+
+  **EB** So, after all those problems, was the trip a success in your opinion?
+
+  **E** Oh, very much so. They put me up in a really good hotel and I got on really well with the people I met. I've filled in the site visit checklist you gave me and it's all very positive.
+
+  </details>
 - 🎧 **Track 2.5** — Phỏng vấn Erik Sorensen, Customer Services Manager của NorskaAir, về một tình huống khó: nguyên nhân là gì, anh xử lý có thành công không, và bốn câu chọn đáp án.
+  <details><summary>📝 Script</summary>
+
+  E = Erik, I = Interviewer
+
+  **E** One of the first things I had to do when I'd just started the job was deal with problems that were caused by the volcano which erupted in Iceland. The cloud of ash from the volcano made flying impossible. There were people from all over Europe who couldn't get home because there were no flights for them. We also had people we had to contact and tell them they couldn't go on holiday.
+
+  **I** So what did you do?
+
+  **E** I divided the staff into three teams. One team organized hotel accommodation for our customers. That wasn't easy because there weren't enough hotels for everybody and we didn't know how long airports would remain closed. The second team contacted all the customers who had booked flights that week and offered them refunds or an alternative holiday. But that wasn't easy either as we didn't have much spare capacity. And a third team was responsible for hiring coaches to transport people to places where there were other means of transport to get them home.
+
+  **I** And do you think the operation was a success?
+
+  **E** Well, of course we lost a lot of money. But on the positive side, our customers saw that we were doing our best to meet their needs in difficult circumstances. I think that these passengers are going to trust us in the future because they know that if anything goes wrong, we'll look after them.
+
+  **I** What do you think you learnt from the experience?
+
+  **E** In terms of professional skills, the most important skill was how to deal with the public in a very stressful situation. For example, if a customer is angry and upset, it's important to let them tell you how they feel. Don't interrupt while they are speaking but stay patient and wait until they've finished. If you can stay calm, this is going to help the whole situation, so don't get angry or lose your temper. And of course don't ever start to argue with the customer and/or blame your colleagues or anyone else about the situation. It doesn't help to make excuses — it's better to focus on what you're going to do to change things. I've also learnt that the way you listen is important too. You should make sure you stop what you are doing and look at the person. Ask questions to ensure that you understand what the problem is from their point of view, and show empathy by telling them that you understand how they feel. Then, if possible, reassure the customer by promising that you will do something to improve the situation.
+
+  </details>
 - 🎧 **Track 2.6** — Bốn sự cố gần đây ở CheapSky: mỗi sự cố xảy ra ở đâu, vấn đề là gì, và lẽ ra phòng tránh thế nào.
+  <details><summary>📝 Script</summary>
+
+  **1** CS = Customer Service employee, M = Man
+
+  **CS** Good morning, sir. Where are you travelling to today, please?
+
+  **M** Stockholm.
+
+  **CS** OK, could I see your passport, please? Thank you. Do you have any cabin baggage?
+
+  **M** Just my laptop.
+
+  **CS** OK... that's 26 kilos. I'm afraid you're six kilos overweight, sir, so you're liable to excess baggage charges.
+
+  **M** Oh... How much will that be?
+
+  **CS** It's ten euros per additional kilo, so that will be 60 euro. If you take this form here to my colleague at the information desk, you can pay there.
+
+  **M** What do you mean 60 euro? That's outrageous! It's more than I paid for my ticket. I thought I might be a bit over but I had no idea you'd charge so much. You can't do this to people...
+
+  **CS** I'm afraid it's not my decision, sir. Our policies related to cabin baggage and excess baggage charges are printed clearly on your ticket and also on our website.
+
+  **M** I'm sorry, I think you're just taking advantage. Nobody could possibly expect...
+
+  **2** CS = Customer Service employee, W = Woman
+
+  **CS** Any passengers for Milan? That's any passengers for Milan... Could you come this way, to the front of the queue?... This way, please...
+
+  **W** ... Excuse me... EXCUSE ME?
+
+  **CS** Yes, madam. Can I help you?
+
+  **W** Could you please tell me where to go for the Seville flight? We've been trying to queue in this chaos for over an hour now. Our flight leaves at 10.30 and we're going to miss it if we can't check in.
+
+  **CS** OK... Seville, yes,... OK, if you'd like to follow me.
+
+  **W** I don't understand why you've only got four desks open. Look at all these people, it's ridiculous...
+
+  **3** CS = Customer Service employee, M = Man
+
+  **CS** Yes, sir. Can I help you?
+
+  **M** I've just come off the CheapSky flight from Prague and collected my luggage, and I want to make a serious complaint. My GPS has been stolen from my bag!
+
+  **CS** I'm sorry to hear that, sir, but we do advise against putting valuables in your cabin luggage. We do clearly state that we can't be held liable for any loss or damage to property carried in this way.
+
+  **M** Are you serious?
+
+  **CS** Yes, when you booked your ticket, if you had to read our terms and conditions charter and ticked a box, you would have seen this.
+
+  **M** But nobody reads that small print! I can't believe that CheapSky is trying to get out of their responsibilities like this, I... want to see the manager...
+
+  **4** S = Sharon, Si = Siobahn
+
+  **S** Hello, Sharon speaking.
+
+  **Si** Hi Sharon, it's Siobahn here. Listen, I'm at departure gate 32 and we've got a problem. Could you come down?
+
+  **S** Oh, that's the 10.25 to Oporto, right? I thought you'd have taken off by now. What's the problem?
+
+  **Si** We've had a major incident with a customer. She got really angry when Kevin wouldn't let her take two pieces of cabin baggage onto the plane. We told her she had to go back and check in her handbag or her laptop. Her husband got abusive and we had to call security.
+
+  **S** Not another one! OK, I'm on my way.
+
+  </details>
 
 ## Unit 3 — Accommodation
 
@@ -689,10 +948,219 @@ air conditioning · airport shuttle · baby-sitting service · currency exchange
 ### Luyện nghe
 
 - 🎧 **Track 3.1** — Ba nhóm khách nói điều gì quan trọng với họ khi đặt phòng (nữ doanh nhân Jin Wei, một travel manager, gia đình Waleed): đánh số ảnh theo thứ tự nói và điền chi tiết từng nhu cầu.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Track này rơi vào khoảng OCR bị mất khi quét sách (script gốc không thu được — xem ghi chú đầu tài liệu). Tra Audio Script bản in giấy, tr. 118–128.
+
+  </details>
 - 🎧 **Track 3.2** — Phỏng vấn về xếp hạng khách sạn ở Tây Ban Nha: phần lớn châu Âu dùng hệ nào, Tây Ban Nha khác ra sao; rồi sáu câu True/False.
+  <details><summary>📝 Script</summary>
+
+  I = Interviewer, J = Janice
+
+  **I** First of all, can you tell us something in general about how hotels are graded and what the number of stars actually means?
+
+  **J** Well, perhaps the first thing I should say is that the number of stars in one country doesn't necessarily mean the same as in another. But in Europe, there's a European Hospitality Quality Scheme called the Hotel Stars Union and the star system is the same for all the countries that belong to it. Basically, there's a list of criteria relating to 270 possible features and services a hotel can offer. For example, the minimum criteria for a one-star rating include daily room cleaning, a table and chair in each room (as well as the bed of course!), and either soap or body wash in the bathroom. However, for a four-star rating, a hotel must be able to offer things like a restaurant with an a la carte menu service and a soft chair or sofa with a side table in each room.
+
+  **I** OK, that's good to know but what about Spain? Can visitors expect star ratings in Spain to be the same as in the rest of Europe?
+
+  **J** Well, actually the short answer to that is no. In Spain, the stars can only be awarded by the regional tourist authorities. There are 17 different regional tourist authorities and each one gives an official rating according to its own set of criteria.
+
+  **I** That sounds pretty confusing.
+
+  **J** Well, yes it is. And to make it worse, most people book hotels online or through tour company brochures, which often use their own criteria and sets of symbols, for example suns, crowns, keys, moons or diamond symbols to rate hotels.
+
+  **I** So, do the stars mean anything at all?
+
+  **J** Well, the stars reflect the number and range of facilities offered, for example is there a lift? Does the hotel have a gymnasium? So that's something concrete you can rely on. And of course a four-star hotel will also cost more than a three- or a two-star hotel in the same city: by law, Spanish hotels must display their prices behind reception and in every room. However, visitors must remember that VAT is extra.
+
+  **I** Right. And are the prices more or less the same across the regions?
+
+  **J** Well, prices vary according to region and season. A room will always cost more in high season and city hotels charge more during fiestas, carnivals or when there's a major conference.
+
+  </details>
 - 🎧 **Track 3.3** — Năm hội thoại phàn nàn: ghép mỗi hội thoại với một loại khiếu nại, nghe lại để chép giải pháp khách sạn đưa ra và tự đánh giá cách nào ổn, cách nào không.
+  <details><summary>📝 Script</summary>
+
+  **1** C = Customer, R = Receptionist
+
+  **C** Hello, can you send someone to look at the air conditioning in my room — it's too noisy and it doesn't seem to be working properly because the room is hot. And I can't close the window either and there are insects getting into the room.
+
+  **R** I'm sorry, sir. I'll speak to maintenance.
+
+  **C** OK, thank you.
+
+  *[Later]*
+
+  **C** Hello, I phoned a couple of hours ago to say that the air conditioning is not working. The person I spoke to said someone would look at it but nothing has happened.
+
+  **R** Which room?
+
+  **C** 238.
+
+  **R** I will speak to maintenance.
+
+  **C** And another thing. The Wi-Fi isn't working and I need to be connected — I've got work to do.
+
+  **R** OK, I will speak to the person in charge.
+
+  *[Later]*
+
+  **C** I want a refund, I'm not paying the full rate — I complained several times about the air conditioning and the internet connection that didn't work, and I was just ignored.
+
+  **2** C = Customer, R = Receptionist
+
+  **C** I don't understand this bill. It's too much.
+
+  **R** You got a problem?
+
+  **C** When I made the reservation, I was told the room rate was seventy-nine dollars and ninety cents.
+
+  **R** Yeah, plus taxes.
+
+  **C** OK, but what's this — you've added another 15 dollars.
+
+  **R** Yeah, that's kind of for the extra person in the room.
+
+  **C** The extra person in the room!! I was never told there was a charge for that!
+
+  **R** That's the rate, man.
+
+  **C** Where's it say that? There's nothing about that on the check-in card and I can't see anything here in the reception area about charging for the number of people in a room.
+
+  **R** Yeah, but I can't do anything about it, can I? I ain't the manager.
+
+  **C** Can I speak to the manager?
+
+  **R** Nope, he ain't here.
+
+  **C** When will he be back?
+
+  **R** I dunno. I can give you his mobile phone number if you like.
+
+  **3** C = Customer, R = Receptionist
+
+  **C** Hello, we've booked a room in the name of Robertson, Mr and Mrs Robertson.
+
+  **R** But the hotel's full. It's half past eleven, we don't have any more rooms for tonight.
+
+  **C** What? We made this booking two weeks ago! And I have a credit card confirmation for late arrival. You can't say you don't have a room!
+
+  **R** ... I don't have any record of that.
+
+  **C** Maybe, but I do, so what are you going to do about it? We just travelled 150 miles to be here.
+
+  **R** Um, perhaps I could try and get you into another of our hotels. Do you want me to do that?
+
+  **C** Do you have any other solution?
+
+  **R** No.
+
+  **4** C = Customer, R = Receptionist
+
+  **C** Is that reception?
+
+  **R** Yes, how can I help you?
+
+  **C** My name's Anne Robertson. I just checked in with you downstairs. You told me the room was ready but the beds haven't been made, the room is filthy and it smells of cigarettes. I definitely asked for a non-smoking room and it's half past three — I don't understand why the room hasn't been cleaned.
+
+  **R** Oh, I'm so sorry, Mrs Robertson. I do apologize for the inconvenience. Please come down and I'll make sure you get a room that's ready. I'll put you in a better room with a view over the lake.
+
+  **C** OK, thank you very much. I'll come down now.... Oh my goodness, there's a lizard in the room!
+
+  **5** C = Customer, M = Manager
+
+  **C** Excuse me, are you the manager?
+
+  **M** Yes, madam, what can I do for you?
+
+  **C** I'd just like to tell you that I find the attitude of the people you employ here completely unacceptable. This afternoon when I came back, the room hadn't been cleaned. I phoned housekeeping but I don't think they understand English, they just say yes. Finally, I managed to make them understand what I wanted and someone brought up some clean linen, but the girl wouldn't stay to clean the room and I had to make the bed myself. She said it was the job of housekeeping, not hers.
+
+  **M** I'm very sorry, madam. I'll have a word with the staff. I assure you it won't happen again. Thank you for bringing the matter to my attention.
+
+  </details>
 - 🎧 **Track 3.4** — Bộ mẫu câu xin lỗi / giải thích / hành động: điền từ còn thiếu, nghe kiểm tra rồi luyện nói sao cho lịch sự mà vẫn dứt khoát.
+  <details><summary>📝 Script</summary>
+
+  *Apologizing*
+
+  1 I'm sorry about that.
+
+  2 I do apologize for the inconvenience.
+
+  3 I hear what you're saying and I know how you feel.
+
+  *Explaining*
+
+  4 I'm afraid there's been a misunderstanding.
+
+  5 What seems to have happened is that...
+
+  6 At the moment we're having a problem with...
+
+  *Acting*
+
+  7 I'll look into it right away.
+
+  8 I'll get back to you when it's been sorted out.
+
+  9 I'll do everything I possibly can.
+
+  </details>
 - 🎧 **Track 3.5** — Cuộc họp ban quản lý ở Caxton: họ quyết định làm gì cho từng mục trong agenda.
+  <details><summary>📝 Script</summary>
+
+  A, B, C, D = các thành viên ban quản lý Sylvan Park
+
+  **A** Let's get this meeting started, shall we? The first item is about this Mrs whatshername.
+
+  **B** Katarina Chalupova.
+
+  **A** Yeah, well, this is pretty serious. What I want to know is, why didn't anyone notice that this piece of furniture was potentially dangerous?
+
+  **B** It's very difficult to get good cleaning staff. They don't care, they just come in and out, a lot of them turn up late...
+
+  **C** Some of them can't speak English.
+
+  **B** And they don't care.
+
+  **A** Why not?
+
+  **B** Why should they, their wages are really low and they have no reason to care really.
+
+  **A** Well, this is going to cost us. Have you read the letter from the solicitors?
+
+  **D** It looks bad but we can also claim that she was at fault. She admits that she spent a lot of time in the swimming pool — but if her finger was infected, she should have kept the finger protected and clean and not gone swimming.
+
+  **C** She says it was the water in the swimming pool that caused the infection.
+
+  **A** It can't have done — the water has chlorine in it, it's disinfected.
+
+  **B** Yes, but other people say that there are kids who haven't been toilet trained in the pool.
+
+  **A** OK, we need to tell the swimming pool attendant to make sure that kids with nappies are not allowed in the pool area.
+
+  **D** So what about her claim for compensation?
+
+  **A** I suggest we write to the solicitors and play for time — wait until we know how serious it is. Maybe offer some compensation but don't admit responsibility. Nothing proves that there was really something wrong with the bedside table. In any case, she may have a personal accident insurance policy or have signed up for our own when she booked.
+
+  **D** Yeah, good point. Let's move onto the maintenance issue.
+
+  **B** It's true that some of the villas need repainting. I think we should budget for that over the next six months and choose the properties that really do need some repairs.
+
+  **A** OK. I'll look after that.
+
+  **C** And I'll have a word with Molly O'Connor and make sure she tells the staff that in future we'll be doing checks to make sure that the rooms are properly cleaned and that the bed linen is changed every day. It's unacceptable.
+
+  **A** Good. Now what about the Park Market?
+
+  **B** Well, that's very clear. It clearly states in our terms and conditions that food and beverages are provided by third parties. So any issues concerning food in the stores should be directed to the provider.
+
+  **A** Right, so we can say we are not responsible and Mrs Hawkins should contact the Park Market directly. Is anyone taking minutes for this meeting?
+
+  **D** I'll draw up a list of action points and circulate it to all of you.
+
+  </details>
 
 ## Unit 4 — Destinations
 
@@ -771,8 +1239,73 @@ Thêm: blizzard (bão tuyết) · black ice (băng trong suốt trên đường)
 ### Luyện nghe
 
 - 🎧 **Track 4.1** — Hai bản tin thời tiết. Bản 1: đang là mùa nào, sáng và chiều thời tiết ra sao. Bản 2: bản tin phủ khu vực nào, dự báo cho vùng Địa Trung Hải, nơi nào có mưa rào rải rác và gió mát. Nghe thêm lần nữa để nhặt từ đồng nghĩa: *overcast*; *chilly* và *cool*; *sunny spells*.
+  <details><summary>📝 Script</summary>
+
+  **1** Hi, this is Curtis Jackson with the weather forecast at 6 a.m. for today Monday the third of April until midnight. Most of the country will start the morning overcast with some mainly light rain or drizzle, although over northern areas some heavier scattered showers are expected during the afternoon. During the afternoon, brighter, drier weather should gradually extend eastwards with sunny intervals and it'll be another mild day with temperatures in the mid-50s, generally a little higher than yesterday's but a little under the seasonal average.
+
+  **2** Hello there, it's Monday, the last day of the year and today it's likely to be a rather chilly day for many. There'll be some scattered showers and a cool breeze for Sicily and southern Italy, but most parts of the Mediterranean will be dry and we'll see sunny spells for the French Riviera, Spain and Portugal once the early morning mist and fog has cleared. There are a few showers spreading down into northern parts of Africa, particularly Tunisia and Libya. Cairo should be dry with temperatures of 18 or 19 and lots of warm weather and summer sunshine in Nairobi, Dar es Salaam and Cape Town.
+
+  </details>
 - 🎧 **Track 4.2** — Patricia (BettaVacations) gọi cho Barbara Klein đề xuất một kỳ nghỉ: ghi lại điểm đến, chỗ ở, hoạt động, cách đi, thời điểm nên đi, thời tiết — và chỉ ra đâu là selling point cô ấy tìm được.
+  <details><summary>📝 Script</summary>
+
+  P = Patricia, B = Barbara
+
+  **P** Hi. Is that you, Barbara? This is Pat Walsh. We talked a couple of days ago about your upcoming vacation.
+
+  **B** Oh hi, Pat. How're you doing?
+
+  **P** I'm good. Hey, listen, I found you a great place to go! It's called Costa do Sauipe in northeast Brazil. It's this private resort with a fantastic beach area about one hour north of Salvador. There are five hotels with incredibly spacious bedrooms, a huge TV and I can tell you, it's real luxurious.
+
+  **B** Sounds great. What kind of activities are there? Do they organize things for us to do? Hank and I just don't want the kids to get bored — you know what teenagers are like.
+
+  **P** You don't need to worry about that — there'll be plenty for your boys to do, like volleyball and windsurfing on the beach which is right next to your hotel. Tennis, aqua gym, horse-riding — they have their own equestrian centre — and, you know, for eating out there's a really wide choice — fifteen restaurants, French, Italian, Japanese and Brazilian food.
+
+  **B** OK, so how would I get there?
+
+  **P** Well, there's an air-conditioned bus that picks you up from the airport in Salvador and drives you straight to the resort, which is about 50 miles away.
+
+  **B** That sounds convenient. And when do you reckon is the best time to go?
+
+  **P** Well, if you go in summer (that's December through February), they have something that's really special. I know you're interested in nature and wildlife and they have this turtle preservation scheme. Once or twice a week, the resort people collect the turtle eggs and they save all the turtles that are born on that day. And this naturalist guy comes and gives talks about turtles and their habitat, and so on, and about other marine life as well. I know someone who went there with her kids and they absolutely loved it.
+
+  **B** Well, that sells it for me. Judd is mad about marine life. You said December through February? So that's their summer, right?
+
+  **P** Yeah, you're guaranteed good weather. Costa do Sauipe is in a tropical region and the sun shines practically all year round and you're guaranteed temperatures between about 75 and 90 degrees.
+
+  **B** OK, that's plenty hot enough.
+
+  **P** Look, Barbara, why don't you visit their website to see what it looks like and then when you've done that, I suggest you get back to me and we'll take it from there.
+
+  **B** OK, Pat, that sounds really good. I'll do that now and call you up maybe tomorrow.
+
+  **P** OK, great speaking with you.
+
+  </details>
 - 🎧 **Track 4.3** — Phỏng vấn Jon Jackson, giám đốc cơ quan xúc tiến du lịch Eldorado: đất nước thay đổi thế nào, khách đến từ đâu, chương trình truyền hình *Lost and Found* tác động ra sao, hai chuỗi khách sạn Tây Ban Nha định làm gì, *tax exemption* là gì và ưu đãi tới đâu. Nghe lại để ghép tám con số với ý nghĩa của chúng.
+  <details><summary>📝 Script</summary>
+
+  I = Interviewer, JJ = Jon Jackson
+
+  **I** So is Eldorado a safe place for tourists?
+
+  **JJ** There was a time when our country was dangerous but the civil war was over five years ago and it's very different now. In fact, because of our low crime rate, our country is now considered entirely safe. Last year, over 60,000 visitors came here from the USA and tourism is growing really fast. We've already generated 99 million US dollars in revenue from tourism in the first four months of this year.
+
+  **I** How many visitors do you expect this year?
+
+  **JJ** More than one million, mainly from the USA. But there are more and more visitors from other parts of the world. Tourism investment is up by 11.8 percent this year and we expect our tourism receipts to rise by more than 16 percent.
+
+  **I** The TV reality programme *Lost and Found*, which has a big audience in the United States, was filmed here recently. Has this had any effect on tourism?
+
+  **JJ** It was a really great public relations exercise. The programme will be on for 14 weeks every Wednesday night during TV prime time and will be watched by 13 million American households. That's a massive audience who have probably never considered our country as a tourism destination. But most important is the positive image of the country that the programme portrays.
+
+  **I** What plans do you have to develop tourism in Eldorado?
+
+  **JJ** Well, we want to increase the amount of hotel accommodation available. At the moment, we have 7,800 hotel rooms, which isn't enough. Our neighbouring countries offer around 38,000. We're working with two Spanish hotel chains, SunSoul Hotels and Ambrosi Resorts to improve what we have to offer. Our government is offering tax exemptions of almost 100 percent during the first ten years for foreign companies that set up here. If within the next ten years they decide to reinvest 35 percent of the initial amount, the exemption can be extended.
+
+  **I** OK, so that's bound to attract investors. Thank you very much for talking to me.
+
+  </details>
 
 ## Unit 5 — Things to do
 
@@ -865,9 +1398,87 @@ Nhớ luyện đọc năm tháng và kích thước khi thuyết minh tranh: *16
 ### Luyện nghe
 
 - 🎧 **Track 5.1** — Beatriz Guido (Secretariat of Tourism, Argentina) giới thiệu các vùng cho đại lý châu Âu: ghi chú địa lý của Pampas, Mesopotamia, Central Region, Cuyo và Patagonia; nghe lại để liệt kê hoạt động của từng vùng.
+  <details><summary>📝 Script</summary>
+
+  I've divided my presentation into five main sections which correspond to the main areas of the country. Argentina has an enormous variety of landscapes and there really is something for everyone. So, unless anyone has any questions, I'll begin.
+
+  So, we'll start off in the great plains of the Pampas region. Visitors can stay at the ranches, which are now open as hotels or parks, where they can go horse-riding, bird-watching or hang gliding. If you have customers who enjoy fiestas and carnivals, I'd really recommend the annual carnival in the city of Gualeguaychu. Everybody's heard of Rio carnival in Brazil but this one is less touristy and a truly authentic experience. For beach lovers, there are many beach resorts on the eastern coast here, such as Pinamar and Mar del Plata, which offer activities like quad-biking and surfing.
+
+  The northeast region of the country is the Argentinean Mesopotamia. On the border with Brazil, there are the magnificent Iguazu Falls. These waterfalls are just as spectacular as Niagara Falls in Canada or Victoria Falls in South Africa, and if you're looking for excitement, you should take a boat trip to the edge of the falls. The rainforests in Iguazu National Park are a Unesco World Heritage Site, which visitors can explore by eco-train. The Mesopotamia region is also great for weekend breaks angling on the banks of the Rio Parana.
+
+  I'd like now to turn to the Central region and the Andes mountains. In Córdoba you can see great examples of colonial architecture. If you'd like to explore the mountains, you should take a trip on the train to the clouds — El Tren de las Nubes. The train departs from Salta and takes you on a 450-kilometre round trip literally into the clouds — the last viaduct is over 4,000 metres above sea level.
+
+  Next is Cuyo in the west-central region. Mendoza is the regional capital and is an excellent base to explore the many vineyards in the area. You can also go climbing and skiing in the Andes from here, for example at the Las Leñas ski resort.
+
+  But perhaps the most exciting region is Patagonia in the south. Here visitors can enjoy a wide range of outdoor activities, horse-riding, trekking, rafting and wildlife-watching. From the Puerto Piramides, here on the east coast, you can go whale-watching and the Tierra del Fuego — literally the land of fire — is your gateway to the Antarctic, where you can take a cruise around the icebergs. Well, I think I'll stop there for the moment and if you have any questions, please don't hesitate to ask me.
+
+  </details>
 - 🎧 **Track 5.2** — Hướng dẫn viên thuyết minh bức *Ophelia* của Millais: sáu câu True/False, sửa lại những câu sai.
+  <details><summary>📝 Script</summary>
+
+  If we could just stop here, please. Can everybody at the back see the painting? Can everybody hear me? Yes,... good. Well, this painting of Ophelia by John Everett Millais is one of the most famous works associated with the Pre-Raphaelite movement in England during the 19th century. The Pre-Raphaelites disagreed with the way art was taught and in particular the way the Italian Renaissance painter Raphael was considered to be the master they should all try to copy. They wanted to go back to a style of painting which was typical of the Early Renaissance Italian and northern European art of the 15th century. They wanted more detail in their painting and to use lots of intense colours. They also used themes taken from poetry and the theatre, and here we have a representation of Ophelia in Shakespeare's *Hamlet*.
+
+  As you may know, Ophelia becomes mad with grief after Hamlet murders her father and she accidentally drowns when she falls into a stream. Millais painted Ophelia in two separate stages: he first painted the landscape, sitting outside on the banks of a river for up to eleven hours a day, six days a week, over a five-month period in 1851. When he'd finished the background, he painted the figure of Ophelia using a 19-year-old model called Elizabeth Siddell. He particularly wanted to see the effect of her hair and dress floating in water, so he asked her to lie in a bathtub of water. But when she caught an extremely bad cold, her father sent Millais a letter demanding £50 for medical expenses. The flowers floating on the water correspond to...
+
+  </details>
 - 🎧 **Track 5.3** — Nghe và ghi năm sáng tác cùng kích thước của sáu bức tranh, rồi luyện đọc các mốc thời gian.
+  <details><summary>📝 Script</summary>
+
+  1 Oil on canvas painting 1300 x 900 millimetres, presented by the artist in 1900.
+
+  2 Tempera on wood painting from circa 1420.
+
+  3 Oil on wood painting 765 x 940 millimetres — painted by Nathaniel Horne in 1775.
+
+  4 Late 14th-century French Gothic panel painting.
+
+  5 This marble statue probably dates from around 1500.
+
+  6 Oil on canvas painting 980 x 853 millimetres — a portrait of the Betts Family circa 1746.
+
+  </details>
 - 🎧 **Track 5.4** — Hội thoại về giá vé vào cửa (Versailles, Mont Saint Michel, Caen Memorial, Avignon, các lâu đài Loire, Beaune, Bordeaux, tháp Eiffel): điền bảng giá lẻ và giá đoàn, xem nơi nào đắt nhất và nơi nào đáng tiền nhất.
+  <details><summary>📝 Script</summary>
+
+  BM = Bethany Martinez, AF = Alain Fournier
+
+  **BM** Hi, can I speak to Alain Fournier, please?
+
+  **AF** Hello, this is Alain Fournier speaking.
+
+  **BM** Hi, it's Bethany Martinez. I sent you an email yesterday about a group we have who would like to do a tour of France next fall — I was wondering if you've had the chance to give us a costing.
+
+  **AF** Yes, well, I've been looking into the entrance fees and prices of some of the places that the group could possibly visit and I've been drawing up a table to see how the prices compare.
+
+  **BM** OK, sounds good.
+
+  **AF** We haven't yet worked out an itinerary — there are several possible alternatives. I think that most people who come to France want to go to Versailles and I've got a price there of 25 dollars with an audio commentary so there's no language problem. I guess they don't speak French.
+
+  **BM** No, probably not.
+
+  **AF** I can get a museum pass for the Loire Valley chateaux for 65 dollars, that includes entrance fees to ten chateaux but I doubt if they'd want to visit them all.
+
+  **BM** No, but that sounds pretty good value.
+
+  **AF** And then there's the Mont Saint Michel, which is incredibly popular, a bit crowded in the summer with about 2.5 million visitors every year but I've negotiated a group ticket for nine-ninety a head. I'm quoting in dollars obviously. I've also got a good deal from the Popes' Palace in Avignon, at 125 dollars whatever the size of the group and an English-speaking guide thrown in.
+
+  **BM** These prices are firm and definite, are they?
+
+  **AF** They're what we pay. Obviously, we'll be giving you an itinerary and a global price that takes all these charges into account. And we don't have to charge anything for accommodation as all the hotels we use belong to the group, so accommodation is factored into the price.
+
+  **BM** Good, that should keep the price down for us. What other places would be possible?
+
+  **AF** Well, as they're interested in gastronomy, I think a tour of vineyards in Burgundy and the medieval hospital in Beaune would be worthwhile. And I've been on the phone to a vineyard owner in Bordeaux who can do me a tour and gastronomic dinner for just 110 dollars a head. But there are other places as well that should interest the group, for example the Normandy beaches and the War Museum in Caen, which is actually free, so we'll probably suggest that. Anyway, what I'll do is get my team working on a detailed itinerary and give you a price per person for the tour.
+
+  **BM** OK, do you think you could do that for today?
+
+  **AF** Um, we'll do our best, I'll get back to you as soon as possible.
+
+  **BM** OK, thank you, have a good day.
+
+  **AF** Yeah, same to you. Bye.
+
+  </details>
 
 ## Review and Consolidation 1
 
@@ -1202,10 +1813,79 @@ Khi hai động từ đi liền nhau, động từ thứ hai ở dạng *-ing* h
 ### Luyện nghe
 
 - 🎧 **Track 6.1** — Bài nói về cơ hội trong du lịch ngách: niche khác mass ở chỗ nào, và năm loại hình ngách diễn giả nhắc tới.
+  <details><summary>📝 Script</summary>
+
+  The idea of niche tourism has become more and more popular, partly as a reaction to mass tourism. We're all familiar with mass tourism products such as cheap package tours, huge tourist resorts, international hotel chains and built attractions like Disneyland. They have been very successful in creating economies of scale through the sale of standardized leisure packages to a mass clientele. Niche tourism takes the opposite approach.
+
+  It says 'small is beautiful' and caters for small groups of people — perhaps no more than a dozen — who have a shared special interest, for example photography, steam engines, bird-watching or gastronomy. And it's precisely because niche tourism is, by its very nature, small-scale, that it offers such a good opportunity for people who want to set up small independent businesses. A lot of small firms have been able to exploit areas of business that the major tour operators aren't able to. Only the small business model can offer one-to-one service and high levels of product knowledge. If you look at the list of Independent Tour Operators in Britain, you can see the range of niche products on offer, for example religious tourism such as pilgrimages and visits to sacred sites, travel to music festivals, visits to battlefields, medical tourism, where people travel abroad for health reasons, and the very big niche market in courses aimed at people who want to learn a foreign language. Another interesting aspect of niche tourism is that it tends to attract high spenders, or at least people who see themselves as different from your ordinary tourist. This means that instead of the low margins in the competitive mass tourism business, niche tourism has the potential for quite high profit margins.
+
+  </details>
 - 🎧 **Track 6.2** — Luyện đọc số: US$252 · €3.5m · ¥72,525 · ¼ · ⅗ · 12.5% · 1½m · 6.25bn. Nói trước với bạn học rồi nghe kiểm tra.
+  <details><summary>📝 Script</summary>
+
+  1 Two hundred and fifty-two US dollars.
+
+  2 Three point five million euros.
+
+  3 Seventy-two thousand, five hundred and twenty-five yen.
+
+  4 A quarter.
+
+  5 Two-thirds.
+
+  6 Twelve point five percent.
+
+  7 One and a half million.
+
+  8 Six point two five billion.
+
+  </details>
 - 🎧 **Track 6.3** — Bài nói về medical tourism ở châu Á: ba lý do khiến lĩnh vực này tăng trưởng suốt thập kỷ qua; nghe lại để điền bảng số liệu (quy mô thị trường toàn cầu, chi phí mổ bắc cầu ở Thái Lan so với Mỹ, tỉ lệ khách trên 55 tuổi, quy mô thị trường châu Á, thị phần Mỹ mà Singapore muốn giành).
+  <details><summary>📝 Script</summary>
+
+  I = Interviewer, DrC = Dr Chaya
+
+  **I** So Dr Chaya, the global market for health tourism is worth about 100 billion US dollars and it's growing all the time. Do we know anything about the reasons for this?
+
+  **DrC** Well it's fairly obvious that one of the main reasons for medical tourism is cost. For example, here in Thailand, heart bypass surgery costs one-tenth of what you would have to pay in the USA. Another major motivation is time — there are huge waiting lists in Canada and the UK for most operations and procedures, so if you want treatment quickly, you have to travel. But I think the main factor in the growth of this form of tourism in the Western World lies with the ageing population. The number of people in the 65 to 75 age range has increased dramatically in the last ten to fifteen years and they are the section of the population who need medical treatment the most. They're also the people looking for spiritual wellness. Around 40 percent of the people attracted by this kind of tourism are over the age of 55.
+
+  **I** And how big is the market for medical tourism here in Asia? How many medical tourists are there?
+
+  **DrC** The estimated market size is around 1.6 million, with the major providers being Thailand, Singapore, Malaysia, the Philippines and South Korea. Thailand alone hosts medical visitors from over 190 countries. Singapore is aiming for a 4.8 billion dollar share of the American market — that's about 8.5 percent of that particular market. Another attractive feature of this market is that medical tourists spend about two-and-a-half times more than the average traveller so they're an excellent source of revenue. The Royal Thai government has drawn up a five-year plan to double this revenue.
+
+  **I** And do you get domestic...
+
+  </details>
 - 🎧 **Track 6.4** — Bronwyn Jones gọi điện xin huỷ booking: Dikeledi thuyết phục bằng cách nào, bà Jones có phản ứng thái quá không, và bạn sẽ nói thêm ba điều gì?
+  <details><summary>📝 Script</summary>
+
+  BJ = Bronwyn Jones, R = Receptionist, DS = Dikelidi Sisulu
+
+  **BJ** Good morning, can I talk to Dikelidi Sisulu, please?
+
+  **R** Yes, who's speaking, please?
+
+  **BJ** My name is Bronwyn Jones. It's about a booking I made.
+
+  **R** Hold on, I'll put you through.
+
+  **BJ** Thank you.
+
+  **DS** Good morning, Mrs Jones, what can I do for you?
+
+  **BJ** Oh, hello. I recently made a booking for the Township Experience and I've just been reading about all the attacks in the townships and I really don't feel safe now about the whole thing, and so I've decided not to go. Could you please cancel the booking for me?
+
+  **DS** Um, you must be thinking about the honeymoon couple in the car that was hijacked, they weren't actually attacked, and...
+
+  ⚠️ Bản quét gốc dừng lại đúng ở đây (hết trang) — đoạn Dikeledi thuyết phục và kết thúc cuộc gọi tra ở bản in giấy.
+
+  </details>
 - 🎧 **Track 6.5** — Trao đổi về an toàn và an ninh ở Steenland: biện pháp nào cho đồ giá trị, cho tiền mặt, và cho việc ra ngoài buổi tối.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Track này nằm trong khoảng OCR bị mất khi quét sách (script gốc không thu được — xem ghi chú đầu tài liệu). Tra Audio Script bản in giấy, tr. 118–128.
+
+  </details>
 
 ## Unit 7 — Cultural tourism
 
@@ -1279,9 +1959,29 @@ So sánh trọng tâm câu: *Leonardo da Vinci painted the 'Mona Lisa'.* (câu n
 ### Luyện nghe
 
 - 🎧 **Track 7.1** — Thuộc bài 7.1–7.2 (tr. 60–63), phần bị mất khi quét. Mở sách giấy để làm bài rồi bấm nghe.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 7.2** — Cuộc họp chọn lễ hội cho package mới: điền bảng cho Eisteddfod, Edinburgh Festival và Belfast Festival — tổ chức khi nào, bao nhiêu khách, ưu điểm, nhược điểm.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 7.3** — Họp Tourism Board, phần 1: điền số liệu tác động của giải thưởng năm ngoái — số sự kiện, số nghệ sĩ, lượng khán giả hoà nhạc, lượt khách tới bảo tàng và phòng tranh, tỉ lệ tăng, số dân trong thành phố đã đi bảo tàng, mức trung bình toàn quốc.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 7.4** — Phần 2 cuộc họp: Kevin nói gì về lượng khách và công suất phòng khách sạn.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 
 ## Unit 8 — Running a hotel
 
@@ -1369,10 +2069,35 @@ tiring / tired · boring / bored · exasperating / exasperated · irritating / i
 ### Luyện nghe
 
 - 🎧 **Track 8.1** — Jim Reginato, quản lý International Pacific Hotel ở Los Angeles, kể về công việc: sắp tám hoạt động theo đúng thứ tự trong ngày; nghe lại để điền các sự cố buổi sáng và những dự án đang chạy.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 8.2** — Tina Chapman, inspector của chuỗi Miramar, nói về những gì cô kỳ vọng ở từng bộ phận: ghép sáu khu vực dịch vụ với sáu nhóm tiêu chí trong checklist.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 8.3** — Báo cáo của American Hotel Standards Inspectorate: điền các tỉ lệ về Wi-Fi, phí internet trong phòng, iPod docking station, đèn tiết kiệm điện và chuẩn LEED.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 8.4** — Bài thuyết trình về Kaizen: Kaizen là gì và dùng để làm gì, từ này nghĩa là gì, ngành nào của Nhật dùng đầu tiên; nghe lại để hoàn thành các slide của nửa sau bài nói.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 8.5** — Chuyên gia tư vấn phỏng vấn nhân viên Howatt Hotel (Louis Moulin, Munir Gadouche, Fatoumata Dembele, Mercedes Rodes): mỗi người nêu vấn đề gì và đề xuất gì.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 
 ## Unit 9 — Customer service
 
@@ -1470,10 +2195,35 @@ Gốc tích cực: welcoming · loyal · appropriate · reliable · competent ·
 ### Luyện nghe
 
 - 🎧 **Track 9.1** — Bốn người kể trải nghiệm dịch vụ: mỗi chuyện xảy ra ở đâu, tốt hay tệ; nghe lại để ghép các cụm về vấn đề và về cách xử lý với đúng người nói.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 9.2** — Mẹo thu thập phản hồi khách hàng: tick những kỹ thuật được nhắc tới; nghe lại để điền ba từ vào mỗi mẹo và xác định mẹo đó thuộc kỹ thuật nào.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 9.3** — Bốn hội thoại điện thoại mẫu: nghe kiểm tra đáp án rồi học thuộc bộ mẫu câu.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 9.4** — Nghe và ghi sáu số điện thoại; so sánh các cách đọc 0044 · 07734 · 066777750 · 078899.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 9.5** — Jack Carter, Customer Service Manager của Lilburne Manor, nhận điện thoại của một khách vừa tới thăm: điền comment card, rồi tự đánh giá khiếu nại có chính đáng không và anh ấy xử lý đã ổn chưa.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 
 ## Unit 10 — Business travel
 
@@ -1567,8 +2317,23 @@ Chủ đề an toàn với người mới quen: thời tiết, xu hướng ngàn
 ### Luyện nghe
 
 - 🎧 **Track 10.1** — Hai câu chuyện đi công tác. Người thứ nhất: vì sao tối đó cô không đeo nút tai, vì sao tới bữa sáng đã mệt lử, vì sao hôm sau được ngủ ở presidential suite. Người thứ hai: anh làm ở San Francisco bao lâu trước khi chuyển tới Memphis, vì sao lại mặc đồ cao bồi, và cuối cùng dự được gala trao giải bằng cách nào.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 10.2** — Bốn đoạn bắt chuyện ở hội chợ: điền các câu làm quen và câu giới thiệu còn thiếu.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 - 🎧 **Track 10.3** — Sáu câu mở đầu và kết thúc hội thoại bằng câu hỏi đuôi và exit line: điền chỗ trống và nghe xem người kia đáp lại thế nào.
+  <details><summary>📝 Script</summary>
+
+  ⚠️ Không có — Audio Script của Unit 7–10 (tr. 124–128) nằm trong khoảng OCR bị mất khi quét sách. Tra bản in giấy.
+
+  </details>
 
 ## Review and Consolidation 2
 
