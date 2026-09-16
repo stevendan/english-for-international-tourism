@@ -754,7 +754,7 @@ input[type="range"]::-moz-range-thumb {
 }
 
 @media (max-width: 900px) {
-  :root { --player-h: 68px; }
+  :root { --player-h: 112px; }
   .only-mobile  { display: grid; }
   .only-desktop { display: none; }
 
@@ -778,8 +778,15 @@ input[type="range"]::-moz-range-thumb {
   .prose { font-size: 16px; }
   .prose h3 { margin-top: 36px; font-size: 18.5px; }
 
-  .player { gap: 10px; padding: 0 10px; }
-  .player-extra #btnLoop, .player-extra #btnRate { display: none; }
+  .player {
+    flex-wrap: wrap;
+    align-content: center;
+    row-gap: 8px;
+    gap: 10px;
+    padding: 10px 10px calc(env(safe-area-inset-bottom) * .5 + 8px);
+  }
+  .player-body { order: -1; flex: 1 1 100%; }
+  .player-extra { margin-left: auto; }
   .pill--accent span { display: none; }
   .pill--accent { padding: 0 12px; }
   .player-meta span { display: none; }
