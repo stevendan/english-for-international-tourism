@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Sinh book-data.js — bản nhúng của business-result.md + danh sách tệp audio.
+"""Sinh book-data.js — bản nhúng của english-for-international-tourism.md + danh sách tệp audio.
 
-Trang đọc thẳng business-result.md khi chạy qua http. Mở bằng file:// thì fetch
+Trang đọc thẳng english-for-international-tourism.md khi chạy qua http. Mở bằng file:// thì fetch
 bị chặn, nên script.js quay về dùng window.BOOK_MD trong book-data.js.
 
     python build_data.py
@@ -12,7 +12,7 @@ import os
 import re
 
 HERE = os.path.dirname(os.path.abspath(__file__))
-SOURCE = os.path.join(HERE, "business-result.md")
+SOURCE = os.path.join(HERE, "english-for-international-tourism.md")
 AUDIO_DIR = os.path.join(HERE, "audio")
 TARGET = os.path.join(HERE, "book-data.js")
 
@@ -21,7 +21,7 @@ TRACK_RE = re.compile(r"^Track(\d+)_(\d+)\.mp3$", re.IGNORECASE)
 HEADER = (
     "// Tệp này được sinh tự động — đừng sửa tay.\n"
     "// Sinh lại: python build_data.py  "
-    "(hoặc chạy trang qua http để đọc thẳng business-result.md)\n"
+    "(hoặc chạy trang qua http để đọc thẳng english-for-international-tourism.md)\n"
 )
 
 

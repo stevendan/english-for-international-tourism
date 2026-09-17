@@ -4,12 +4,23 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>English for International Tourism — Intermediate</title>
-<meta name="description" content="Bản tóm tắt giáo trình English for International Tourism — Intermediate: mỗi unit gồm Mục tiêu, Từ vựng, Ngữ pháp, Practically speaking, Key expressions, Talking point, kèm trình phát audio để luyện nghe.">
+<meta name="description" content="Bản tóm tắt giáo trình English for International Tourism — Intermediate: mười unit theo khung sáu phần (Mục tiêu · Từ vựng · Ngữ pháp · Practically speaking · Key expressions · Talking point), 45 track luyện nghe kèm lời thoại gập mở, hai phần Review có đáp án và giải thích, Writing Bank và Grammar Reference.">
 <link rel="preload" as="font" type="font/woff2" href="fonts/inter-latin.woff2" crossorigin>
 <link rel="preload" as="font" type="font/woff2" href="fonts/inter-vietnamese.woff2" crossorigin>
 <link rel="stylesheet" href="fonts.css">
 <link rel="stylesheet" href="style.css">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📘</text></svg>">
+<script>
+/* Đặt giao diện TRƯỚC khi vẽ lần đầu. Nếu để script.js làm thì người dùng
+   chế độ tối sẽ thấy trang loé sáng một nhịp mỗi lần mở. */
+(() => {
+  try {
+    const saved = JSON.parse(localStorage.getItem('eit:theme'));
+    document.documentElement.dataset.theme = saved ||
+      (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+  } catch { /* chế độ riêng tư — giữ mặc định sáng */ }
+})();
+</script>
 </head>
 <body>
 
@@ -158,8 +169,9 @@
     <div class="modal-warn" id="libWarn">
       <strong>🎧 Bấm là nghe, không phải chọn tệp.</strong>
       Mỗi dấu 🎧 trong phần <em>Luyện nghe</em> của từng unit đã ghi rõ số track
-      (<em>Track 1.1 – 10.3</em>), bấm vào là phát ngay. Lời thoại nằm ở mục <em>Audio Script</em>.
-      Danh sách dưới đây để nghe tự do hoặc kiểm tra lại tệp.
+      (<em>Track 1.1 – 10.3</em>), bấm vào là phát ngay — và ngay dưới track là khối
+      <em>📝 Script</em> gập lại, nghe xong bấm mở để đối chiếu.
+      Danh sách dưới đây chỉ để nghe tự do hoặc kiểm tra lại tệp.
       <button class="link-btn" id="btnWarnHide">Đã hiểu, ẩn đi</button>
     </div>
 

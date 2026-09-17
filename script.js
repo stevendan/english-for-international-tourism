@@ -83,6 +83,41 @@ function mdToHtml(md) {
 
     const track = trackOf(raw);
 
+    /* Khối gập <details> — dùng cho lời thoại và đáp án.
+       Nội dung bên trong thụt hai dấu cách; bỏ thụt rồi dựng đệ quy.
+       Thẻ mở CÓ thụt lề → khối thuộc mục danh sách phía trên, nhét vào <li>
+       cuối để script nằm gọn dưới đúng cái track của nó.
+       Thẻ mở ở lề 0 → khối đứng riêng (đáp án của cả bài tập). */
+    const det = /^\s*<details(\s[^>]*)?>\s*(?:<summary>([\s\S]*?)<\/summary>)?\s*$/.exec(raw);
+    if (det) {
+      let summary = det[2] || 'Mở ra xem';
+      const buf = [];
+      let depth = 1;
+      for (i++; i < lines.length; i++) {
+        const line = lines[i];
+        if (/^\s*<details\b/.test(line)) depth++;
+        if (/^\s*<\/details>\s*$/.test(line)) { if (--depth === 0) break; }
+        const sum = /^\s*<summary>([\s\S]*?)<\/summary>\s*$/.exec(line);
+        if (sum && depth === 1 && !det[2]) { summary = sum[1]; continue; }
+        buf.push(line.replace(/^ {2}/, ''));
+      }
+      /* gộp class của tác giả vào .fold thay vì sinh hai attribute class */
+      const attrs = det[1] || '';
+      const cls = /class="([^"]*)"/.exec(attrs);
+      const html = `<details class="fold${cls ? ' ' + cls[1] : ''}"` +
+        `${attrs.replace(/\s*class="[^"]*"/, '')}>` +
+        `<summary>${inline(summary, { chips: false })}</summary>` +
+        `<div class="fold-body">${mdToHtml(buf.join('\n'))}</div></details>`;
+      if (/^\s+</.test(raw) && list && list.items.length) {
+        list.items[list.items.length - 1] =
+          list.items[list.items.length - 1].replace(/<\/li>$/, html + '</li>');
+      } else {
+        flush();
+        out.push(html);
+      }
+      continue;
+    }
+
     const head = /^(#{1,4})\s+(.*)$/.exec(raw);
     if (head) {
       flush();
@@ -141,7 +176,7 @@ function mdToHtml(md) {
 
 /* ═══════════ 2. TÁCH SÁCH THÀNH CÁC MỤC ═══════════ */
 
-const book = { front: [], sections: [], notes: [], index: [] };
+const book = { front: [], sections: [], notes: [], index: [], anchors: new Map() };
 
 function parseBook(md) {
   let current = null;
@@ -176,9 +211,18 @@ function parseBook(md) {
     const intro = sec.lines.find((l) => l.startsWith('> ') && !/⚠️/.test(l));
     sec.tagline = intro ? intro.replace(/^>\s?/, '').replace(/[*`]/g, '') : '';
 
+    /* mọi tiêu đề đều là điểm neo, để [liên kết](#…) trong nội dung nhảy đúng chỗ */
+    book.anchors.set(sec.id, { secId: sec.id, headId: null });
+
     sec.lessons = [];
     let head = null;
     for (const line of sec.lines) {
+      const anchor = /^#{3,4}\s+(.+)$/.exec(line);
+      if (anchor) {
+        const id = slug(anchor[1]);
+        if (!book.anchors.has(id)) book.anchors.set(id, { secId: sec.id, headId: id });
+      }
+
       const h3 = /^###\s+(.+)$/.exec(line);
       if (h3) {
         head = { id: slug(h3[1]), title: h3[1].trim() };
@@ -187,6 +231,7 @@ function parseBook(md) {
       }
       if (/^#{1,4}\s/.test(line) || !line.trim() || line.startsWith('>')) continue;
       if (/^\s*\|[\s:|-]+\|\s*$/.test(line)) continue;      // dòng phân cách của bảng
+      if (/^\s*<\/?(details|summary)\b/.test(line)) continue;  // vỏ khối gập
       book.index.push({
         sec, head,
         text: line.replace(/[*`#]/g, '').replace(/\s*\|\s*/g, ' · ')
@@ -507,7 +552,14 @@ function go(sectionId, headId = null, { push = true } = {}) {
 
   if (headId) {
     const target = document.getElementById(headId);
-    if (target) { target.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
+    if (target) {
+      /* tiêu đề nằm trong khối gập đang đóng thì mở ra, không thì cuộn tới chỗ trắng */
+      for (let el = target.closest('details'); el; el = el.parentElement.closest('details')) {
+        el.open = true;
+      }
+      target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      return;
+    }
   }
   window.scrollTo({ top: 0 });
 }
@@ -526,6 +578,23 @@ document.addEventListener('click', (e) => {
   if (!btn) return;
   e.preventDefault();
   go(btn.dataset.go || null, btn.dataset.head || null);
+});
+
+/* Liên kết [text](#tiêu-đề) trong nội dung và trong ghi chú trang chủ:
+   nhảy sang mục chứa tiêu đề đó, không chỉ đổi hash rồi đứng im. */
+document.addEventListener('click', (e) => {
+  const link = e.target.closest('.prose a[href^="#"], .notes a[href^="#"]');
+  if (!link) return;
+  const id = decodeURIComponent(link.getAttribute('href').slice(1));
+  if (!id) return;
+  e.preventDefault();
+
+  const target = book.anchors.get(id);
+  if (target) { go(target.secId, target.headId); return; }
+
+  const el = document.getElementById(id);
+  if (el) { el.scrollIntoView({ behavior: 'smooth', block: 'start' }); return; }
+  toast('Không tìm thấy mục “' + id + '”.');
 });
 
 $('#btnHome').addEventListener('click', (e) => { e.preventDefault(); go(null); });
@@ -649,7 +718,7 @@ function toast(message) {
 
 async function loadMarkdown() {
   try {
-    const res = await fetch('business-result.md', { cache: 'no-cache' });
+    const res = await fetch('english-for-international-tourism.md', { cache: 'no-cache' });
     if (res.ok) {
       const text = await res.text();
       if (text.trim().startsWith('#')) return text;
@@ -666,7 +735,7 @@ async function loadMarkdown() {
   const md = await loadMarkdown();
   if (!md) {
     $('#docBody').innerHTML =
-      '<p class="empty">Không đọc được <code>business-result.md</code> và cũng không thấy ' +
+      '<p class="empty">Không đọc được <code>english-for-international-tourism.md</code> và cũng không thấy ' +
       '<code>book-data.js</code>. Hãy chạy trang qua một máy chủ tĩnh, ví dụ ' +
       '<code>python -m http.server</code>.</p>';
     showView('doc');

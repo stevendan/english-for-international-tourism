@@ -313,15 +313,22 @@ main {
 
 /* ── Notes ── */
 .notes { display: grid; gap: 10px; margin-top: 18px; }
+/* Phải là block: các ghi chú có nhiều đoạn **in đậm**, mà trong một flex
+   container thì mỗi <strong> bị biến thành flex item và câu bị xé thành cột. */
 .note {
-  display: flex; gap: 11px;
   padding: 13px 16px;
   background: var(--amber-soft);
   border: 1px solid color-mix(in srgb, var(--amber) 28%, transparent);
   border-radius: var(--radius-sm);
-  font-size: 13.5px; line-height: 1.55; color: var(--ink);
+  font-size: 13.5px; line-height: 1.6; color: var(--ink);
 }
-.note b { color: var(--amber); }
+.note b, .note strong { color: var(--amber); }
+.note a { color: var(--accent); font-weight: 600; text-underline-offset: 2px; }
+.note code {
+  padding: 1px 5px; border-radius: 4px;
+  background: color-mix(in srgb, var(--amber) 14%, transparent);
+  font-size: .92em;
+}
 
 /* ── Cards ── */
 .card-grid {
@@ -474,6 +481,54 @@ main {
 }
 
 .prose hr { border: 0; border-top: 1px solid var(--line); margin: 30px 0; }
+
+/* ── Khối gập: lời thoại, đáp án, gợi ý ── */
+.prose .fold {
+  margin: 10px 0 18px;
+  background: var(--bg-elev);
+  border: 1px solid var(--line);
+  border-radius: var(--radius-sm);
+  overflow: hidden;
+}
+.prose li > .fold { margin: 10px 0 4px; }
+
+.prose .fold > summary {
+  display: flex; align-items: center; gap: 8px;
+  padding: 10px 14px; cursor: pointer;
+  list-style: none;
+  font-family: var(--font-ui); font-size: 13px; font-weight: 650;
+  letter-spacing: -.01em; color: var(--ink-soft);
+  transition: background .13s, color .13s;
+}
+.prose .fold > summary::-webkit-details-marker { display: none; }
+.prose .fold > summary::after {
+  content: "▸"; margin-left: auto;
+  font-size: 11px; color: var(--ink-faint);
+  transition: transform .18s;
+}
+.prose .fold[open] > summary::after { transform: rotate(90deg); }
+.prose .fold > summary:hover { background: var(--bg-sunken); color: var(--ink); }
+.prose .fold[open] > summary {
+  background: var(--bg-sunken);
+  border-bottom: 1px solid var(--line);
+  color: var(--ink);
+}
+
+.prose .fold-body {
+  padding: 15px 16px 2px;
+  font-size: 15px; line-height: 1.7;
+}
+.prose .fold-body > *:last-child { margin-bottom: 14px; }
+.prose .fold-body h4 { margin-top: 18px; }
+.prose .fold-body h4:first-child { margin-top: 2px; }
+
+/* Khối gập chứa đáp án — nhấn bằng màu hổ phách để không bấm hớ */
+.prose .fold.key { border-color: color-mix(in srgb, var(--amber) 34%, transparent); }
+.prose .fold.key > summary { color: var(--amber); }
+.prose .fold.key[open] > summary {
+  background: var(--amber-soft);
+  border-bottom-color: color-mix(in srgb, var(--amber) 28%, transparent);
+}
 
 /* ── Bảng ── */
 .table-wrap {
@@ -811,12 +866,19 @@ input[type="range"]::-moz-range-thumb {
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after {
     animation-duration: .01ms !important;
+    animation-iteration-count: 1 !important;
     transition-duration: .01ms !important;
   }
+  /* Các animation này mở đầu ở opacity 0. Rút ngắn thời lượng là không đủ —
+     phải tắt hẳn, nếu không nội dung có thể đứng lại ở trạng thái vô hình. */
+  .view, .scrim, .modal-scrim, .modal-card, .toast { animation: none !important; }
 }
 
 @media print {
   .topbar, .sidebar, .player, .pager, .crumbs, .progressbar, .modal { display: none !important; }
   main { padding: 0; }
+  .view { animation: none !important; }       /* nếu không, trang in ra trắng */
   .chip-audio { border: 1px solid #999; }
+  .fold[open] > summary { border-bottom: 1px solid #999; }
+  .fold-body { display: block !important; }
 }
